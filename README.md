@@ -5,7 +5,7 @@ OpenStreetMap用のエディタJOSMで使える樹木のプリセットを作っ
 
 XMLを手で打つのはとてもたいへんなので、
 
-- 一覧性のあるスプレッドシートで編集
+- 一覧性のある[スプレッドシート](https://docs.google.com/spreadsheets/d/1DRhRnFOnIq7Wdb4OhTd7zIIFfKHVGm_kbLSh-fjYabY/)で編集
 - TSVをダウンロード
 - JOSMプリセットファイル (XML) を生成
 
