@@ -4,6 +4,7 @@
     <text key="operator" text="運営者"/>
     <text key="ref" text="参照番号"/>
     <text key="height" text="高さ(m)"/>
+    <text key="circumference" text="幹の外周(m)"/>
     <combo key="denotation" text="特徴" values="landmark,natural_monument,avenue,urban"/>
     <check key="monument" text="記念樹"/>
   </chunk>
