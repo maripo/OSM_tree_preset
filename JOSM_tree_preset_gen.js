@@ -142,6 +142,7 @@ function parse (content) {
 	chunk.ele("text",{ "key":"operator", "text":"運営者" });
 	chunk.ele("text",{ "key":"ref", "text":"参照番号" });
 	chunk.ele("text",{ "key":"height", "text":"高さ(m)" });
+	chunk.ele("text",{ "key":"circumference", "text":"幹の外周(m)" });
 	chunk.ele("combo", {"key":"denotation", "text":"特徴", "values":"landmark,natural_monument,avenue,urban"});
 	chunk.ele("check", {"key":"monument", "text":"記念樹"});
 	
