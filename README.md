@@ -42,5 +42,6 @@ https://docs.google.com/spreadsheets/d/1VHpA0TkoLqhM3QFx9kJ2uchkXc1Lkd8koPZb6vgG
 - Wikidata対応
 - WikidataやWikispeciesをクローリングして生成するのもいいかも
 
---
-作り始めた人: @MaripoGoda
+## 作ってる人
+
+ごうだまりぽ (OSM:maripogoda, Twitter:MaripoGoda)
