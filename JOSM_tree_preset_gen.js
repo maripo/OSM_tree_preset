@@ -67,6 +67,16 @@ class FieldCombo {
 	}
 }
 
+class FieldLink {
+	constructor () {
+	}
+	append (node, value) {
+		if (value && value.length > 0) {
+			node.ele("link", {"href":"https://www.wikidata.org/wiki/" + value});
+		}
+	}
+}
+
 const COLUMNS = [
 	new FieldRootAttr("name"),
 	new FieldAnnotatedText("leaf_type"),
@@ -76,7 +86,8 @@ const COLUMNS = [
 	new FieldText("genus:en"),
 	new FieldText("taxon"),
 	new FieldCombo("sex", "雌雄", ["male","female"]),
-	new FieldAnnotatedText("leaf_cycle")
+	new FieldAnnotatedText("leaf_cycle"),
+	new FieldLink()
 ];
 
 class Group {

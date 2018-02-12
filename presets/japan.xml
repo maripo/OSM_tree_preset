@@ -19,6 +19,7 @@
       <key key="genus:en" value="Ginkgo"/>
       <combo key="sex" text="雌雄" values="male,female"/>
       <key key="leaf_cycle" value="deciduous"/>
+      <link href="https://www.wikidata.org/wiki/Q43284"/>
       <reference ref="japan_trees"/>
     </item>
     <item name="スギ" icon="presets/landmark/trees.svg">
@@ -52,6 +53,7 @@
       <key key="genus:ja" value="アカマツ"/>
       <key key="genus:en" value="Japanese Red Pine"/>
       <key key="leaf_cycle" value="evergreen"/>
+      <link href="https://www.wikidata.org/wiki/Q1044186"/>
       <reference ref="japan_trees"/>
     </item>
     <item name="クロマツ" icon="presets/landmark/trees.svg">
@@ -63,6 +65,7 @@
       <key key="genus:ja" value="クロマツ"/>
       <key key="genus:en" value="Japanese Black Pine"/>
       <key key="leaf_cycle" value="evergreen"/>
+      <link href="https://www.wikidata.org/wiki/Q854884"/>
       <reference ref="japan_trees"/>
     </item>
     <item name="クスノキ" icon="presets/landmark/trees.svg">
@@ -74,6 +77,7 @@
       <key key="genus:ja" value="クスノキ"/>
       <key key="genus:en" value="Camphorwood"/>
       <key key="leaf_cycle" value="evergreen"/>
+      <link href="https://www.wikidata.org/wiki/Q158722"/>
       <reference ref="japan_trees"/>
     </item>
     <item name="ケヤキ" icon="presets/landmark/trees.svg">
