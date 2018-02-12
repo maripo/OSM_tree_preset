@@ -39,7 +39,28 @@
       <key key="genus:ja" value="マツ"/>
       <key key="genus:en" value="Pine"/>
       <key key="taxon" value="genus"/>
-      <combo key="sex" text="雌雄" values="male,female"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="アカマツ" icon="presets/landmark/trees.svg">
+      <label text="アカマツ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="needleleaved"/>
+      <key key="genus" value="Pinus"/>
+      <key key="species" value="Pinus densiflora"/>
+      <key key="genus:ja" value="アカマツ"/>
+      <key key="genus:en" value="Japanese Red Pine"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="クロマツ" icon="presets/landmark/trees.svg">
+      <label text="クロマツ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="needleleaved"/>
+      <key key="genus" value="Pinus"/>
+      <key key="species" value="Pinus thunbergii"/>
+      <key key="genus:ja" value="クロマツ"/>
+      <key key="genus:en" value="Japanese Black Pine"/>
       <key key="leaf_cycle" value="evergreen"/>
       <reference ref="japan_trees"/>
     </item>
@@ -184,6 +205,26 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="species" value="Platanus orientalis"/>
       <key key="genus:ja" value="スズカケノキ"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="コブシ" icon="presets/landmark/trees.svg">
+      <label text="コブシ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="species" value="Magnolia kobus"/>
+      <key key="genus:ja" value="コブシ"/>
+      <key key="genus:en" value="Kobushi magnolia"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="ミズキ" icon="presets/landmark/trees.svg">
+      <label text="ミズキ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="species" value="Cornus controversa"/>
+      <key key="genus:ja" value="ミズキ"/>
+      <key key="genus:en" value="giant dogwood"/>
       <key key="leaf_cycle" value="deciduous"/>
       <reference ref="japan_trees"/>
     </item>
