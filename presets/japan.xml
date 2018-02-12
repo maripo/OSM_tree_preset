@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Maripo GODA and contributors" description="日本でよく見られる樹木のプリセットです" shortdescription="日本の樹木">
+  <chunk id="japan_trees">
+    <text key="operator" text="運営者"/>
+    <text key="ref" text="参照番号"/>
+    <text key="height" text="高さ(m)"/>
+    <combo key="denotation" text="特徴" values="landmark,natural_monument,avenue,urban"/>
+    <check key="monument" text="記念樹"/>
+  </chunk>
+  <group name="樹木">
+    <item name="イチョウ" icon="presets/landmark/trees.svg">
+      <label text="イチョウ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="needleleaved"/>
+      <key key="genus" value="Ginkgo"/>
+      <key key="species" value="Ginkgo biloba"/>
+      <key key="genus:ja" value="イチョウ"/>
+      <key key="genus:en" value="Ginkgo"/>
+      <combo key="sex" text="雌雄" values="male,female"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="スギ" icon="presets/landmark/trees.svg">
+      <label text="スギ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="needleleaved"/>
+      <key key="genus" value="Cryptomeria"/>
+      <key key="species" value="Cryptomeria japonica"/>
+      <key key="genus:ja" value="スギ"/>
+      <key key="genus:en" value="Cryptomeria"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="マツ (総称)" icon="presets/landmark/trees.svg">
+      <label text="マツ (総称)"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="needleleaved"/>
+      <key key="genus" value="Pinus"/>
+      <key key="genus:ja" value="マツ"/>
+      <key key="genus:en" value="Pine"/>
+      <key key="taxon" value="genus"/>
+      <combo key="sex" text="雌雄" values="male,female"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="クスノキ" icon="presets/landmark/trees.svg">
+      <label text="クスノキ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Cinnamomum"/>
+      <key key="species" value="Cinnamomum camphora"/>
+      <key key="genus:ja" value="クスノキ"/>
+      <key key="genus:en" value="Camphorwood"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="ケヤキ" icon="presets/landmark/trees.svg">
+      <label text="ケヤキ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Zelkova"/>
+      <key key="species" value="Zelkova serrata"/>
+      <key key="genus:ja" value="ケヤキ"/>
+      <key key="genus:en" value="Japanese zelkova"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="ウメ" icon="presets/landmark/trees.svg">
+      <label text="ウメ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Prunus"/>
+      <key key="species" value="Prunus mume"/>
+      <key key="genus:ja" value="ウメ"/>
+      <key key="genus:en" value="Japanese apricot"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="ヒノキ" icon="presets/landmark/trees.svg">
+      <label text="ヒノキ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="needleleaved"/>
+      <key key="genus" value="Chamaecyparis"/>
+      <key key="species" value="Chamaecyparis obtusa"/>
+      <key key="genus:ja" value="ヒノキ"/>
+      <key key="genus:en" value="Japanese cypress"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="メタセコイア" icon="presets/landmark/trees.svg">
+      <label text="メタセコイア"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="needleleaved"/>
+      <key key="genus" value="Metasequoia"/>
+      <key key="species" value="Metasequoia glyptostroboides"/>
+      <key key="genus:ja" value="メタセコイア"/>
+      <key key="genus:en" value="Dawn redwood"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <group name="サクラ">
+      <item name="サクラ (総称)" icon="presets/landmark/trees.svg">
+        <label text="サクラ (総称)"/>
+        <text key="name" text="名前"/>
+        <key key="leaf_type" value="broadleaved"/>
+        <key key="genus" value="Cerasus"/>
+        <key key="genus:ja" value="サクラ"/>
+        <key key="genus:en" value="Cherry blossom"/>
+        <key key="leaf_cycle" value="deciduous"/>
+        <reference ref="japan_trees"/>
+      </item>
+      <item name="ソメイヨシノ" icon="presets/landmark/trees.svg">
+        <label text="ソメイヨシノ"/>
+        <text key="name" text="名前"/>
+        <key key="leaf_type" value="broadleaved"/>
+        <key key="genus" value="Cerasus"/>
+        <key key="species" value="Cerasus × yedoensis"/>
+        <key key="genus:ja" value="ソメイヨシノ"/>
+        <key key="leaf_cycle" value="deciduous"/>
+        <reference ref="japan_trees"/>
+      </item>
+      <item name="ヤマザクラ" icon="presets/landmark/trees.svg">
+        <label text="ヤマザクラ"/>
+        <text key="name" text="名前"/>
+        <key key="leaf_type" value="broadleaved"/>
+        <key key="genus" value="Cerasus"/>
+        <key key="species" value="Cerasus jamasakura"/>
+        <key key="genus:ja" value="ヤマザクラ"/>
+        <key key="leaf_cycle" value="deciduous"/>
+        <reference ref="japan_trees"/>
+      </item>
+    </group>
+    <group name="ヤナギ">
+      <item name="ヤナギ (総称)" icon="presets/landmark/trees.svg">
+        <label text="ヤナギ (総称)"/>
+        <text key="name" text="名前"/>
+        <key key="leaf_type" value="broadleaved"/>
+        <key key="genus" value="Salix"/>
+        <key key="genus:ja" value="ヤナギ"/>
+        <key key="genus:en" value="Willow"/>
+        <key key="taxon" value="genus"/>
+        <combo key="sex" text="雌雄" values="male,female"/>
+        <key key="leaf_cycle" value="deciduous"/>
+        <reference ref="japan_trees"/>
+      </item>
+      <item name="シダレヤナギ" icon="presets/landmark/trees.svg">
+        <label text="シダレヤナギ"/>
+        <text key="name" text="名前"/>
+        <key key="leaf_type" value="broadleaved"/>
+        <key key="genus" value="Salix"/>
+        <key key="species" value="Salix babylonica"/>
+        <key key="genus:ja" value="シダレヤナギ"/>
+        <key key="genus:en" value="Weeping willow"/>
+        <combo key="sex" text="雌雄" values="male,female"/>
+        <key key="leaf_cycle" value="deciduous"/>
+        <reference ref="japan_trees"/>
+      </item>
+    </group>
+    <item name="ポプラ (総称)" icon="presets/landmark/trees.svg">
+      <label text="ポプラ (総称)"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Populus"/>
+      <key key="genus:ja" value="ポプラ"/>
+      <key key="genus:en" value="Poplar"/>
+      <key key="taxon" value="genus"/>
+      <combo key="sex" text="雌雄" values="male,female"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="イロハモミジ" icon="presets/landmark/trees.svg">
+      <label text="イロハモミジ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="species" value="Acer palmatum"/>
+      <key key="genus:ja" value="イロハモミジ"/>
+      <key key="genus:en" value="Japanese maple"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="スズカケノキ" icon="presets/landmark/trees.svg">
+      <label text="スズカケノキ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="species" value="Platanus orientalis"/>
+      <key key="genus:ja" value="スズカケノキ"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <reference ref="japan_trees"/>
+    </item>
+  </group>
+</presets>

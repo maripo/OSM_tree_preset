@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Maripo GODA and contributors" description="日本でよく見られる樹木のプリセットです" shortdescription="日本の樹木">
+  <chunk id="japan_trees">
+    <text key="operator" text="運営者"/>
+    <text key="ref" text="参照番号"/>
+    <text key="height" text="高さ(m)"/>
+    <combo key="denotation" text="特徴" values="landmark,natural_monument,avenue,urban"/>
+    <check key="monument" text="記念樹"/>
+  </chunk>
+  <group name="樹木">
+    <item name="ガジュマル" icon="presets/landmark/trees.svg">
+      <label text="ガジュマル"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Ficus"/>
+      <key key="species" value="Ficus microcarpa・Malayan Banyan・Banyan fig・Indian laurel"/>
+      <key key="genus:ja" value="溶樹"/>
+      <key key="genus:en" value="Chinese Banyan"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="リュウキュウマツ" icon="presets/landmark/trees.svg">
+      <label text="リュウキュウマツ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="needleleaved"/>
+      <key key="genus" value="Pinus"/>
+      <key key="species" value="Pinus luchuensis"/>
+      <key key="genus:ja" value="琉球松"/>
+      <key key="genus:en" value="Ryukyu Island pine"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="ホウオウボク" icon="presets/landmark/trees.svg">
+      <label text="ホウオウボク"/>
+      <text key="name" text="名前"/>
+      <key key="genus" value="Delonix"/>
+      <key key="species" value="Delonix regia"/>
+      <key key="genus:ja" value="鳳凰木"/>
+      <key key="genus:en" value="royal poinciana"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="フクギ" icon="presets/landmark/trees.svg">
+      <label text="フクギ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Garcinia"/>
+      <key key="species" value="Garcinia subelliptica"/>
+      <key key="genus:ja" value="福木"/>
+      <key key="genus:en" value="Common garcinia"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="アカギ" icon="presets/landmark/trees.svg">
+      <label text="アカギ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Bischofia"/>
+      <key key="species" value="Bischofia javanica"/>
+      <key key="genus:ja" value="赤木"/>
+      <key key="genus:en" value="Bishop wood"/>
+      <combo key="sex" text="雌雄" values="male,female"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="モクマオウ" icon="presets/landmark/trees.svg">
+      <label text="モクマオウ"/>
+      <text key="name" text="名前"/>
+      <key key="genus" value="Casuarina"/>
+      <key key="species" value="Casuarina equisetifolia"/>
+      <key key="genus:ja" value="木麻黄"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="トックリキワタ" icon="presets/landmark/trees.svg">
+      <label text="トックリキワタ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Ceiba"/>
+      <key key="species" value="Ceiba speciosa"/>
+      <key key="genus:ja" value="トックリキワタ"/>
+      <key key="genus:en" value="Floss silk tree"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="イヌマキ" icon="presets/landmark/trees.svg">
+      <label text="イヌマキ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="needleleaved"/>
+      <key key="genus" value="Podocarpus"/>
+      <key key="species" value="Podocarpus macrophyllus"/>
+      <key key="genus:ja" value="犬槇"/>
+      <combo key="sex" text="雌雄" values="male,female"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="ナンヨウスギ" icon="presets/landmark/trees.svg">
+      <label text="ナンヨウスギ"/>
+      <text key="name" text="名前"/>
+      <key key="genus" value="Araucaria"/>
+      <key key="species" value="Araucaria cunninghamii"/>
+      <key key="genus:ja" value="ナンヨウスギ"/>
+      <key key="genus:en" value="colonial pine"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="リュウキュウハゼ" icon="presets/landmark/trees.svg">
+      <label text="リュウキュウハゼ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Toxicodendron"/>
+      <key key="species" value="Toxicodendron succedaneum"/>
+      <key key="genus:ja" value="ハゼノキ"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="アダン" icon="presets/landmark/trees.svg">
+      <label text="アダン"/>
+      <text key="name" text="名前"/>
+      <key key="genus" value="Pandanus"/>
+      <key key="species" value="Pandanus odoratissimus"/>
+      <key key="genus:ja" value="阿檀"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <group name="ヤシノキ（総称）">
+      <item name="トックリヤシ" icon="presets/landmark/trees.svg">
+        <label text="トックリヤシ"/>
+        <text key="name" text="名前"/>
+        <key key="genus" value="Hyophorbe"/>
+        <key key="species" value="Hyophorbe lagenicaulis"/>
+        <key key="genus:ja" value="トックリヤシ"/>
+        <key key="genus:en" value="bottle palm"/>
+        <key key="leaf_cycle" value="evergreen"/>
+        <reference ref="japan_trees"/>
+      </item>
+      <item name="トックリヤシモドキ" icon="presets/landmark/trees.svg">
+        <label text="トックリヤシモドキ"/>
+        <text key="name" text="名前"/>
+        <key key="genus" value="Mascarena"/>
+        <key key="species" value="Mascarena verschaffeltii"/>
+        <key key="genus:ja" value="トックリヤシモドキ"/>
+        <key key="genus:en" value="spindle palm"/>
+        <key key="leaf_cycle" value="evergreen"/>
+        <reference ref="japan_trees"/>
+      </item>
+      <item name="ヤエヤマヤシ" icon="presets/landmark/trees.svg">
+        <label text="ヤエヤマヤシ"/>
+        <text key="name" text="名前"/>
+        <key key="genus" value="Satakentia"/>
+        <key key="species" value="Satakentia liukiuensis"/>
+        <key key="genus:ja" value="八重山椰子"/>
+        <key key="leaf_cycle" value="evergreen"/>
+        <reference ref="japan_trees"/>
+      </item>
+    </group>
+    <group name="バショウ（総称）">
+      <item name="バショウ" icon="presets/landmark/trees.svg">
+        <label text="バショウ"/>
+        <text key="name" text="名前"/>
+        <key key="genus" value="Musa"/>
+        <key key="species" value="Musa basjoo"/>
+        <key key="genus:ja" value="芭蕉"/>
+        <key key="genus:en" value="Japanese fiber banana"/>
+        <key key="leaf_cycle" value="evergreen"/>
+        <reference ref="japan_trees"/>
+      </item>
+      <item name="バナナ" icon="presets/landmark/trees.svg">
+        <label text="バナナ"/>
+        <text key="name" text="名前"/>
+        <key key="genus" value="Musa"/>
+        <key key="species" value="Musa spp"/>
+        <key key="genus:ja" value="バナナ"/>
+        <key key="genus:en" value="Banana"/>
+        <key key="leaf_cycle" value="evergreen"/>
+        <reference ref="japan_trees"/>
+      </item>
+    </group>
+    <group name="マングローブ（総称）">
+      <item name="オヒルギ" icon="presets/landmark/trees.svg">
+        <label text="オヒルギ"/>
+        <text key="name" text="名前"/>
+        <key key="genus" value="Bruguiera"/>
+        <key key="species" value="Bruguiera gymnorhiza"/>
+        <key key="genus:ja" value="雄蛭木"/>
+        <key key="genus:en" value="Black mangrove"/>
+        <key key="leaf_cycle" value="evergreen"/>
+        <reference ref="japan_trees"/>
+      </item>
+      <item name="メヒルギ" icon="presets/landmark/trees.svg">
+        <label text="メヒルギ"/>
+        <text key="name" text="名前"/>
+        <key key="genus" value="Kandelia"/>
+        <key key="species" value="Kandelia obovata"/>
+        <key key="genus:ja" value="雌蛭木"/>
+        <key key="leaf_cycle" value="evergreen"/>
+        <reference ref="japan_trees"/>
+      </item>
+      <item name="ヤエヤマヒルギ" icon="presets/landmark/trees.svg">
+        <label text="ヤエヤマヒルギ"/>
+        <text key="name" text="名前"/>
+        <key key="genus" value="Rhizophora"/>
+        <key key="species" value="Rhizophora mucronata"/>
+        <key key="genus:ja" value="八重山蛭木"/>
+        <key key="leaf_cycle" value="evergreen"/>
+        <reference ref="japan_trees"/>
+      </item>
+      <item name="ヒルギモドキ" icon="presets/landmark/trees.svg">
+        <label text="ヒルギモドキ"/>
+        <text key="name" text="名前"/>
+        <key key="genus" value="Lumnitzera"/>
+        <key key="species" value="Lumnitzera racemosa"/>
+        <key key="genus:ja" value="蛭木擬"/>
+        <key key="leaf_cycle" value="evergreen"/>
+        <reference ref="japan_trees"/>
+      </item>
+      <item name="ヒルギダマシ" icon="presets/landmark/trees.svg">
+        <label text="ヒルギダマシ"/>
+        <text key="name" text="名前"/>
+        <key key="genus" value="Avicennia"/>
+        <key key="species" value="Avicennia marina"/>
+        <key key="genus:ja" value="蛭木騙し"/>
+        <key key="genus:en" value="grey mangrove・white mangrove"/>
+        <key key="leaf_cycle" value="evergreen"/>
+        <reference ref="japan_trees"/>
+      </item>
+      <item name="マヤプシキ" icon="presets/landmark/trees.svg">
+        <label text="マヤプシキ"/>
+        <text key="name" text="名前"/>
+        <key key="genus" value="Sonneratia"/>
+        <key key="species" value="Sonneratia alba"/>
+        <key key="genus:ja" value="マヤプシキ・浜柘榴"/>
+        <key key="leaf_cycle" value="evergreen"/>
+        <reference ref="japan_trees"/>
+      </item>
+    </group>
+  </group>
+</presets>
