@@ -13,7 +13,9 @@ XMLを手で打つのはとてもたいへんなので、
 
 ## JOSMに入れて使ってみたい
 
-- XMLファイルをダウンロード
+- XMLファイルをダウンロードします
+	- 東京版 [https://raw.githubusercontent.com/maripo/OSM_tree_preset/master/presets/japan.xml](https://raw.githubusercontent.com/maripo/OSM_tree_preset/master/presets/japan.xml)
+	- 沖縄版 [https://raw.githubusercontent.com/maripo/OSM_tree_preset/master/presets/okinawa.xml](https://raw.githubusercontent.com/maripo/OSM_tree_preset/master/presets/okinawa.xml)
 - "プリセット > プリセット設定" または "Preferences... > マップ設定 > タグ付けプリセット" でプリセットタブを開き、右上の "+" アイコンをクリックします。
 "URL / ファイル名" でファイルを指定すると使えるようになります。
 
@@ -22,11 +24,11 @@ XMLを手で打つのはとてもたいへんなので、
 今のところスプレッドシートは誰でも編集できるようにしています。まだサポートしている樹種が足りないので「使いそう」と思った樹木があったら調べて入れてください。
 いたずらされたり修正が必要になったりしたらちょっといじるかもしれません。更新があったら時々ファイルを生成しなおします。
 
-https://docs.google.com/spreadsheets/d/1DRhRnFOnIq7Wdb4OhTd7zIIFfKHVGm_kbLSh-fjYabY/
+- https://docs.google.com/spreadsheets/d/1DRhRnFOnIq7Wdb4OhTd7zIIFfKHVGm_kbLSh-fjYabY/
 
 Facebookで有志の方が作ってくださった沖縄編のデータです。こちらは readonly っぽいです。
 
-https://docs.google.com/spreadsheets/d/1VHpA0TkoLqhM3QFx9kJ2uchkXc1Lkd8koPZb6vgG84Q/
+- https://docs.google.com/spreadsheets/d/1VHpA0TkoLqhM3QFx9kJ2uchkXc1Lkd8koPZb6vgG84Q/
 
 ## 生成してみたい!
 
