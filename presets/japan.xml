@@ -33,6 +33,16 @@
       <key key="leaf_cycle" value="evergreen"/>
       <reference ref="japan_trees"/>
     </item>
+    <item name="ヒマラヤスギ" icon="presets/landmark/trees.svg">
+      <label text="ヒマラヤスギ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="needleleaved"/>
+      <key key="species" value="Cedrus deodara"/>
+      <key key="genus:ja" value="ヒマラヤスギ"/>
+      <key key="genus:en" value="Himalayan Cedar"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <reference ref="japan_trees"/>
+    </item>
     <item name="マツ (総称)" icon="presets/landmark/trees.svg">
       <label text="マツ (総称)"/>
       <text key="name" text="名前"/>
@@ -89,6 +99,7 @@
       <key key="genus:ja" value="ケヤキ"/>
       <key key="genus:en" value="Japanese zelkova"/>
       <key key="leaf_cycle" value="deciduous"/>
+      <link href="https://www.wikidata.org/wiki/Q920344"/>
       <reference ref="japan_trees"/>
     </item>
     <item name="ウメ" icon="presets/landmark/trees.svg">
@@ -100,6 +111,7 @@
       <key key="genus:ja" value="ウメ"/>
       <key key="genus:en" value="Japanese apricot"/>
       <key key="leaf_cycle" value="deciduous"/>
+      <link href="https://www.wikidata.org/wiki/Q157763"/>
       <reference ref="japan_trees"/>
     </item>
     <item name="ヒノキ" icon="presets/landmark/trees.svg">
@@ -111,6 +123,7 @@
       <key key="genus:ja" value="ヒノキ"/>
       <key key="genus:en" value="Japanese cypress"/>
       <key key="leaf_cycle" value="evergreen"/>
+      <link href="https://www.wikidata.org/wiki/Q917187"/>
       <reference ref="japan_trees"/>
     </item>
     <item name="メタセコイア" icon="presets/landmark/trees.svg">
@@ -122,6 +135,7 @@
       <key key="genus:ja" value="メタセコイア"/>
       <key key="genus:en" value="Dawn redwood"/>
       <key key="leaf_cycle" value="evergreen"/>
+      <link href="https://www.wikidata.org/wiki/Q156800"/>
       <reference ref="japan_trees"/>
     </item>
     <group name="サクラ">
@@ -198,6 +212,7 @@
       <label text="イロハモミジ"/>
       <text key="name" text="名前"/>
       <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Acer"/>
       <key key="species" value="Acer palmatum"/>
       <key key="genus:ja" value="イロハモミジ"/>
       <key key="genus:en" value="Japanese maple"/>
@@ -208,6 +223,7 @@
       <label text="スズカケノキ"/>
       <text key="name" text="名前"/>
       <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Platanus"/>
       <key key="species" value="Platanus orientalis"/>
       <key key="genus:ja" value="スズカケノキ"/>
       <key key="leaf_cycle" value="deciduous"/>
@@ -217,20 +233,60 @@
       <label text="コブシ"/>
       <text key="name" text="名前"/>
       <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Magnolia"/>
       <key key="species" value="Magnolia kobus"/>
       <key key="genus:ja" value="コブシ"/>
       <key key="genus:en" value="Kobushi magnolia"/>
       <key key="leaf_cycle" value="deciduous"/>
+      <link href="https://www.wikidata.org/wiki/Q942409"/>
       <reference ref="japan_trees"/>
     </item>
     <item name="ミズキ" icon="presets/landmark/trees.svg">
       <label text="ミズキ"/>
       <text key="name" text="名前"/>
       <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Cornus"/>
       <key key="species" value="Cornus controversa"/>
       <key key="genus:ja" value="ミズキ"/>
       <key key="genus:en" value="giant dogwood"/>
       <key key="leaf_cycle" value="deciduous"/>
+      <link href="https://www.wikidata.org/wiki/Q926249"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="キンモクセイ" icon="presets/landmark/trees.svg">
+      <label text="キンモクセイ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Osmanthus"/>
+      <key key="species" value="Osmanthus fragrans var. aurantiacus"/>
+      <key key="genus:ja" value="キンモクセイ"/>
+      <key key="genus:en" value="fragrant orange-colored olive"/>
+      <combo key="sex" text="雌雄" values="male,female"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <link href="https://www.wikidata.org/wiki/Q1209922"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="オリーブ" icon="presets/landmark/trees.svg">
+      <label text="オリーブ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Olea"/>
+      <key key="species" value="Olea europaea"/>
+      <key key="genus:ja" value="オリーブ"/>
+      <key key="genus:en" value="Olive"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="ユリノキ" icon="presets/landmark/trees.svg">
+      <label text="ユリノキ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Liriodendron"/>
+      <key key="species" value="Liriodendron tulipifera"/>
+      <key key="genus:ja" value="ユリノキ"/>
+      <key key="genus:en" value="American tulip tree"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <link href="https://www.wikidata.org/wiki/Q158783"/>
       <reference ref="japan_trees"/>
     </item>
   </group>
