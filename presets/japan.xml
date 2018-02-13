@@ -289,5 +289,89 @@
       <link href="https://www.wikidata.org/wiki/Q158783"/>
       <reference ref="japan_trees"/>
     </item>
+    <item name="エンジュ" icon="presets/landmark/trees.svg">
+      <label text="エンジュ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Styphnolobium"/>
+      <key key="species" value="Styphnolobium japonicum"/>
+      <key key="genus:ja" value="エンジュ"/>
+      <key key="genus:en" value="Japanese Pagoda Tree"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <link href="https://www.wikidata.org/wiki/Q288558"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="フジ" icon="presets/landmark/trees.svg">
+      <label text="フジ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Wisteria"/>
+      <key key="species" value="Wisteria floribunda"/>
+      <key key="genus:ja" value="フジ"/>
+      <key key="genus:en" value="Japanese wisteria"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <link href="https://www.wikidata.org/wiki/Q1329209"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="ビワ" icon="presets/landmark/trees.svg">
+      <label text="ビワ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Eriobotrya"/>
+      <key key="species" value="Eriobotrya japonica"/>
+      <key key="genus:ja" value="ビワ"/>
+      <key key="genus:en" value="Loquat"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <link href="https://www.wikidata.org/wiki/Q41505"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="ツバキ" icon="presets/landmark/trees.svg">
+      <label text="ツバキ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Camellia"/>
+      <key key="species" value="Camellia japonica"/>
+      <key key="genus:ja" value="ツバキ"/>
+      <key key="genus:en" value="Japanese camellia"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <link href="https://www.wikidata.org/wiki/Q160121"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="サザンカ" icon="presets/landmark/trees.svg">
+      <label text="サザンカ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Camellia"/>
+      <key key="species" value="Camellia sasanqua"/>
+      <key key="genus:ja" value="サザンカ"/>
+      <key key="genus:en" value="Sasanqua"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <link href="https://www.wikidata.org/wiki/Q2590046"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="ザクロ" icon="presets/landmark/trees.svg">
+      <label text="ザクロ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Punica"/>
+      <key key="species" value="Punica granatum"/>
+      <key key="genus:ja" value="ザクロ"/>
+      <key key="genus:en" value="Pomegranate"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <link href="https://www.wikidata.org/wiki/Q13188"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="ニセアカシア" icon="presets/landmark/trees.svg">
+      <label text="ニセアカシア"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Robinia"/>
+      <key key="species" value="Robinia pseudoacacia"/>
+      <key key="genus:ja" value="ニセアカシア"/>
+      <key key="genus:en" value="Black locust"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <link href="https://www.wikidata.org/wiki/Q157417"/>
+      <reference ref="japan_trees"/>
+    </item>
   </group>
 </presets>
