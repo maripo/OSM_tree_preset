@@ -103,9 +103,18 @@ class Preset {
 	constructor (values) {
 		this.values = values;
 	}
+	isNeedleleaved () {
+		for (let i=0; i<this.values.length; i++) {
+			if (this.values[i].indexOf("needleleaved")>=0) {
+				return true;
+			}
+		}
+		return false;
+	}
 	appendNodeTo (parentNode) {
 		let presetName = this.values[0];
-		let itemNode = parentNode.ele("item", {"name":presetName, "icon":"presets/landmark/trees.svg"});
+		let itemNode = parentNode.ele("item", {"name":presetName, 
+			"icon":this.isNeedleleaved()?"presets/landmark/trees_conifer.svg":"presets/landmark/trees.svg"});
 		
 		// default fields (label, name)
 		itemNode.ele("label", {"text":presetName});

@@ -9,7 +9,7 @@
     <check key="monument" text="記念樹"/>
   </chunk>
   <group name="樹木">
-    <item name="イチョウ" icon="presets/landmark/trees.svg">
+    <item name="イチョウ" icon="presets/landmark/trees_conifer.svg">
       <label text="イチョウ"/>
       <text key="name" text="名前"/>
       <key key="leaf_type" value="needleleaved"/>
@@ -22,7 +22,7 @@
       <link href="https://www.wikidata.org/wiki/Q43284"/>
       <reference ref="japan_trees"/>
     </item>
-    <item name="スギ" icon="presets/landmark/trees.svg">
+    <item name="スギ" icon="presets/landmark/trees_conifer.svg">
       <label text="スギ"/>
       <text key="name" text="名前"/>
       <key key="leaf_type" value="needleleaved"/>
@@ -33,7 +33,7 @@
       <key key="leaf_cycle" value="evergreen"/>
       <reference ref="japan_trees"/>
     </item>
-    <item name="ヒマラヤスギ" icon="presets/landmark/trees.svg">
+    <item name="ヒマラヤスギ" icon="presets/landmark/trees_conifer.svg">
       <label text="ヒマラヤスギ"/>
       <text key="name" text="名前"/>
       <key key="leaf_type" value="needleleaved"/>
@@ -44,7 +44,7 @@
       <reference ref="japan_trees"/>
     </item>
     <group name="マツ">
-      <item name="マツ (総称)" icon="presets/landmark/trees.svg">
+      <item name="マツ (総称)" icon="presets/landmark/trees_conifer.svg">
         <label text="マツ (総称)"/>
         <text key="name" text="名前"/>
         <key key="leaf_type" value="needleleaved"/>
@@ -55,7 +55,7 @@
         <key key="leaf_cycle" value="evergreen"/>
         <reference ref="japan_trees"/>
       </item>
-      <item name="アカマツ" icon="presets/landmark/trees.svg">
+      <item name="アカマツ" icon="presets/landmark/trees_conifer.svg">
         <label text="アカマツ"/>
         <text key="name" text="名前"/>
         <key key="leaf_type" value="needleleaved"/>
@@ -67,7 +67,7 @@
         <link href="https://www.wikidata.org/wiki/Q1044186"/>
         <reference ref="japan_trees"/>
       </item>
-      <item name="クロマツ" icon="presets/landmark/trees.svg">
+      <item name="クロマツ" icon="presets/landmark/trees_conifer.svg">
         <label text="クロマツ"/>
         <text key="name" text="名前"/>
         <key key="leaf_type" value="needleleaved"/>
@@ -116,7 +116,7 @@
       <link href="https://www.wikidata.org/wiki/Q157763"/>
       <reference ref="japan_trees"/>
     </item>
-    <item name="ヒノキ" icon="presets/landmark/trees.svg">
+    <item name="ヒノキ" icon="presets/landmark/trees_conifer.svg">
       <label text="ヒノキ"/>
       <text key="name" text="名前"/>
       <key key="leaf_type" value="needleleaved"/>
@@ -128,7 +128,7 @@
       <link href="https://www.wikidata.org/wiki/Q917187"/>
       <reference ref="japan_trees"/>
     </item>
-    <item name="メタセコイア" icon="presets/landmark/trees.svg">
+    <item name="メタセコイア" icon="presets/landmark/trees_conifer.svg">
       <label text="メタセコイア"/>
       <text key="name" text="名前"/>
       <key key="leaf_type" value="needleleaved"/>
