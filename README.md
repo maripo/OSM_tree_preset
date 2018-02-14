@@ -11,10 +11,6 @@ XMLを手で打つのはとてもたいへんなので、
 
 という流れで生成しています。
 
-![メニューから](https://github.com/maripo/OSM_tree_preset/blob/master/doc/img/screenshot_menu.png)
-
-![ダイアログ](https://github.com/maripo/OSM_tree_preset/blob/master/doc/img/screenshot_dialog.png)
-
 ## JOSMに入れて使ってみたい
 
 - XMLファイルをダウンロードします
@@ -41,6 +37,12 @@ Facebookで有志の方が作ってくださった沖縄編のデータです。
 1. TSV形式でダウンロードしてローカル保存
 2. コマンドラインで "node JOSM_tree_preset_gen.js <TSVファイルのパス> <プリセットXMLファイルのパス>" を実行
 3. できたXMLファイルを上記の方法でJOSMに取り込む (一度登録したら、JOSMを起動するたびにローカルのファイルが読み直されます)
+
+## スクリーンショット
+
+![メニューから](https://github.com/maripo/OSM_tree_preset/blob/master/doc/img/screenshot_menu.png)
+
+![ダイアログ](https://github.com/maripo/OSM_tree_preset/blob/master/doc/img/screenshot_dialog.png)
 
 ## メモ
 
