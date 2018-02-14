@@ -11,6 +11,10 @@ XMLを手で打つのはとてもたいへんなので、
 
 という流れで生成しています。
 
+![メニューから](https://github.com/maripo/OSM_tree_preset/blob/master/doc/img/screenshot_menu.png)
+
+![ダイアログ](https://github.com/maripo/OSM_tree_preset/blob/master/doc/img/screenshot_dialog.png)
+
 ## JOSMに入れて使ってみたい
 
 - XMLファイルをダウンロードします
