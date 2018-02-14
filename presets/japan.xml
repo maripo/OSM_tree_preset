@@ -43,41 +43,43 @@
       <key key="leaf_cycle" value="evergreen"/>
       <reference ref="japan_trees"/>
     </item>
-    <item name="マツ (総称)" icon="presets/landmark/trees.svg">
-      <label text="マツ (総称)"/>
-      <text key="name" text="名前"/>
-      <key key="leaf_type" value="needleleaved"/>
-      <key key="genus" value="Pinus"/>
-      <key key="genus:ja" value="マツ"/>
-      <key key="genus:en" value="Pine"/>
-      <key key="taxon" value="genus"/>
-      <key key="leaf_cycle" value="evergreen"/>
-      <reference ref="japan_trees"/>
-    </item>
-    <item name="アカマツ" icon="presets/landmark/trees.svg">
-      <label text="アカマツ"/>
-      <text key="name" text="名前"/>
-      <key key="leaf_type" value="needleleaved"/>
-      <key key="genus" value="Pinus"/>
-      <key key="species" value="Pinus densiflora"/>
-      <key key="genus:ja" value="アカマツ"/>
-      <key key="genus:en" value="Japanese Red Pine"/>
-      <key key="leaf_cycle" value="evergreen"/>
-      <link href="https://www.wikidata.org/wiki/Q1044186"/>
-      <reference ref="japan_trees"/>
-    </item>
-    <item name="クロマツ" icon="presets/landmark/trees.svg">
-      <label text="クロマツ"/>
-      <text key="name" text="名前"/>
-      <key key="leaf_type" value="needleleaved"/>
-      <key key="genus" value="Pinus"/>
-      <key key="species" value="Pinus thunbergii"/>
-      <key key="genus:ja" value="クロマツ"/>
-      <key key="genus:en" value="Japanese Black Pine"/>
-      <key key="leaf_cycle" value="evergreen"/>
-      <link href="https://www.wikidata.org/wiki/Q854884"/>
-      <reference ref="japan_trees"/>
-    </item>
+    <group name="マツ">
+      <item name="マツ (総称)" icon="presets/landmark/trees.svg">
+        <label text="マツ (総称)"/>
+        <text key="name" text="名前"/>
+        <key key="leaf_type" value="needleleaved"/>
+        <key key="genus" value="Pinus"/>
+        <key key="genus:ja" value="マツ"/>
+        <key key="genus:en" value="Pine"/>
+        <key key="taxon" value="genus"/>
+        <key key="leaf_cycle" value="evergreen"/>
+        <reference ref="japan_trees"/>
+      </item>
+      <item name="アカマツ" icon="presets/landmark/trees.svg">
+        <label text="アカマツ"/>
+        <text key="name" text="名前"/>
+        <key key="leaf_type" value="needleleaved"/>
+        <key key="genus" value="Pinus"/>
+        <key key="species" value="Pinus densiflora"/>
+        <key key="genus:ja" value="アカマツ"/>
+        <key key="genus:en" value="Japanese Red Pine"/>
+        <key key="leaf_cycle" value="evergreen"/>
+        <link href="https://www.wikidata.org/wiki/Q1044186"/>
+        <reference ref="japan_trees"/>
+      </item>
+      <item name="クロマツ" icon="presets/landmark/trees.svg">
+        <label text="クロマツ"/>
+        <text key="name" text="名前"/>
+        <key key="leaf_type" value="needleleaved"/>
+        <key key="genus" value="Pinus"/>
+        <key key="species" value="Pinus thunbergii"/>
+        <key key="genus:ja" value="クロマツ"/>
+        <key key="genus:en" value="Japanese Black Pine"/>
+        <key key="leaf_cycle" value="evergreen"/>
+        <link href="https://www.wikidata.org/wiki/Q854884"/>
+        <reference ref="japan_trees"/>
+      </item>
+    </group>
     <item name="クスノキ" icon="presets/landmark/trees.svg">
       <label text="クスノキ"/>
       <text key="name" text="名前"/>

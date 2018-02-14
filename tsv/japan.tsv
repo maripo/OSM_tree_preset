@@ -2,9 +2,10 @@
 -	イチョウ	needleleaved (針葉樹)	Ginkgo	Ginkgo biloba	イチョウ	Ginkgo		yes	deciduous (落葉樹)	Q43284
 -	スギ	needleleaved (針葉樹)	Cryptomeria	Cryptomeria japonica	スギ	Cryptomeria		no	evergreen (常緑樹)	
 -	ヒマラヤスギ	needleleaved (針葉樹)		Cedrus deodara	ヒマラヤスギ	Himalayan Cedar		no	evergreen (常緑樹)	
--	マツ (総称)	needleleaved (針葉樹)	Pinus		マツ	Pine	genus	no	evergreen (常緑樹)	
--	アカマツ	needleleaved (針葉樹)	Pinus	Pinus densiflora	アカマツ	Japanese Red Pine		no	evergreen (常緑樹)	Q1044186
--	クロマツ	needleleaved (針葉樹)	Pinus	Pinus thunbergii	クロマツ	Japanese Black Pine		no	evergreen (常緑樹)	Q854884
++	マツ									
+ -	マツ (総称)	needleleaved (針葉樹)	Pinus		マツ	Pine	genus	no	evergreen (常緑樹)	
+ -	アカマツ	needleleaved (針葉樹)	Pinus	Pinus densiflora	アカマツ	Japanese Red Pine		no	evergreen (常緑樹)	Q1044186
+ -	クロマツ	needleleaved (針葉樹)	Pinus	Pinus thunbergii	クロマツ	Japanese Black Pine		no	evergreen (常緑樹)	Q854884
 -	クスノキ	broadleaved (広葉樹)	Cinnamomum	Cinnamomum camphora	クスノキ	Camphorwood		no	evergreen (常緑樹)	Q158722
 -	ケヤキ	broadleaved (広葉樹)	Zelkova	Zelkova serrata	ケヤキ	Japanese zelkova		no	deciduous (落葉樹)	Q920344
 -	ウメ	broadleaved (広葉樹)	Prunus	Prunus mume	ウメ	Japanese apricot		no	deciduous (落葉樹)	Q157763
