@@ -1,0 +1,6 @@
+Main label (to localize)
+	http://www.w3.org/2000/01/rdf-schema#label
+Taxon name (key=species)
+	http://www.wikidata.org/prop/direct/P225
+Taxon rank (key=taxon)
+	http://www.wikidata.org/prop/P105
