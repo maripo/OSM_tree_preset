@@ -1,0 +1,2049 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='k'/>
+		<variable name='v'/>
+	</head>
+	<results>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='uk'>Японська слива</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='vi'>Mơ (quả)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P2004</uri>
+			</binding>
+			<binding name='v'>
+				<literal>11372</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P2163</uri>
+			</binding>
+			<binding name='v'>
+				<literal>981488</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P2752</uri>
+			</binding>
+			<binding name='v'>
+				<literal>10ea8275-ac1c-4eb8-a046-7a829fce34fe</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P3031</uri>
+			</binding>
+			<binding name='v'>
+				<literal>PRNMM</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P3088</uri>
+			</binding>
+			<binding name='v'>
+				<literal>204176</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P4311</uri>
+			</binding>
+			<binding name='v'>
+				<literal>276</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P4753</uri>
+			</binding>
+			<binding name='v'>
+				<literal>8983</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct-normalized/P349</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://id.ndl.go.jp/auth/ndlna/00573990</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct-normalized/P646</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://g.co/kg/m/020fdj</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct-normalized/P961</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://ipni.org/urn:lsid:ipni.org:names:730000-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct-normalized/P2163</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://id.worldcat.org/fast/981488</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P349</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-8C6DFDD9-6B74-4005-8C2F-317C03E7228E</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P373</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-D55D68BA-0114-4BE7-AFF1-E48768DB9809</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P566</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-06DBBB94-169C-47E3-97D6-7A3E9B55E8E6</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P646</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-9A854F22-7F44-4548-955F-76A29DD05E7A</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P685</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-653792B6-EF70-4ABB-8CC7-6B9E3EAEA332</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P815</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-AF8FA5EE-5D6E-486E-9193-A89D29A89CB2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P830</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-E18E9EE3-07F8-44B1-A1B7-AC1A825E3F1B</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P846</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-700FB1FA-E0D7-4429-BF53-C56C1D4CE9DF</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P935</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-B3F2F0FF-891F-4185-9D40-72EBCB0ED0BB</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P960</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-4CDCF1ED-B267-441F-A03B-2C6CA08E4957</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P961</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-2A93E483-0BC3-4260-AD4C-4633F69731D8</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1070</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-B9CC2A05-8A26-47A0-BFB0-E53334ABB8D1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1421</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-D2364729-164A-4EDB-A28B-275331C1F8B2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1772</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-8546735C-C076-4869-83DE-A89FDE63108D</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-055EB869-1E49-42D9-AACF-19B30EC52CEA</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-16E7D853-99AA-4E5F-95EF-76FD7AFC2546</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-3468C2C1-7809-4EED-B710-55A2263BE39E</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-64955B91-06D5-478F-9068-D14137D2EB31</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-6B6845D9-7042-47D7-B28D-0E11D085DF68</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-6C1BEB01-2CA6-4BD3-A0EA-B0148E55552C</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-80802330-A246-4369-9284-2121C5196D9F</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-A2B2201F-027D-41DC-B90C-9207884229A6</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-A598DE74-AF43-45F4-A003-555EED14101A</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-AA515D6D-D1EF-4A27-81DA-DF7460AA3039</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-AD4FDD11-F721-4E7E-A1C0-9AAC93F03CD4</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-B4F94AB4-43CA-4FC4-B787-5053DDA72CCA</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-B50D5DDE-3CE3-4FB1-B9D5-87FA3F17A51D</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-B5AE7A0A-EF1A-439D-9C12-07562AF9B73F</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-B81D9760-43C9-4490-B035-3240228F3611</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-BC74668A-F3D3-40CE-B61C-E496461E1CD7</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-D4DBC7F3-C2C1-47F4-930B-8E1DFDC4C9D8</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-DAD2E36A-0340-4454-A0B0-41154902D910</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-DFE5911E-3515-4CFD-91CF-C7FBE8735404</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-DFF8DF9C-A5F9-40AD-A648-A1DCEC24FB5F</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-FF355685-EC03-4318-A584-F56EA563DDAB</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P2004</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-d467e9c7-4195-c1c8-6450-6854aff6948a</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P2163</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-4b79497a-4e8e-eb98-94f0-90468672baf4</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P2752</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-4AA0296A-848C-483D-8D48-6910F8424F80</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P3031</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-60C23898-CF91-495D-AC14-A75F2036A477</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P3088</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-D1D763BB-63AD-4314-A3CB-46A674D9CD69</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P4311</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-E52DFD5F-8032-4C08-A5EA-8A1264DFAA42</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P4753</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-783FBD64-A32B-4902-AB27-C851A72892BF</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='de'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='en'>Japanese apricot</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='eo'>Japana abrikoto</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='es'>Prunopsis mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='fa'>اومه</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='fi'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='fr'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='hu'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='id'>Ume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='it'>Albicocco del Giappone</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='it'>Albicocco giapponese</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ja'>ウバイ</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ja'>コウバイ</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ja'>ハクバイ</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ja'>初名草</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ja'>匂草</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ja'>好文木</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ja'>春告草</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ja'>梅</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ja'>烏梅</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ja'>花の兄</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ja'>花兄</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ja'>風待草</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ja'>香散見草</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ja'>香栄草</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ko'>매실</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ko'>매조</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ko'>매화</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ko'>매화나무</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ko'>매화나무꽃</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='lt'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='pl'>Morela Mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='pl'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ru'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ru'>Японская слива</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='sv'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='uk'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='uk'>Абрикос японський</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='uk'>Слива японська</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='uk'>Уме</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='uk'>Японський абрикос</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='vi'>Mai mơ</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='vi'>Mận Nhật Bản</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='vi'>Mơ mai</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='vi'>Mơ Nhật Bản</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='vi'>Mơ ta</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='vi'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='zh'>乌梅</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='zh'>梅子</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='zh'>梅樹</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://wikiba.se/ontology#statements</uri>
+			</binding>
+			<binding name='v'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>49</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://wikiba.se/ontology#sitelinks</uri>
+			</binding>
+			<binding name='v'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>38</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P18</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/Nagaoka-tenjin%20hakubai.jpg</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P18</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/Prunus%20mume.JPG</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P31</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/Q16521</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P105</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/Q7432</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P171</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/Q190545</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P225</uri>
+			</binding>
+			<binding name='v'>
+				<literal>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P244</uri>
+			</binding>
+			<binding name='v'>
+				<literal>sh97007276</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct-normalized/P244</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://id.loc.gov/authorities/names/sh97007276</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P18</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-3E17DAE7-F2C9-4760-9C01-3F61E48309F3</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P18</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-A98EF047-09BA-441A-99BA-911CD2328A6D</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P31</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-3FC76FAB-3A24-4153-A4BC-54A11C1E2244</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P105</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-398C493D-7075-4CF1-BD6B-0AD25B37E57F</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P171</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-25D7591C-4C5C-4998-B048-A9F229499298</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P225</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-D0783F09-A200-4609-9839-55CCD322D878</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/P244</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/statement/Q157763-e51bc7ea-4c45-916b-544f-8923c16b78df</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P349</uri>
+			</binding>
+			<binding name='v'>
+				<literal>00573990</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P373</uri>
+			</binding>
+			<binding name='v'>
+				<literal>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P566</uri>
+			</binding>
+			<binding name='v'>
+				<uri>http://www.wikidata.org/entity/Q15532926</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P646</uri>
+			</binding>
+			<binding name='v'>
+				<literal>/m/020fdj</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P685</uri>
+			</binding>
+			<binding name='v'>
+				<literal>102107</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P815</uri>
+			</binding>
+			<binding name='v'>
+				<literal>506231</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P830</uri>
+			</binding>
+			<binding name='v'>
+				<literal>628584</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P846</uri>
+			</binding>
+			<binding name='v'>
+				<literal>3021046</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P935</uri>
+			</binding>
+			<binding name='v'>
+				<literal>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P960</uri>
+			</binding>
+			<binding name='v'>
+				<literal>27803569</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P961</uri>
+			</binding>
+			<binding name='v'>
+				<literal>730000-1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1070</uri>
+			</binding>
+			<binding name='v'>
+				<literal>rjp-7972</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1421</uri>
+			</binding>
+			<binding name='v'>
+				<uri>https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=30048</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1772</uri>
+			</binding>
+			<binding name='v'>
+				<literal>PRMU5</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='en'>Ume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='zh'>梅</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ca'>Albercoquer japonès</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='de'>Ume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='en'>Chinese plum</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='en'>Japanese apricot</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='eo'>Umeo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='fa'>پرونوس مومه</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='fi'>Japaninaprikoosi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='fr'>Abricotier du Japon</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='hsb'>Japanski aprikozowc</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ja'>ウメ（梅）</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ko'>매실나무</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='lt'>Japoninis abrikosas</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='pl'>Morela japońska</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ro'>Ume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ru'>Слива японская</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='sv'>Ume (frukt)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.wikidata.org/prop/direct/P1843</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='th'>บ๊วย (Rosaceae)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://wikiba.se/ontology#identifiers</uri>
+			</binding>
+			<binding name='v'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>18</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://schema.org/version</uri>
+			</binding>
+			<binding name='v'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#integer'>627415508</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://schema.org/dateModified</uri>
+			</binding>
+			<binding name='v'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>2018-02-06T08:45:33Z</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://schema.org/description</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ar'>نوع من النباتات</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://schema.org/description</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='bg'>вид растение</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://schema.org/description</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='bn'>উদ্ভিদের প্রজাতি</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://schema.org/description</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ca'>espècie de planta</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://schema.org/description</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='en'>species of plant</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://schema.org/description</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='fr'>espèce de plantes</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://schema.org/description</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='gl'>especie de planta</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://schema.org/description</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='he'>מין של צמח</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://schema.org/description</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='hu'>növényfaj</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://schema.org/description</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='hy'>բույսերի տեսակ</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://schema.org/description</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ro'>specie de plante</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://schema.org/description</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ru'>вид растений</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://schema.org/description</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='sq'>lloj i bimëve</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://schema.org/description</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='de'>Art der Gattung Prunus</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://schema.org/description</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='es'>especie de planta</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://schema.org/description</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='fa'>گونه‌ای از پرونوس</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://schema.org/description</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='nl'>soort uit het geslacht prunus</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://schema.org/description</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='it'>specie di pianta della famiglia Rosaceae</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='sv'>Ume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='th'>บ๊วย</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='vi'>Mơ</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='zh'>梅</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='af'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='an'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ast'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='az'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='bg'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='br'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='bs'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='cdo'>Muòi-huă</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ceb'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='cs'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='cy'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='da'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='de'>Ume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='en'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='eo'>Umeo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='es'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='et'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='eu'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='fa'>پرونوس مومه</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='fi'>Japaninaprikoosi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='fr'>Abricotier du Japon</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ga'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='gl'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='gsw'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='hr'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='hsb'>Japanski aprikozowc</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='hu'>Japán kajszi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='id'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='is'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='it'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ja'>ウメ</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ko'>매실나무</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='la'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='lb'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='lmo'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='lt'>Japoninis abrikosas</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='nb'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='nds'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='nds-nl'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='nl'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='nn'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='pl'>Morela japońska</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='pms'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='pt'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ro'>Ume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ru'>Слива японская</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='sk'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='sl'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='sq'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='tr'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='uk'>Японська слива</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='vec'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='wa'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='war'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='yue'>梅</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='za'>Vamoiz</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='zh-cn'>梅</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='zh-hans'>梅</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='zh-hant'>梅</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='zh-hk'>梅</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='zh-sg'>梅</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='zh-tw'>梅</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ca'>albercoquer japonès</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='en'>Ume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='fi'>Ume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='pl'>Ume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='es'>Armeniaca mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='la'>Armeniaca mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='zh'>梅花</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='es'>Ume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='it'>Ume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ca'>Prunera de la Xina</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='ca'>Prunus mume</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='de'>Japanische Aprikose</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='k'>
+				<uri>http://www.w3.org/2004/02/skos/core#altLabel</uri>
+			</binding>
+			<binding name='v'>
+				<literal xml:lang='de'>Japanische Pflaume</literal>
+			</binding>
+		</result>
+	</results>
+</sparql>
