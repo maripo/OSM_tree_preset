@@ -7,13 +7,13 @@ let fs = require('fs');
 let builder = require('xmlbuilder');
 
 function read (file, onSuccess, onError) {
-    fs.readFile(file, 'utf8', function(err, data) {
-        if (err) {
-            onError(err);
-        } else {
-        		onSuccess(data);
-        }
-    });
+	fs.readFile(file, 'utf8', function(err, data) {
+		if (err) {
+			onError(err);
+		} else {
+			onSuccess(data);
+		}
+	});
 }
 
 // Attribute of item's node itself
