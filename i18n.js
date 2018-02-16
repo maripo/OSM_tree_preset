@@ -8,15 +8,6 @@
 let fs = require('fs');
 var https = require('https');
 
-function readFile (file, onSuccess, onError) {
-	fs.readFile(file, 'utf8', function(err, data) {
-		if (err) {
-			onError(err);
-		} else {
-				onSuccess(data);
-		}
-	});
-}
 
 /*
 Main label (to localize)
@@ -27,7 +18,7 @@ Taxon rank (key=taxon)
 	http://www.wikidata.org/prop/P105
 */
 const KEY_TAXON_NAME = "http://www.wikidata.org/prop/direct/P225";
-const KEY_TAXON_RANK = "http://www.wikidata.org/prop/P105";
+const KEY_TAXON_RANK = "http://www.wikidata.org/prop/direct/P105";
 const KEY_LABEL = "http://www.w3.org/2000/01/rdf-schema#label";
 const KEY_COMMON_NAME = "http://www.wikidata.org/prop/direct/P1843";
 
@@ -59,19 +50,11 @@ function processData (json) {
 		
 		
 	}
-	console.log("species=" + taxonName);
-	console.log("taxon=" + taxonRank);
-	let langs = ["en", "ja", "zh", "ko"];
-	console.log("Labels");
-	for (let i in langs) {
-		let lang = langs[i];
-		console.log(lang + "->" + labels[lang]);
-	}
-	console.log("Common names");
-	for (let i in langs) {
-		let lang = langs[i];
-		console.log(lang + "->" + commonNames[lang]);
-	}
+	return {
+		"species":taxonName,
+		"taxon": taxonRank,
+		"name": commonNames
+	};
 }
 let WIKIDATA_ENDPOINT = "https://query.wikidata.org/sparql";
 
@@ -87,41 +70,59 @@ function download (url, filePath, callback) {
 	});
 }
 
-function findJSON (wikidataId, callback) {
-	let cachePath = "wikidata/" + wikidataId + ".json"
+function readFile (file, onSuccess, onError) {
+	fs.readFile(file, 'utf8', function(err, data) {
+		if (err) {
+			onError(err);
+		} else {
+			onSuccess(data);
+		}
+	});
+}
+
+function downloadCached (downloadURL, cachePath, callback) {
 	console.log("file=" + cachePath);
 	if (fs.existsSync(cachePath)) {
-		console.log("Cache exists."); 
-		callback();
+		console.log("Cache exists. Just open it.");
+		readFile(cachePath, callback);
 	} else {
 		console.log("Download.");
-		let query = "SELECT * WHERE { wd:" + wikidataId + " ?k ?v }";
-		let wikidataURL = WIKIDATA_ENDPOINT + "?format=json&query=" + encodeURIComponent(query);
-		download (wikidataURL, cachePath, function () {
-			console.log("cache saved.");
-			callback();
-		});
+		download (downloadURL, cachePath, callback);
 	}
 }
 
 function getWikidata (wikidataId, onSuccess, onError) {
-	findJSON(wikidataId, function(){});
-	return;
-	readFile(cachePath, function (content) {
-			processData(JSON.parse(content));
-		},
-		function(err) {
-			console.log("Error " + err);
-		}
-	);
-
+	let cachePath = "wikidata/" + wikidataId + ".json"
+	let query = "SELECT * WHERE { wd:" + wikidataId + " ?k ?v }";
+	let wikidataURL = WIKIDATA_ENDPOINT + "?format=json&query=" + encodeURIComponent(query);
+	downloadCached(wikidataURL, cachePath, function () {
+		readFile(cachePath, function (content) {
+				onSuccess(processData(JSON.parse(content)));
+			},
+			function(err) {
+				onError(err);
+			}
+		);
+	});
 }
 const PRUNUS_MUME =  "Q157763";
 const GINKGO_BILOBA = "Q43284";
 
+function debugObj (obj) {
+	console.log("species=" + obj.species);
+	console.log("taxon=" + obj.taxon);
+	let langs = ["en", "ja", "zh", "ko"];
+	console.log("Names");
+	for (let i in langs) {
+		let lang = langs[i];
+		console.log(lang + "->" + obj.name[lang]);
+	}
+
+}
+
 (function(){
 	getWikidata(GINKGO_BILOBA, 
-		function (obj) {console.log("onSuccess");},
+		function (obj) {console.log("onSuccess"); debugObj(obj); },
 		function (err) {console.log("onError");}
 	);
 })();
