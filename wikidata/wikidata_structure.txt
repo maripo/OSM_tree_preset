@@ -4,3 +4,8 @@ Taxon name (key=species)
 	http://www.wikidata.org/prop/direct/P225
 Taxon rank (key=taxon)
 	http://www.wikidata.org/prop/P105
+	
+	
+List of taxon ranks
+https://query.wikidata.org/sparql?query=%0ASELECT%20%3Fitem%20%3FitemLabel%20%0AWHERE%20%0A%7B%0A%20%20%3Fitem%20wdt%3AP31%20wd%3AQ427626.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22.%20%7D%0A%7D
+https://query.wikidata.org/#%0ASELECT%20%3Fitem%20%3FitemLabel%20%0AWHERE%20%0A%7B%0A%20%20%3Fitem%20wdt%3AP31%20wd%3AQ427626.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22.%20%7D%0A%7D

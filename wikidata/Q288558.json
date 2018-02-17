@@ -1,0 +1,1044 @@
+{
+  "head" : {
+    "vars" : [ "k", "v" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1421"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q288558-148CFA5F-53EA-49FF-8578-F4DF8F63FEB7"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1772"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q288558-A70AE22B-A1FB-489A-9160-39C264324D25"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1843"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q288558-B935B96D-87FE-4F3F-91E4-EE51484F9CCC"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P2036"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q288558-36256523-97BB-401B-B886-B7967E197447"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3105"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q288558-F9492460-2B49-4324-AD0B-73BDB169E49E"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3151"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q288558-AAC06F11-8CD6-4454-B3BD-A78B8A75EA23"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P4122"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q288558-F76DD8E9-4B92-4850-8483-9A2E98A95F09"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P4311"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q288558-6DBA4336-E85A-4663-A83E-F6DA5E4DAD2F"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#identifiers"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "12"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/version"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "623204086"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/dateModified"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-01-25T07:23:06Z"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "ar",
+        "type" : "literal",
+        "value" : "نوع من النباتات"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "вид растение"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "bn",
+        "type" : "literal",
+        "value" : "উদ্ভিদের প্রজাতি"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "espècie de planta"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "species of plant"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "espèce de plantes"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "gl",
+        "type" : "literal",
+        "value" : "especie de planta"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מין של צמח"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "hu",
+        "type" : "literal",
+        "value" : "növényfaj"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "hy",
+        "type" : "literal",
+        "value" : "բույսերի տեսակ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "specie de plante"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "вид растений"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "lloj i bimëve"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "especie de planta"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "specie di pianta della famiglia Fabaceae"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "soort uit het geslacht Styphnolobium"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Art der Gattung Schnurbäume (Styphnolobium)"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sophora japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "da",
+        "type" : "literal",
+        "value" : "Pagodetræ-slægten"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Japanischer Schnurbaum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Styphnolobium"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Pagodträdssläktet"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "uk",
+        "type" : "literal",
+        "value" : "Софора японська"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Софора японская"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ar",
+        "type" : "literal",
+        "value" : "صفيرا اليابان"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "az",
+        "type" : "literal",
+        "value" : "Yapon soforası"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "Styphnolobium japonicum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ceb",
+        "type" : "literal",
+        "value" : "Styphnolobium japonicum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "jerlín japonský"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "de-ch",
+        "type" : "literal",
+        "value" : "Japanischer Schnurbaum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Styphnolobium japonicum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "en-ca",
+        "type" : "literal",
+        "value" : "Styphnolobium japonicum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "en-gb",
+        "type" : "literal",
+        "value" : "Styphnolobium japonicum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Japoniar sofora"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "تلخه‌بیان"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Styphnolobium japonicum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "gl",
+        "type" : "literal",
+        "value" : "Sófora"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "hu",
+        "type" : "literal",
+        "value" : "Közönséges pagodafa"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "hy",
+        "type" : "literal",
+        "value" : "սոֆորա ճապոնական"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Styphnolobium japonicum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "エンジュ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "회화나무"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "la",
+        "type" : "literal",
+        "value" : "Styphnolobium japonicum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "Honingboom"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "pam",
+        "type" : "literal",
+        "value" : "Styphnolobium"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Perełkowiec japoński"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "pms",
+        "type" : "literal",
+        "value" : "Sophora japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Styphnolobium"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sk",
+        "type" : "literal",
+        "value" : "Sofora japonská"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sr",
+        "type" : "literal",
+        "value" : "Sofora"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "tr",
+        "type" : "literal",
+        "value" : "Japon soforası"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "vi",
+        "type" : "literal",
+        "value" : "Hòe"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "war",
+        "type" : "literal",
+        "value" : "Styphnolobium japonicum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "槐树"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "acàcia del Japó"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "hu",
+        "type" : "literal",
+        "value" : "Sophora japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "hu",
+        "type" : "literal",
+        "value" : "Styphnolobium japonicum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "vi",
+        "type" : "literal",
+        "value" : "Styphnolobium japonicum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#statements"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "22"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#sitelinks"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P18"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Sophora%20japonica%20JPG2Aa.jpg"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P31"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16521"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P105"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7432"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P171"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11815640"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P225"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "Styphnolobium japonicum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P18"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q288558-9FC1FCFE-8FD9-4CDE-AF36-DA1F83766D5E"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P31"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q288558-8C182559-36A6-46A1-9854-0A1E86AA9679"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P105"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q288558-02EF18ED-E414-4DDB-B4DC-8C0E6874F216"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P171"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q288558-059dc144-4a72-cef3-ae01-32fd30a735c2"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P225"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q288558-A2068965-DFDE-4E48-B757-ACE3A904AA99"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P373"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "Styphnolobium japonicum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P566"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10881597"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P646"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "/m/03ns1bp"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P815"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "820265"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P830"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "702857"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P846"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "2963569"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P935"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "Styphnolobium japonicum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P960"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "13048359"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1070"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "ild-33214"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1421"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=314715"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1772"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "STJA9"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1843"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Japanese pagoda tree"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P2036"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "71056"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3105"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "66500"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3151"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "53945"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P4122"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "Styphnolobium_japonicum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P4311"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "2182"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct-normalized/P646"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://g.co/kg/m/03ns1bp"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P373"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q288558-D90048D0-2BEB-4D9E-9410-8B0A31FE1F01"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P566"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q288558-2a0121a5-4e94-1070-1d3a-b2b5dd487290"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P646"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q288558-5FF6C0FB-98D1-4EFC-BE6E-5BEE27CC898B"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P815"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q288558-BE4E5F0F-09AD-4008-99D0-42F678B0994F"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P830"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q288558-9E85BD91-041D-4545-8A6E-81FFD668B2D6"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P846"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q288558-693270B1-BEF5-4421-8D2A-B9F839DDAAB9"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P935"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q288558-F11456F5-8B91-487F-BEC3-797D0B3F3A4D"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P960"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q288558-2783F6BB-930C-4375-8C0F-9B66F7634B4F"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1070"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q288558-94F32163-063D-4032-983F-2366EFD52202"
+      }
+    } ]
+  }
+}

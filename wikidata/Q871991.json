@@ -1,0 +1,1680 @@
+{
+  "head" : {
+    "vars" : [ "k", "v" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Flores de cerejeiras"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Sakura (japonês)"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Вишня японская"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Японская вишня"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "Cherry blossom"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "Cherry Blossom"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "ซากูระ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "ดอกซากุระ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "ดอกซากูระ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Blossoming cherry"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Bulaklak ng saresa"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Bulaklak ng saresas"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Bulaklak ng seresa"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Bulaklak ng seresas"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Cheri blosom"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Cherry blossom"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Cherry blossoms"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Hapones na saresa"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Hapones na saresas"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Hapones na seresa"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Hapones na seresas"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Hapong saresa"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Hapong seresa"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Japan cherries"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Japan cherry"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Japanese cherries"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Japanese cherry"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Namumulaklak na saresa"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Namumulaklak na saresas"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Namumulaklak na seresa"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Namumulaklak na seresas"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "P serrulata"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "P. serrulata"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Prunus serrulata"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Saresang Hapones"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Saresang namumulaklak"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Saresas na Hapones"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Saresas na namumulaklak"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Saresas ng Hapon"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Seresang Hapon"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Seresang Hapones"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Seresas na Hapones"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Seresas na namumulaklak"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Seresas ng Hapon"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Tseri"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Tseri blosom"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "uk",
+        "type" : "literal",
+        "value" : "Prunus serrulata"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "uk",
+        "type" : "literal",
+        "value" : "Вишня японська"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "uk",
+        "type" : "literal",
+        "value" : "Сезон квітування сакури"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#statements"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#sitelinks"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "51"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P18"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/SakuraHealed.png"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P227"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "4561760-0"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct-normalized/P227"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://d-nb.info/gnd/4561760-0"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P18"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q871991-BB8C26E2-9A10-4B11-8ADA-05C99776B866"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P227"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q871991-8972A45D-07EE-4266-80B8-18DF4BC57348"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P279"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q756"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P373"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "Prunus in flower"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P487"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "🌸"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P646"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "/m/01wh_8"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P910"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6236384"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P935"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "桜"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct-normalized/P646"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://g.co/kg/m/01wh_8"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P279"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q871991-D4BD5330-AE38-45D9-A36B-257951571F21"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P373"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q871991-0107EEE3-7E01-43CB-ADC8-1D7A81946F72"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P487"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q871991-774216ab-460c-d2c4-e0cd-e2d9a8157deb"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P646"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q871991-5927C779-F989-4337-BF3E-DDD4A2ACF811"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P910"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q871991-6706B4BB-994F-49AE-A1DB-D4977A33F879"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P935"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q871991-D3ABAA36-ABEF-4431-AC11-122089E6B14D"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#identifiers"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/version"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "629147166"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/dateModified"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-02-10T02:39:55Z"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "flor dels arbres del gènere Prunus"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Symbol der japanischen Kultur"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "バラ科サクラ亜科サクラ属の落葉樹の総称"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "장미과 앵두나무아과 벚나무속의 낙엽수의 총칭"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "bloesem"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Сакура-это дерево из подсемейства сливовых"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "벚나무"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Prunus serrulata"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "сакура"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "uk",
+        "type" : "literal",
+        "value" : "Японська вишня"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Sakura"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "サクラ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "id",
+        "type" : "literal",
+        "value" : "Sakura"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "az",
+        "type" : "literal",
+        "value" : "Sakura"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "Sakura"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Sakura"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Sakura"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ms",
+        "type" : "literal",
+        "value" : "Sakura"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Sakura"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Sakura"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "tr",
+        "type" : "literal",
+        "value" : "Sakura"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "ซากุระ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ar",
+        "type" : "literal",
+        "value" : "ساكورا"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "ساکورا"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "lt",
+        "type" : "literal",
+        "value" : "Sakura"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ace",
+        "type" : "literal",
+        "value" : "Sakura"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "be",
+        "type" : "literal",
+        "value" : "Сакура"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "cv",
+        "type" : "literal",
+        "value" : "Сакура"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "japanische Kirschblüte"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cherry blossom"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "eo",
+        "type" : "literal",
+        "value" : "Sakuro"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sakura (cerezo)"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "סאקורה"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Trešnjin cvijet"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "hu",
+        "type" : "literal",
+        "value" : "Cseresznyevirág"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "hy",
+        "type" : "literal",
+        "value" : "սակուրա"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "is",
+        "type" : "literal",
+        "value" : "Kirsuberjatré"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Fiore di ciliegio"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "jv",
+        "type" : "literal",
+        "value" : "Kembang Sakura"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ka",
+        "type" : "literal",
+        "value" : "საკურა"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ml",
+        "type" : "literal",
+        "value" : "ചെറി ബ്ലോസം"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "my",
+        "type" : "literal",
+        "value" : "ချယ်ရီပန်း"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "mzn",
+        "type" : "literal",
+        "value" : "ساکورا"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "nan",
+        "type" : "literal",
+        "value" : "Sa-khú-lah"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "sakura"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "pnb",
+        "type" : "literal",
+        "value" : "چیری"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sh",
+        "type" : "literal",
+        "value" : "Trešnjin cvijet"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sk",
+        "type" : "literal",
+        "value" : "Sakura (Japonsko)"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Japanskt körsbär"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Seresang namumulaklak"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "tt",
+        "type" : "literal",
+        "value" : "Сакура"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "vi",
+        "type" : "literal",
+        "value" : "Hoa anh đào"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "yue",
+        "type" : "literal",
+        "value" : "櫻花"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "樱花"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "桜"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Sakura"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "櫻花"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "さくら"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Sakura"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "vi",
+        "type" : "literal",
+        "value" : "Sakura"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "uk",
+        "type" : "literal",
+        "value" : "Вишня дрібнопильчата"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "uk",
+        "type" : "literal",
+        "value" : "Сакура"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "ซะกุระ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sakura"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ar",
+        "type" : "literal",
+        "value" : "الساكورا"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ar",
+        "type" : "literal",
+        "value" : "زهرة الكرز"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "az",
+        "type" : "literal",
+        "value" : "Cerasus serrulata"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "az",
+        "type" : "literal",
+        "value" : "Prunus serrulata"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "az",
+        "type" : "literal",
+        "value" : "Yapon albalısı"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "be",
+        "type" : "literal",
+        "value" : "Prunus serrulata"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "flor de cirerer"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Kirschblüte"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Yoshino-Kirschblüte"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Flor de cerezo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Flor del cerezo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Sakura (gereziondoa)"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "پرونوس سرولاتا"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "סקורה"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "オウヒ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "さくらの日"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "サクラ亜属"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "サクラ亜族"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "仇名草"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "八重桜"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "徒名草"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "桜皮"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "벗꽃"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "벗나무"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "벚"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "벚꽃"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ml",
+        "type" : "literal",
+        "value" : "Cherry blossom"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ml",
+        "type" : "literal",
+        "value" : "Cherry Blossom"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ml",
+        "type" : "literal",
+        "value" : "Sakura"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ms",
+        "type" : "literal",
+        "value" : "Bunga sakura"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "kersenbloesem"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "Sakura (Japan)"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Cerejeira-do-Japão"
+      }
+    } ]
+  }
+}

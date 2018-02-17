@@ -1,0 +1,2549 @@
+{
+  "head" : {
+    "vars" : [ "k", "v" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P960"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "27801732"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P961"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "724793-1"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1070"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "rjp-1354"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1417"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "plant/loquat"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1421"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=15602"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1672"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27658753"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1727"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "200010834"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1747"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "200010834"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1772"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "ERJA3"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1843"
+      },
+      "v" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Mišpule"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1843"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "loquat"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1843"
+      },
+      "v" : {
+        "xml:lang" : "uk",
+        "type" : "literal",
+        "value" : "Локва"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1939"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "259731"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1978"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "09174"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P2036"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "84227"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P2752"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "5eb50af0-a6d1-443e-bfeb-810a4f5d195c"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3031"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "EIOJA"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3101"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "18301"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3105"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "24979"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3151"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "76949"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3186"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "96836"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3240"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "NHMSYS0000458544"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3420"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "8718"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3827"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "loquats"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P4301"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P4753"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "1002"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct-normalized/P646"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://g.co/kg/m/02q6t8"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct-normalized/P961"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://ipni.org/urn:lsid:ipni.org:names:724793-1"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P373"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q41505-F3EA34E0-D09C-4C09-8DCC-C37747DC7DEB"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P566"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-4D86D3C8-3259-44DB-ABC9-C090FE0653EE"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P646"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-BA7950EA-81C8-4FD3-8415-59D7CABEA370"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P685"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-AE0818BC-2AC6-4D48-BE35-C44AA1FAE5FC"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P815"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-2FB9621A-0861-4E6F-83B6-6E8150437D93"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P830"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-42A789D7-B6D7-45CD-A77C-8A2E78911885"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P846"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-104F4F1D-66B1-48F0-BC35-5FE6A1C95386"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P935"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-54C7ECBA-BFF2-419C-A8E1-49553CC01334"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P960"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-0473A012-09AD-431F-AF6C-6BD60D5481FD"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P961"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-8DE3D1A2-E49F-4A4C-8B5A-499128BB9614"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1070"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-17132B0E-6D1C-4C51-A66A-FE3AE623E6CB"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1417"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-9CEF5D2B-248F-4B32-80E2-F300F6EE7E63"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1421"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-FA931031-2E3A-4BEF-ADAF-7A39B85D34F0"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1672"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-2DCBE043-50E5-4FF4-ADC8-B2A770D3C002"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1727"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-17EFB295-B084-4728-8957-7F8D0C8E0DA6"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1747"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-E8941F3D-3D5F-4546-9633-0558B490F24D"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1772"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-D0F83B02-E40E-4C77-B2D4-D406A846D238"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1843"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-86346964-12FB-40E4-B29F-905A6408514D"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1843"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-7413206B-041C-431E-B35A-EB1B0DAFBB89"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1843"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-BC63FF8E-7486-43BD-AE4F-A4D6C0F13B74"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1939"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-15BBD41E-F924-429C-A5E0-6ECFEEF57EA6"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1978"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-4EDF0F7F-E9DB-4328-B47C-DB94F4E6C0A2"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P2036"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-8E2BFD52-B4F8-42CA-8146-4384F6BCBEC7"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P2752"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-478A53DC-41B3-4C46-8923-BB3A58F4E153"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3031"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-25746A10-4900-4903-890B-B4FF7E65149B"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3101"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-DD825CD8-4C9C-4C03-B5B1-038AFA5BC362"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3105"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-6A23CA9D-CCF5-4CFE-ABB6-E1385E0A3D33"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3151"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-48BC0964-A9A6-4F45-816F-BEF62BB816B2"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3186"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-A1F9C3F1-24F0-49CE-98CD-BFF1CB33309A"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3240"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-449B8E8A-AABC-4198-B323-A1E289429E89"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3420"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-35BB8F6F-4B8F-46D1-83E4-7029ADCE5636"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3827"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-69CF6121-0604-4A97-9808-1000788B6B5E"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P4301"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-718B2634-8DDF-427F-9B04-ED69C2AE0B69"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P4753"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-A791C784-F940-44FC-AF13-79222926B015"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Crataegus bibas"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Loquat"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mespilus japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nisperero japones"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nisperero japonés"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nispero del Japon"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nispero del Japón"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Níspero del Japon"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nispero japones"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Níspero japonés"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Photinia japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Lokvatti"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Nispero"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Bibacier"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Bibassier"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Neflier du Japon"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Néflier du Japon"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "gl",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "אסקדיניה"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Nešpola"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "hu",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Mespilus japonicus"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Nespolo del Giappone"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "ビワヨウ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "枇杷"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "枇杷葉"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ka",
+        "type" : "literal",
+        "value" : "იაპონური ზღმარტლი"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ka",
+        "type" : "literal",
+        "value" : "ლოქვა"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "lt",
+        "type" : "literal",
+        "value" : "Japoninė šliandra"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "nb",
+        "type" : "literal",
+        "value" : "Loquat"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "Japanse mispel"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "Japanse wolmispel"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "Neffel"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "Nispero"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Loquat"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Mespilus japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Miszpelnik japoński"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ameixa-japonesa"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Magnório"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Nêspera"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Nespra"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Nisper japonez"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Nisperul japonez"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "локва"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "мушмула японская"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "эриоботрия японская"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "rw",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "sc",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "sr",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "sr",
+        "type" : "literal",
+        "value" : "Mespilus japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "sr",
+        "type" : "literal",
+        "value" : "Photinia japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Loquat"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "to",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tr",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tr",
+        "type" : "literal",
+        "value" : "Maltaeriği"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tr",
+        "type" : "literal",
+        "value" : "Mespilus japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tr",
+        "type" : "literal",
+        "value" : "Photinia japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tr",
+        "type" : "literal",
+        "value" : "Yenidünya"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "vi",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "vi",
+        "type" : "literal",
+        "value" : "Lô quất"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "vi",
+        "type" : "literal",
+        "value" : "Tì bà"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "vi",
+        "type" : "literal",
+        "value" : "Tỳ bà"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "卢桔"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "琵琶果"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蘆橘"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "мушмула"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "шесек"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "японская мушмула обыкновенная"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "uk",
+        "type" : "literal",
+        "value" : "локва"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#statements"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "40"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#sitelinks"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "64"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P18"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Eriobotrya%20japonica%20JPG1b.jpg"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P18"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Louqat255.jpg"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P31"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16521"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P105"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7432"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P171"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1550170"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P225"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P18"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q41505-46579140-C9FA-4631-A6E7-9B2B289496D6"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P18"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-610AF082-C4A3-4E28-ACA2-656695FE6552"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P31"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41505-472AD62E-0FC7-4FD1-B706-2760B9A55975"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P105"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q41505-AD0C1F33-EC9A-4383-816C-B69801667548"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P171"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q41505-cb165398-485d-dcee-d621-cd4abf14d5ad"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P225"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q41505-602960D7-71E4-481B-A69B-16824D2DD376"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P373"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P566"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39777083"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P646"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "/m/02q6t8"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P685"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "32224"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P815"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "502403"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P830"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "628975"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P846"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "3024146"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P935"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#identifiers"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "26"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/version"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "629891536"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/dateModified"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-02-11T17:11:35Z"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "вид растение"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "espèce de plantes"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "hu",
+        "type" : "literal",
+        "value" : "növényfaj"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "specie di pianta della famiglia Rosaceae"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Art der Gattung Wollmispeln (Eriobotrya)"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "soort uit het geslacht Eriobotrya"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "species of plant, Loquat"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "небольшое вечнозелёное дерево или кустарник подсемейства Яблоневые семейства Розовые"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Nespereira"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "cdo",
+        "type" : "literal",
+        "value" : "Bì-bà"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "Loquat"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Lukwart"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ar",
+        "type" : "literal",
+        "value" : "بشملة يابانية"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ast",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "az",
+        "type" : "literal",
+        "value" : "Yapon əzgili"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "bo",
+        "type" : "literal",
+        "value" : "ཞུ་མཁན།"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "Nesprer del Japó"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ceb",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Mišpulník japonský"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Japanische Wollmispel"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Μουσμουλιά"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "eo",
+        "type" : "literal",
+        "value" : "Lanmespilo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Japoniako mizpirondo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "ازگیل ژاپنی"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Japaninmispeli"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "gl",
+        "type" : "literal",
+        "value" : "Nespereira"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "שסק"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Japanska mušmula"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ht",
+        "type" : "literal",
+        "value" : "Lokwat"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "hu",
+        "type" : "literal",
+        "value" : "japánnaspolya"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "hy",
+        "type" : "literal",
+        "value" : "նորաշխարհ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "id",
+        "type" : "literal",
+        "value" : "Loquat"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "ビワ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ka",
+        "type" : "literal",
+        "value" : "მუშმულა სუბტროპიკული"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "kk",
+        "type" : "literal",
+        "value" : "Жапон мушмуласы"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "비파나무"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "la",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "lt",
+        "type" : "literal",
+        "value" : "Japoninė lokva"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "mrj",
+        "type" : "literal",
+        "value" : "Япони мушмула"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "nan",
+        "type" : "literal",
+        "value" : "Gî-pê"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "nb",
+        "type" : "literal",
+        "value" : "Japansk mispel"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Nieśplik japoński"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "pnb",
+        "type" : "literal",
+        "value" : "لوکاٹ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Moșmon japonez"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "rw",
+        "type" : "literal",
+        "value" : "Umunoferiya"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sc",
+        "type" : "literal",
+        "value" : "Nespula"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sh",
+        "type" : "literal",
+        "value" : "Japanska mušmula"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Loquat"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sr",
+        "type" : "literal",
+        "value" : "јапанска мушмула"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sr-ec",
+        "type" : "literal",
+        "value" : "јапанска мушмула"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Japansk mispel"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "โลควอท"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "to",
+        "type" : "literal",
+        "value" : "Loketi"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "tr",
+        "type" : "literal",
+        "value" : "Malta eriği"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "لوکاٹ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "vi",
+        "type" : "literal",
+        "value" : "Nhót tây"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "war",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "yue",
+        "type" : "literal",
+        "value" : "枇杷"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "za",
+        "type" : "literal",
+        "value" : "Makbizbaz"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "枇杷"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "мушмула японская обыкновенная"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "uk",
+        "type" : "literal",
+        "value" : "мушмула японська звичайна"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Japanese plum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chinese plum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "loquat"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Loquat"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Nespola"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ar",
+        "type" : "literal",
+        "value" : "أكي دنيا"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ar",
+        "type" : "literal",
+        "value" : "اسكي دنيا"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ar",
+        "type" : "literal",
+        "value" : "اسكيدنيا"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ar",
+        "type" : "literal",
+        "value" : "اكي دنيا"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ar",
+        "type" : "literal",
+        "value" : "اكيدنيا"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ar",
+        "type" : "literal",
+        "value" : "بوصاع"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ar",
+        "type" : "literal",
+        "value" : "لمزاح"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ar",
+        "type" : "literal",
+        "value" : "مشملة"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "az",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "az",
+        "type" : "literal",
+        "value" : "Yapon eriobotriyası"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "Micaco"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "Micaquer"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "Nespler japonés"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "Nespra japonesa"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "Nespre"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "Nesprer japonés"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "Nesprer japonès"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Eriobotrya japonica"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Japanische Mispel"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Loquat"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Nespuli"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Nispero"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Japanese medlar"
+      }
+    } ]
+  }
+}

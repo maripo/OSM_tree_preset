@@ -1,0 +1,4089 @@
+{
+  "head" : {
+    "vars" : [ "k", "v" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1843"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-A7DA8227-F15A-4FF5-9A38-E541A52FADF2"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1939"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-C4E1747D-70B7-4ED4-86C8-43ACCB2C0DC0"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P2036"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-18CB4B6B-9B4D-420C-B93D-CAFAFBF4E4FF"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P2752"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-7872E112-86AF-445B-9027-643268D27AEF"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P2833"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-5632E59E-1044-4EE6-9407-A25AEA3338D4"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3031"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-F8B43335-7CAA-4AFE-B17A-EB9705FE21A6"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3101"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-601A1FEC-0BDA-4EFA-83CC-089C53D0FB24"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3105"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-44E6AE28-CE45-493A-8D81-245E46DF199E"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3151"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-157D2E2B-BB78-455B-8527-4EFF0DE8894B"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3186"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-E09F73CC-7696-41F8-8A2B-A21345416931"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3417"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-10D6B2FD-FD3B-4D08-BA4B-4E7FB73994FC"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3420"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-F9B9FB74-C744-418B-A400-1B6D10193A7A"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3591"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-64AD475E-8791-4EFA-9DD5-FE486B92FE32"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3746"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-24301FA2-7043-44E1-9412-722C076BEDF6"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P4000"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-167EFBE6-6EFD-4168-9E56-1ED364B2C0F7"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P4122"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-A3A152EF-819E-4C74-B2C6-2C1471FD8319"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P4301"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-EEEEF54E-160E-468C-BE6C-9545EDB87284"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P4728"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-4ED62517-FBBC-4356-8190-44BE5B1F8DC7"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P4753"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-20605F14-1588-4DE3-A549-108542B262EA"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "qu",
+        "type" : "literal",
+        "value" : "Uliw"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Măslin"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Олива европейская"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "rup",
+        "type" : "literal",
+        "value" : "Masinu"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "rw",
+        "type" : "literal",
+        "value" : "Umumuri"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sc",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "scn",
+        "type" : "literal",
+        "value" : "Uliva"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sco",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sk",
+        "type" : "literal",
+        "value" : "Oliva európska"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sl",
+        "type" : "literal",
+        "value" : "Oljka"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Pema e ullirit"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sr",
+        "type" : "literal",
+        "value" : "маслина"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "su",
+        "type" : "literal",
+        "value" : "Zaitun"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Olivträd"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Mzeituni"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ta",
+        "type" : "literal",
+        "value" : "சைத்தூன்"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "tg",
+        "type" : "literal",
+        "value" : "Зайтун"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มะกอกออลิฟ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Olibo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "tt",
+        "type" : "literal",
+        "value" : "Зәйтүн"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ug",
+        "type" : "literal",
+        "value" : "Zeytun"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "uk",
+        "type" : "literal",
+        "value" : "Маслина європейська"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "زیتون"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "uz",
+        "type" : "literal",
+        "value" : "Zaytun"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "vec",
+        "type" : "literal",
+        "value" : "Olivaro"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "vi",
+        "type" : "literal",
+        "value" : "Ô liu"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "vls",
+        "type" : "literal",
+        "value" : "Olyve"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "war",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "yi",
+        "type" : "literal",
+        "value" : "איילבירט"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "yue",
+        "type" : "literal",
+        "value" : "橄欖"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "za",
+        "type" : "literal",
+        "value" : "Makmbi"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "olewydden"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "olivera"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "pnb",
+        "type" : "literal",
+        "value" : "تلسمان"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Oliva"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "hu",
+        "type" : "literal",
+        "value" : "Oliva"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "sl",
+        "type" : "literal",
+        "value" : "Oliva"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "olive tree"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ar",
+        "type" : "literal",
+        "value" : "الزيتونة"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Olivo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Olivo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "vec",
+        "type" : "literal",
+        "value" : "Olivo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "da",
+        "type" : "literal",
+        "value" : "Olive"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Olive"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Acebuche"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "זית"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Olivier"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "oc",
+        "type" : "literal",
+        "value" : "Olivier"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Олива"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Olivi"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "an",
+        "type" : "literal",
+        "value" : "Olivera"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Оливки"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "la",
+        "type" : "literal",
+        "value" : "Oliva"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ar",
+        "type" : "literal",
+        "value" : "الزيتون"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Оливковое дерево"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Oleaster"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "an",
+        "type" : "literal",
+        "value" : "Olea europea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "an",
+        "type" : "literal",
+        "value" : "Olibera"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "arc",
+        "type" : "literal",
+        "value" : "ܙܝܬܘܢܐ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "az",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "be",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "be",
+        "type" : "literal",
+        "value" : "Аліва"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "be",
+        "type" : "literal",
+        "value" : "Масліна культурная"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "Зелени маслини"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "Маслини"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "Маслинов"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "bs",
+        "type" : "literal",
+        "value" : "Masline"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "Olea europea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "Oliverar"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "Oliveres"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ckb",
+        "type" : "literal",
+        "value" : "زەیتون"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Olewydd"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Olif"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "da",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Echter Ölbaum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Schwarze Olive"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Ελιές"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "eo",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "eo",
+        "type" : "literal",
+        "value" : "Olivarbaro"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "eo",
+        "type" : "literal",
+        "value" : "Olivujo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Aceituno"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Empeltre"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Jocote de mico"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Olea europea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Olivar"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Euroopa õlipuu"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Oliivipuu"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Õlipuu"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Olea europeaea ssp oleaster"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Olibondo basati"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Olibondo basatia"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Oliivi"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Oliivipuu"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Öljyoliivi"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Bois d'olive noir"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "gl",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "gsw",
+        "type" : "literal",
+        "value" : "Ölbaum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "זיתים"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "עץ זית"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "जैतून"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "hu",
+        "type" : "literal",
+        "value" : "Európai olajfa"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "hu",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "id",
+        "type" : "literal",
+        "value" : "Pohon zaytun"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "id",
+        "type" : "literal",
+        "value" : "Zaytun"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "is",
+        "type" : "literal",
+        "value" : "Ólífutré"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Olea europea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Olivastro"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Patogeni chiave dell'olivo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Ulivi"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "オリーヴ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "オレーフ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "オレフ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "阿列布"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "kab",
+        "type" : "literal",
+        "value" : "Tazemurt"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "la",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "lbe",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "lt",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Eiropas olīvkoks"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Olīva"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Olīvas"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Olīve"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Olīves"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "mk",
+        "type" : "literal",
+        "value" : "маслиново дрво"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ml",
+        "type" : "literal",
+        "value" : "Olive"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ml",
+        "type" : "literal",
+        "value" : "ഒലിവു മരം"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ms",
+        "type" : "literal",
+        "value" : "Pokok Zaitun"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "nb",
+        "type" : "literal",
+        "value" : "Europeisk oliventre"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "nb",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "nb",
+        "type" : "literal",
+        "value" : "Oliventre"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "Olijfboom"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "Olijven"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "nn",
+        "type" : "literal",
+        "value" : "Oliventre"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "oc",
+        "type" : "literal",
+        "value" : "Oliu"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "oc",
+        "type" : "literal",
+        "value" : "Olivièr"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Olea europea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ps",
+        "type" : "literal",
+        "value" : "زيتون"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "qu",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "qu",
+        "type" : "literal",
+        "value" : "Olivo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Masline"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Маслина европейская"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Маслина культурная"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Оливка"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "rw",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "rw",
+        "type" : "literal",
+        "value" : "Umuhongoramugita"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "rw",
+        "type" : "literal",
+        "value" : "Umunzenze"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "rw",
+        "type" : "literal",
+        "value" : "Umuzenzenzi"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "sc",
+        "type" : "literal",
+        "value" : "OLIA"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "scn",
+        "type" : "literal",
+        "value" : "Ulivi"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "scn",
+        "type" : "literal",
+        "value" : "Ulivu"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "sh",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "sk",
+        "type" : "literal",
+        "value" : "Olivovník"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "sk",
+        "type" : "literal",
+        "value" : "Olivovník európsky"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "sl",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "sr",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "sr",
+        "type" : "literal",
+        "value" : "Маслине"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "sr",
+        "type" : "literal",
+        "value" : "Маслинка"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "sr",
+        "type" : "literal",
+        "value" : "Маслињаци"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Olivkvist"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ta",
+        "type" : "literal",
+        "value" : "சைதூண்"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "ออลิฟ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Bunga ng oliba"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Bunga ng olibo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "O. europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Oliba"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Olive fruit"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Olive tree"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Prutas ng oliba"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Prutas ng olibo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Puno ng oliba"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Puno ng olibo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Punong oliba"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tl",
+        "type" : "literal",
+        "value" : "Punong olibo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tr",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "tr",
+        "type" : "literal",
+        "value" : "Zeytincilik"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ug",
+        "type" : "literal",
+        "value" : "زەيتۇن"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "uk",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "uk",
+        "type" : "literal",
+        "value" : "Європейська маслина"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "uk",
+        "type" : "literal",
+        "value" : "Олива європейська"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "uk",
+        "type" : "literal",
+        "value" : "Оливки"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "uz",
+        "type" : "literal",
+        "value" : "Zaytun daraxti"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "vec",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "vec",
+        "type" : "literal",
+        "value" : "Ołivo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "vec",
+        "type" : "literal",
+        "value" : "Ułivo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#identifiers"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "35"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/version"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "627469599"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/dateModified"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-02-06T11:18:10Z"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "ar",
+        "type" : "literal",
+        "value" : "نوع من النباتات"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "вид растение"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "bn",
+        "type" : "literal",
+        "value" : "উদ্ভিদের প্রজাতি"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "espècie de planta"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "species of plant"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "especie vegetal"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "gl",
+        "type" : "literal",
+        "value" : "especie de planta"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "hu",
+        "type" : "literal",
+        "value" : "növényfaj"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "hy",
+        "type" : "literal",
+        "value" : "բույսերի տեսակ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "specie de plante"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "вид растений"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "lloj i bimëve"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "specie di pianta della famiglia Oleaceae"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "espèce de plante"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Art der Gattung Ölbäume (Olea)"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "da",
+        "type" : "literal",
+        "value" : "stedsegrønt træ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מין ממשפחת הזיתיים"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "boom van de olijffamilie (Oleaceae)"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "la",
+        "type" : "literal",
+        "value" : "Olea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "mk",
+        "type" : "literal",
+        "value" : "маслина"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Olivenbaum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "da",
+        "type" : "literal",
+        "value" : "Oliven"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "nb",
+        "type" : "literal",
+        "value" : "Oliven"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "nn",
+        "type" : "literal",
+        "value" : "Oliven"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "io",
+        "type" : "literal",
+        "value" : "Olivo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "tr",
+        "type" : "literal",
+        "value" : "Zeytin"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Ελιά"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Oliveira"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "オリーブ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "id",
+        "type" : "literal",
+        "value" : "Zaitun"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ne",
+        "type" : "literal",
+        "value" : "जैतुन"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ar",
+        "type" : "literal",
+        "value" : "زيتون"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "زیتون"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "gl",
+        "type" : "literal",
+        "value" : "Oliveira"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "pt-br",
+        "type" : "literal",
+        "value" : "Oliveira"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "橄欖"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Maslina"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "hu",
+        "type" : "literal",
+        "value" : "Olajfa"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sh",
+        "type" : "literal",
+        "value" : "Maslina"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Olienhout"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "aeb-arab",
+        "type" : "literal",
+        "value" : "زيتونة"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "aeb-latn",
+        "type" : "literal",
+        "value" : "zitouna"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "am",
+        "type" : "literal",
+        "value" : "ወይራ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "an",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "arc",
+        "type" : "literal",
+        "value" : "ܙܝܬܐ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "az",
+        "type" : "literal",
+        "value" : "Avropa zeytunu"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "be",
+        "type" : "literal",
+        "value" : "Масліна еўрапейская"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "маслина"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "bn",
+        "type" : "literal",
+        "value" : "জলপাই"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "bs",
+        "type" : "literal",
+        "value" : "Maslina"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "cdo",
+        "type" : "literal",
+        "value" : "Gāng-lāng"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ceb",
+        "type" : "literal",
+        "value" : "Olibo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ckb",
+        "type" : "literal",
+        "value" : "زەیتوون"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Olivovník evropský"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "dv",
+        "type" : "literal",
+        "value" : "ޒައިތޫނި"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "en-ca",
+        "type" : "literal",
+        "value" : "Olive"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "en-gb",
+        "type" : "literal",
+        "value" : "Olive"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "eo",
+        "type" : "literal",
+        "value" : "Olivarbo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Harilik õlipuu"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Olibondo"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Öljypuu"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Olivier européen"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ológ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "gn",
+        "type" : "literal",
+        "value" : "Tarumaite"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "gsw",
+        "type" : "literal",
+        "value" : "Olivebaum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "hak",
+        "type" : "literal",
+        "value" : "Kám-lám-su"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "זית אירופי"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "ज़ैतून"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "hy",
+        "type" : "literal",
+        "value" : "Ձիթենի եվրոպական"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ia",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "is",
+        "type" : "literal",
+        "value" : "Ólífa"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "jbo",
+        "type" : "literal",
+        "value" : "alzaitu"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "jv",
+        "type" : "literal",
+        "value" : "Zaitun"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "kab",
+        "type" : "literal",
+        "value" : "Tazemmurt"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "kn",
+        "type" : "literal",
+        "value" : "ಆಲಿವ್"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "올리브"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ku",
+        "type" : "literal",
+        "value" : "Zeytûn"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "lbe",
+        "type" : "literal",
+        "value" : "Зайтун"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "li",
+        "type" : "literal",
+        "value" : "Oliefboum"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "lt",
+        "type" : "literal",
+        "value" : "Europinis alyvmedis"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Olīvkoks"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ml",
+        "type" : "literal",
+        "value" : "ഒലിവ്"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "mr",
+        "type" : "literal",
+        "value" : "ऑलिव्ह"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ms",
+        "type" : "literal",
+        "value" : "Zaitun"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "na",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "nap",
+        "type" : "literal",
+        "value" : "Gliva"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "nds",
+        "type" : "literal",
+        "value" : "Öölboom"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "olijf"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "oc",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "pa",
+        "type" : "literal",
+        "value" : "ਜੈਤੂਨ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Oliwka europejska"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "pms",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "pnb",
+        "type" : "literal",
+        "value" : "زیتون"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ps",
+        "type" : "literal",
+        "value" : "ښوون"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "vi",
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "yi",
+        "type" : "literal",
+        "value" : "זית"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "木犀榄"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "油橄榄"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "黑欖"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "黑水欖"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#statements"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "52"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#sitelinks"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "115"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P18"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Perell%C3%B3%20-%20Old%20olive%20tree.jpg"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P18"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Olives%20vertes.JPG"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P31"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16521"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P105"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7432"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P171"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q296910"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P181"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Olive%20niche.jpg"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P225"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P227"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "4172414-8"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct-normalized/P227"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://d-nb.info/gnd/4172414-8"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P18"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-84305C9D-E11E-42BB-8C71-52516F7899E4"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P18"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q37083-D56F445F-62E2-430B-A140-1DCF91164F24"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P31"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-18F97BB8-86F6-4765-9E44-C17E6517652A"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P105"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q37083-C4D874C0-2006-465B-A0B1-D9DA7F73A657"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P171"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-EDFB3625-F4BF-4B7A-A798-F3048FCCE5B6"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P181"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-10b65c79-4409-37b7-f51c-ea040c7c28dc"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P225"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q37083-98C55E84-30A5-4B8D-94DC-3DCF66516F7B"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P227"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-8E50E5F5-F85F-4F5E-A5C3-0C233DC2DDF0"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P349"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "00568922"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P366"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35417711"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P373"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P508"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "33426"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P646"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "/m/05mln"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P685"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "4146"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P815"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "32990"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P830"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "579181"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P846"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "5415040"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P910"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9524249"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P935"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P960"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "23000814"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P961"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "610675-1"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1014"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "300266440"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1014"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "300311369"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1070"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "kew-355112"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1417"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "plant/olive-plant"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1421"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=25555"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1672"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1621080"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1672"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35101402"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1747"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "200017804"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1772"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "OLEU"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1807"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "9555"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1807"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "9565"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1843"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "olive"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1843"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "olive tree"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1939"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "6002868"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P2036"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "149209"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P2752"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "0a0aa6a5-a980-4d4f-b6cc-1cf3130598fd"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P2833"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "olive/olea-europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3031"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "OLVEU"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3101"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "6503"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3105"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "44593"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3151"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "57140"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3186"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "110002"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3417"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "Olea-Europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3420"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "5912"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3591"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "355112"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3746"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "202"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P4000"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14712"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P4122"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "Olea_europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P4301"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "Olea europaea"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P4728"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "459761"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P4753"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "1553"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct-normalized/P349"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://id.ndl.go.jp/auth/ndlna/00568922"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct-normalized/P508"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://purl.org/bncf/tid/33426"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct-normalized/P646"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://g.co/kg/m/05mln"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct-normalized/P961"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://ipni.org/urn:lsid:ipni.org:names:610675-1"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct-normalized/P1014"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://vocab.getty.edu/aat/300266440"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct-normalized/P1014"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://vocab.getty.edu/aat/300311369"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P349"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-4C8F33B4-087A-43E7-8C33-B796FE9DA29E"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P366"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-9fd11044-47ac-f86c-343b-3111752f265b"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P373"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q37083-B963B9BA-0A24-48A4-BCD3-97EAABEAC716"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P508"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q37083-6161D7D4-F454-4102-A5E8-CEB7FBE1722C"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P646"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-D8E06533-E3ED-42E5-90B5-BA0BEC4F61EC"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P685"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-F68EE1F7-B8A2-47E2-8E0F-BD50B137D93C"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P815"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-B42C4618-AE74-4089-9072-30B1B63D4D6F"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P830"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-FE6768FA-F5D1-4FA9-8A7E-D8AE5E9D8C86"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P846"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-7B8AD179-8E44-4C11-8C6C-1F2007AA2AA1"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P910"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-9DBFEC07-CA6A-4770-BE8B-ECDB2436F787"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P935"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-8510991A-9984-4457-BA63-3A19C84D7AA0"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P960"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-5F7982C3-55F3-4996-B8B8-0A85483655FF"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P961"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-E24F2B3A-59F6-42A5-899B-51F0B2DE9B06"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1014"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-059D3E67-05B3-4542-9A6F-A37AA47E5B80"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1014"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-44C1D3D2-A63B-4219-8318-59CA828A5A11"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1070"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-5BF2EBEE-7560-496B-8132-3EF48156F80D"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1417"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-13B205AA-5938-4000-BDED-2E12CF7AEFBF"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1421"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-B38E17BD-5295-4BF6-B391-01DE3E0B2A95"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1672"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-4e95288b-4ff9-ee61-8103-f99a6d526faa"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1672"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-d922a04a-45e2-072e-0bac-98bdacba6376"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1747"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-70125C94-9F6C-4CDA-8D1D-0377FBA45377"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1772"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-78392A1E-C188-483E-A208-E4620CADC142"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1807"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-8E739F8F-0330-4E10-8C03-A373718147C9"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1807"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-ECECC87A-9B9B-42F8-AE1B-9726F6EF89D5"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1843"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q37083-8E2EB61C-0A97-478F-A052-8561D5F643E1"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,1393 @@
+{
+  "head" : {
+    "vars" : [ "k", "v" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1843"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "モクセイ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1843"
+      },
+      "v" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "목서"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1843"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "桂花"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1843"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "桂花，木犀"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P2752"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "623dbf1f-7404-4a63-945e-6bfbc0b1b5bf"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3031"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "OSUFR"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3088"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "417944"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3105"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "44617"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3151"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "371103"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3186"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "111804"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P3591"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "354988"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct-normalized/P961"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://ipni.org/urn:lsid:ipni.org:names:610878-1"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P373"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q1209922-CA783C71-3D49-4A23-8D3D-0EEE31177714"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P566"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-23D3F5FB-4DB3-4C56-886D-95020F807D9A"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P685"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-C46D607E-D3A9-4074-92CB-C9C22B150D7A"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P815"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-234E6064-E34C-436F-8DAF-20C74C65368E"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P830"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-6610fc49-c9c3-47cd-878d-f726e9004034"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P846"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-A8844BE4-2658-4B6F-AA64-8DCBD40DCA2E"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P935"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-318B63D1-1B4F-4840-80B8-0EF6E249D66E"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P960"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-4E5C23BE-C124-424E-ABF3-98F611CEB068"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P961"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-683A7C2E-6988-455F-B2A3-353129F33678"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1070"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-DFC9BC3E-28B3-4706-AAA4-661BC1CC75B1"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1417"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-F7A818B0-969F-480F-AE11-6C476B7F15D3"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1421"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-1EB20EA5-5555-42A1-8419-59C1B3C92972"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1747"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-B0B5CE9B-5C91-44BC-99E4-43885F324B77"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1772"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-388E21B4-053E-4D54-A114-7DCEA0EA361D"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1843"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-09123A5E-D09F-4DF3-9654-AD80A7B52CFE"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1843"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-12F60A85-6BB4-4609-9BB2-B96C16082BD2"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1843"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-376A03E0-C873-425F-9A42-4CFAE5CD7AF5"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1843"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-39896023-4339-4BD7-842B-8338F996627B"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1843"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-44C2BB0D-EFA2-434F-A19E-6557CE88DCC5"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1843"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-4BAA848C-7D8E-4545-A2C0-E45ABD904D36"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1843"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-5DCE727E-4547-4983-9B5E-49DF23DF8330"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1843"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-7AC1427F-03C0-46E5-8C32-C5ED0F6FC7D4"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1843"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-AB8EFAB8-4BE1-43E1-824A-EA8BF54366BB"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1843"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-B75678B2-5D75-43FF-9E04-BB147B5E3737"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1843"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-CE19FDA3-444E-45B1-8DAC-57F87A652674"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P1843"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-DBB0698C-28B1-4681-9577-1F0A37559480"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P2752"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-74270F05-725A-43C3-A1DC-D480C35C8063"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3031"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-14706CA8-BD18-43EF-AE46-946C2E66C18F"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3088"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-75DECF09-019D-4852-8DB8-4A7216FF1E11"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3105"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-7E41F829-A32B-403D-8AB0-A40FE6E641BD"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3151"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-06EB454E-B7B5-4653-8831-EE8487E809D8"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3186"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-9F33D8A0-4054-4804-B766-D3EDF4AF4216"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P3591"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-DE0BA4AE-5874-4F08-9179-533A240E57CC"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#identifiers"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "17"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/version"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "623337162"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/dateModified"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-01-25T14:58:39Z"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "ar",
+        "type" : "literal",
+        "value" : "نوع من النباتات"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "вид растение"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "bn",
+        "type" : "literal",
+        "value" : "উদ্ভিদের প্রজাতি"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "ca",
+        "type" : "literal",
+        "value" : "espècie de planta"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "species of plant"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "gl",
+        "type" : "literal",
+        "value" : "especie de planta"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "he",
+        "type" : "literal",
+        "value" : "מין של צמח"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "hy",
+        "type" : "literal",
+        "value" : "բույսերի տեսակ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "specie de plante"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "вид растений"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "lloj i bimëve"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "especie de planta"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Art der Gattung Duftblüten (Osmanthus)"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "soort uit het geslacht Osmanthus"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "specie di pianta della famiglia Oleaceae"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://schema.org/description"
+      },
+      "v" : {
+        "xml:lang" : "id",
+        "type" : "literal",
+        "value" : "tanaman"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "yue",
+        "type" : "literal",
+        "value" : "桂"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ar",
+        "type" : "literal",
+        "value" : "عبقة أريجية"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "Osmanthus fragrans"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ceb",
+        "type" : "literal",
+        "value" : "Osmanthus fragrans"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Süße Duftblüte"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "de-ch",
+        "type" : "literal",
+        "value" : "Süsse Duftblüte"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Osmanthus fragrans"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "tea olive"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "اسمانتوس فراگناس"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Olivier odorant"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सिलंग"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "id",
+        "type" : "literal",
+        "value" : "Osmanthus fragrans"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Osmanthus fragrans"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "モクセイ"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "목서"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "la",
+        "type" : "literal",
+        "value" : "Osmanthus fragrans"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "nan",
+        "type" : "literal",
+        "value" : "Kùi-hoe"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "nb",
+        "type" : "literal",
+        "value" : "Osmanthus fragrans"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "Osmanthus fragrans"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Osmanthus fragrans"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "sv",
+        "type" : "literal",
+        "value" : "Osmanthus fragrans"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "vi",
+        "type" : "literal",
+        "value" : "Hoa mộc"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "war",
+        "type" : "literal",
+        "value" : "Osmanthus fragrans"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "za",
+        "type" : "literal",
+        "value" : "Gveiqva"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "桂花"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "zh-hans",
+        "type" : "literal",
+        "value" : "桂花"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "zh-hant",
+        "type" : "literal",
+        "value" : "桂花"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "zh-hk",
+        "type" : "literal",
+        "value" : "桂花"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      "v" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "桂花"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "きんもくせい"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "桂花"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "金木犀"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "丹桂"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Kinmokusei"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Olea fragrans"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Osmanthus fragrans"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Osmanthus fragrans"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "ओज़मैनथस"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Osmanti"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Osmanto"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "은목서"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "vi",
+        "type" : "literal",
+        "value" : "Osmanthus fragrans"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "木樨"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "木犀"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "桂树"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "樨"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.w3.org/2004/02/skos/core#altLabel"
+      },
+      "v" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "香樨"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#statements"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#sitelinks"
+      },
+      "v" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "27"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P18"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Osmanthus%20fragrans%20%28orange%20flowers%29.jpg"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P31"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16521"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P105"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7432"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P171"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q618810"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P225"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "Osmanthus fragrans"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P18"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q1209922-727C7613-F710-48D3-9192-1749A3A22EB6"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P31"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-2E3C0449-F7FD-4F4D-B1CE-17280443D337"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P105"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q1209922-28BF259B-A54A-4150-8310-0CE37818C100"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P171"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1209922-321DA675-3B04-4210-B110-8E30D28B17A8"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/P225"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q1209922-55B8B3F3-9AA8-4200-88F8-D1F01DE1194E"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P373"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "Osmanthus fragrans"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P566"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39309444"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P685"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "93977"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P815"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "505977"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P830"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "483929"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P846"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "3172278"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P935"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "Osmanthus fragrans"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P960"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "23000499"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P961"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "610878-1"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1070"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "kew-354988"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1417"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "plant/sweet-olive"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1421"
+      },
+      "v" : {
+        "type" : "uri",
+        "value" : "https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=26123"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1747"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "210001392"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1772"
+      },
+      "v" : {
+        "type" : "literal",
+        "value" : "OSFR2"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1843"
+      },
+      "v" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Süße Duftblüte"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1843"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fragrant Olive"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1843"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sweet Olive"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1843"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sweet osmanthus"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1843"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sweet Osmanthus"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1843"
+      },
+      "v" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tea Olive"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1843"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Olivier de Chine"
+      }
+    }, {
+      "k" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1843"
+      },
+      "v" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Olivier odorant"
+      }
+    } ]
+  }
+}

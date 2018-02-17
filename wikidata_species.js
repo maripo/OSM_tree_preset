@@ -35,7 +35,9 @@ function processData (json) {
 		if (keyUri==KEY_TAXON_NAME) {
 			taxonName = value;
 		} else if (keyUri==KEY_TAXON_RANK) {
-			taxonRank = value;
+			//http://www.wikidata.org/entity/Q7432	species
+			//http://www.wikidata.org/entity/Q7432
+			taxonRank = taxonTable[value];
 		} else if (keyUri==KEY_LABEL) {
 			let lang = v["xml:lang"];
 			if (lang) {
@@ -53,16 +55,15 @@ function processData (json) {
 	return {
 		"species":taxonName,
 		"taxon": taxonRank,
-		"name": commonNames
+		"name": commonNames,
+		"label": labels
 	};
 }
 let WIKIDATA_ENDPOINT = "https://query.wikidata.org/sparql";
 
 function download (url, filePath, callback) {
 	var file = fs.createWriteStream(filePath);
-	console.log("Download " + url);
 	var request = https.get(url, function(response) {
-		console.log("Response="+response);
 		response.pipe(file);
 		file.on("finish", function() {
 			file.close(callback);
@@ -83,30 +84,30 @@ function readFile (file, onSuccess, onError) {
 function downloadCached (downloadURL, cachePath, callback) {
 	console.log("file=" + cachePath);
 	if (fs.existsSync(cachePath)) {
-		console.log("Cache exists. Just open it.");
+		console.log("Cache exists. " + cachePath);
 		readFile(cachePath, callback);
 	} else {
-		console.log("Download.");
+		console.log("Cache not found. Download " + downloadURL);
 		download (downloadURL, cachePath, callback);
 	}
 }
 
 function getWikidata (wikidataId, onSuccess, onError) {
-	let cachePath = "wikidata/" + wikidataId + ".json"
-	let query = "SELECT * WHERE { wd:" + wikidataId + " ?k ?v }";
-	let wikidataURL = WIKIDATA_ENDPOINT + "?format=json&query=" + encodeURIComponent(query);
-	downloadCached(wikidataURL, cachePath, function () {
-		readFile(cachePath, function (content) {
-				onSuccess(processData(JSON.parse(content)));
-			},
-			function(err) {
-				onError(err);
-			}
-		);
+	loadTaxonRankTable(function() {
+		let cachePath = "wikidata/" + wikidataId + ".json"
+		let query = "SELECT * WHERE { wd:" + wikidataId + " ?k ?v }";
+		let wikidataURL = WIKIDATA_ENDPOINT + "?format=json&query=" + encodeURIComponent(query);
+		downloadCached(wikidataURL, cachePath, function () {
+			readFile(cachePath, function (content) {
+					onSuccess(processData(JSON.parse(content)));
+				},
+				function(err) {
+					onError(err);
+				}
+			);
+		});
 	});
 }
-const PRUNUS_MUME =  "Q157763";
-const GINKGO_BILOBA = "Q43284";
 
 function debugObj (obj) {
 	console.log("species=" + obj.species);
@@ -119,10 +120,40 @@ function debugObj (obj) {
 	}
 
 }
+const TAXON_RANK_TSV = "wikidata/taxon_ranks.tsv";
+let taxonTable = null;
+function loadTaxonRankTable (callback) {
+	if (taxonTable) {
+		callback(); return;
+	}
+	taxonTable = [];
+	readFile(TAXON_RANK_TSV, function (content) {
+			console.log(content);
+			let lines = content.split("\n");
+			for (let i in lines) {
+				let values = lines[i].split("\t");
+				taxonTable[values[0]] = values[1]; 
+			}
+			callback();
+		},
+		function(err) {
+			console.log("Error. Failed to load " + TAXON_RANK_TSV);
+		}
+	);
+}
 
+const PRUNUS_MUME =  "Q157763";
+const GINKGO_BILOBA = "Q43284";
+/*
+// Demo code
 (function(){
 	getWikidata(GINKGO_BILOBA, 
 		function (obj) {console.log("onSuccess"); debugObj(obj); },
 		function (err) {console.log("onError");}
 	);
 })();
+*/
+
+exports.getWikidata = function (wikidataId, onSuccess, onError) {
+	getWikidata(wikidataId, onSuccess, onError);
+};

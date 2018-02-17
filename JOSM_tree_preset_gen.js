@@ -4,7 +4,10 @@
 */
 
 let fs = require('fs');
+let wds = require('./wikidata_species.js');
 let builder = require('xmlbuilder');
+
+let LANGUAGES = ["en", "ja", "zh-cn", "zh-tw", "ko"];
 
 function read (file, onSuccess, onError) {
 	fs.readFile(file, 'utf8', function(err, data) {
@@ -89,12 +92,13 @@ const COLUMNS = [
 	new FieldAnnotatedText("leaf_cycle"),
 	new FieldLink()
 ];
+const WIKIDATA_COLUMN_ID_INDEX = 10;
 
 class Group {
 	constructor (values) {
 		this.name = values[0];
 	}
-	appendNodeTo (parentNode) {
+	appendNodeTo (parentNode, wikdiata) {
 		return parentNode.ele("group",{name:this.name});
 	}
 }
@@ -111,11 +115,20 @@ class Preset {
 		}
 		return false;
 	}
-	appendNodeTo (parentNode) {
+	appendNodeTo (parentNode, wikidata) {
 		let presetName = this.values[0];
 		let itemNode = parentNode.ele("item", {"name":presetName, 
 			"icon":this.isNeedleleaved()?"presets/landmark/trees_conifer.svg":"presets/landmark/trees.svg"});
-		
+		if (wikidata) {
+			for (let i in LANGUAGES) {
+				let lang = LANGUAGES[i];
+				let label = wikidata.name[lang] || wikidata.label[lang];
+				// console.log("Wikidata found. " + lang + "->" + (wikidata.name[lang] || wikidata.label[lang]));
+				if (label) {
+					itemNode.att(lang+".name", label);
+				}
+			}
+		}
 		// default fields (label, name)
 		itemNode.ele("label", {"text":presetName});
 		itemNode.ele("text",{ "key":"name", "text":"名前" });
@@ -147,8 +160,33 @@ function parseHierarchy (str) {
 	}
 	return {type:PATH_TYPE_ERROR}
 }
-
-function parse (content) {
+function fetchWikidata (wikidataIds, callback) {
+	let map = {};
+	console.log(wikidataIds.join(", "));
+	if (wikidataIds.length==0) {
+		// Has no wikidata ID
+		callback(map);
+	}
+	let fetchedCount = 0;
+	for (let i=0; i<wikidataIds.length; i++) {
+		let wikidataId = wikidataIds[i];
+		console.log(wikidataId);
+		wds.getWikidata(wikidataId, 
+			function (obj) {
+				console.log("=== https://www.wikidata.org/wiki/" + wikidataId + "===");
+				debugObj(obj);
+				map[wikidataId] = obj;
+				fetchedCount++;
+				if (fetchedCount == wikidataIds.length) {
+					console.log("ALL DATA FETCHED.");
+					callback(map);
+				}
+			},
+			function (err) {console.log("onError");}
+		);
+	}
+}
+function parse (content, callback) {
 	let lines = content.split("\n");
 	
 	let xml = builder.create("presets");
@@ -171,21 +209,56 @@ function parse (content) {
 		 	
 	let breadcrumb = [group];
 	let depth = 0;
+	let wikidataIds = [];
 	for (let i=1; i<lines.length; i++) {
 		let values = lines[i].replace("\r","").replace("\n","").split("\t");
-		let pathStr = values.splice(0, 1);
-		let path = parseHierarchy(pathStr);
-		if (path.type==PATH_TYPE_ITEM) {
-			breadcrumb[path.depth+1] = new Preset(values).appendNodeTo(breadcrumb[path.depth]);
+		let wikidataId = values[WIKIDATA_COLUMN_ID_INDEX];
+		if (wikidataId!=null && wikidataId.length>0 && wikidataId.match(/^Q[0-9]+/)) {
+			//console.log(wikidataId)
+			wikidataIds.push(wikidataId);
 		}
-		 else {
-		 	breadcrumb[path.depth+1] = new Group(values).appendNodeTo(breadcrumb[path.depth]);
-		 }
 	}
-	return xml;
+	console.log(wikidataIds.length + " Wikidata IDs found.");
+	fetchWikidata(wikidataIds, function (wikdiataMap) {
+		for (let i=1; i<lines.length; i++) {
+			let values = lines[i].replace("\r","").replace("\n","").split("\t");
+			let wikidataId = values[WIKIDATA_COLUMN_ID_INDEX];
+			let pathStr = values.splice(0, 1);
+			let path = parseHierarchy(pathStr);
+			if (path.type==PATH_TYPE_ITEM) {
+				//console.log("Hoge " + values[WIKIDATA_COLUMN_ID_INDEX-1]);
+				breadcrumb[path.depth+1] = new Preset(values).appendNodeTo(breadcrumb[path.depth], wikdiataMap[wikidataId]);
+			}
+			 else {
+			 	breadcrumb[path.depth+1] = new Group(values).appendNodeTo(breadcrumb[path.depth], wikdiataMap);
+			 }
+		}
+		callback(xml);	
+	});
+
 }
 
+function debugObj (obj) {
+	console.log("species=" + obj.species);
+	console.log("taxon=" + obj.taxon);
+	let langs = ["en", "ja", "zh-ch", "zh-tw", "ko"];
+	for (let i in langs) {
+		let lang = langs[i];
+		console.log(lang + "->" + (obj.name[lang] || obj.label[lang]));
+	}
+
+}
+
+const PRUNUS_MUME =  "Q157763";
+const GINKGO_BILOBA = "Q43284";
 (function(){
+
+	/*
+	wds.getWikidata(PRUNUS_MUME, 
+		function (obj) {console.log("onSuccess"); debugObj(obj); },
+		function (err) {console.log("onError");}
+	);
+	*/
 	let inFile = null;
 	let outFile = null;
 	process.argv.forEach(function (value, index, array) {
@@ -199,9 +272,12 @@ function parse (content) {
 		return;
 	}
 	read(inFile, function (content) {
-			let xml = parse(content);
-			fs.writeFileSync(outFile, xml.end({pretty:true}));
+			parse(content, function (xml) {
+				fs.writeFileSync(outFile, xml.end({pretty:true}));
+			});
 		}, 
 		function(err){
-			console.log("Error " + err);});
+			console.log("Error " + err);
+		}
+	);
 })();
