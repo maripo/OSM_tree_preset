@@ -17,6 +17,7 @@
       <key key="species" value="Ginkgo biloba"/>
       <key key="genus:ja" value="イチョウ"/>
       <key key="genus:en" value="Ginkgo"/>
+      <key key="taxon" value="species"/>
       <combo key="sex" text="雌雄" values="male,female"/>
       <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q43284"/>
@@ -30,17 +31,22 @@
       <key key="species" value="Cryptomeria japonica"/>
       <key key="genus:ja" value="スギ"/>
       <key key="genus:en" value="Cryptomeria"/>
+      <key key="taxon" value="species"/>
       <key key="leaf_cycle" value="evergreen"/>
+      <link href="https://www.wikidata.org/wiki/Q147388"/>
       <reference ref="japan_trees"/>
     </item>
     <item name="ヒマラヤスギ" icon="presets/landmark/trees_conifer.svg">
       <label text="ヒマラヤスギ"/>
       <text key="name" text="名前"/>
       <key key="leaf_type" value="needleleaved"/>
+      <key key="genus" value="Cedrus"/>
       <key key="species" value="Cedrus deodara"/>
       <key key="genus:ja" value="ヒマラヤスギ"/>
       <key key="genus:en" value="Himalayan Cedar"/>
+      <key key="taxon" value="species"/>
       <key key="leaf_cycle" value="evergreen"/>
+      <link href="https://www.wikidata.org/wiki/Q146935"/>
       <reference ref="japan_trees"/>
     </item>
     <group name="マツ">
@@ -53,6 +59,7 @@
         <key key="genus:en" value="Pine"/>
         <key key="taxon" value="genus"/>
         <key key="leaf_cycle" value="evergreen"/>
+        <link href="https://www.wikidata.org/wiki/Q12024"/>
         <reference ref="japan_trees"/>
       </item>
       <item name="アカマツ" icon="presets/landmark/trees_conifer.svg">
@@ -148,7 +155,9 @@
         <key key="genus" value="Cerasus"/>
         <key key="genus:ja" value="サクラ"/>
         <key key="genus:en" value="Cherry blossom"/>
+        <key key="taxon" value="genus"/>
         <key key="leaf_cycle" value="deciduous"/>
+        <link href="https://www.wikidata.org/wiki/Q871991"/>
         <reference ref="japan_trees"/>
       </item>
       <item name="ソメイヨシノ" icon="presets/landmark/trees.svg">
@@ -159,6 +168,7 @@
         <key key="species" value="Cerasus × yedoensis"/>
         <key key="genus:ja" value="ソメイヨシノ"/>
         <key key="leaf_cycle" value="deciduous"/>
+        <link href="https://www.wikidata.org/wiki/Q163078"/>
         <reference ref="japan_trees"/>
       </item>
       <item name="ヤマザクラ" icon="presets/landmark/trees.svg">
@@ -183,6 +193,7 @@
         <key key="taxon" value="genus"/>
         <combo key="sex" text="雌雄" values="male,female"/>
         <key key="leaf_cycle" value="deciduous"/>
+        <link href="https://www.wikidata.org/wiki/Q36050"/>
         <reference ref="japan_trees"/>
       </item>
       <item name="シダレヤナギ" icon="presets/landmark/trees.svg">
@@ -195,6 +206,7 @@
         <key key="genus:en" value="Weeping willow"/>
         <combo key="sex" text="雌雄" values="male,female"/>
         <key key="leaf_cycle" value="deciduous"/>
+        <link href="https://www.wikidata.org/wiki/Q156307"/>
         <reference ref="japan_trees"/>
       </item>
     </group>
@@ -208,6 +220,7 @@
       <key key="taxon" value="genus"/>
       <combo key="sex" text="雌雄" values="male,female"/>
       <key key="leaf_cycle" value="deciduous"/>
+      <link href="https://www.wikidata.org/wiki/Q25356"/>
       <reference ref="japan_trees"/>
     </item>
     <item name="イロハモミジ" icon="presets/landmark/trees.svg">
@@ -219,6 +232,7 @@
       <key key="genus:ja" value="イロハモミジ"/>
       <key key="genus:en" value="Japanese maple"/>
       <key key="leaf_cycle" value="deciduous"/>
+      <link href="https://www.wikidata.org/wiki/Q269224"/>
       <reference ref="japan_trees"/>
     </item>
     <item name="スズカケノキ" icon="presets/landmark/trees.svg">
@@ -229,6 +243,7 @@
       <key key="species" value="Platanus orientalis"/>
       <key key="genus:ja" value="スズカケノキ"/>
       <key key="leaf_cycle" value="deciduous"/>
+      <link href="https://www.wikidata.org/wiki/Q161105"/>
       <reference ref="japan_trees"/>
     </item>
     <item name="コブシ" icon="presets/landmark/trees.svg">
@@ -277,6 +292,7 @@
       <key key="genus:ja" value="オリーブ"/>
       <key key="genus:en" value="Olive"/>
       <key key="leaf_cycle" value="evergreen"/>
+      <link href="https://www.wikidata.org/wiki/Q37083"/>
       <reference ref="japan_trees"/>
     </item>
     <item name="ユリノキ" icon="presets/landmark/trees.svg">
@@ -289,6 +305,18 @@
       <key key="genus:en" value="American tulip tree"/>
       <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q158783"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="ニセアカシア" icon="presets/landmark/trees.svg">
+      <label text="ニセアカシア"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Robinia"/>
+      <key key="species" value="Robinia pseudoacacia"/>
+      <key key="genus:ja" value="ニセアカシア"/>
+      <key key="genus:en" value="Black locust"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <link href="https://www.wikidata.org/wiki/Q157417"/>
       <reference ref="japan_trees"/>
     </item>
     <item name="エンジュ" icon="presets/landmark/trees.svg">
@@ -347,6 +375,7 @@
       <key key="species" value="Camellia sasanqua"/>
       <key key="genus:ja" value="サザンカ"/>
       <key key="genus:en" value="Sasanqua"/>
+      <key key="taxon" value="species"/>
       <key key="leaf_cycle" value="evergreen"/>
       <link href="https://www.wikidata.org/wiki/Q2590046"/>
       <reference ref="japan_trees"/>
@@ -359,20 +388,33 @@
       <key key="species" value="Punica granatum"/>
       <key key="genus:ja" value="ザクロ"/>
       <key key="genus:en" value="Pomegranate"/>
+      <key key="taxon" value="species"/>
       <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q13188"/>
       <reference ref="japan_trees"/>
     </item>
-    <item name="ニセアカシア" icon="presets/landmark/trees.svg">
-      <label text="ニセアカシア"/>
+    <item name="ツツジ" icon="presets/landmark/trees.svg">
+      <label text="ツツジ"/>
       <text key="name" text="名前"/>
       <key key="leaf_type" value="broadleaved"/>
-      <key key="genus" value="Robinia"/>
-      <key key="species" value="Robinia pseudoacacia"/>
-      <key key="genus:ja" value="ニセアカシア"/>
-      <key key="genus:en" value="Black locust"/>
+      <key key="genus" value="Rhododendron"/>
+      <key key="genus:ja" value="ツツジ"/>
+      <key key="genus:en" value="Azalea"/>
+      <key key="taxon" value="genus"/>
+      <link href="https://www.wikidata.org/wiki/Q189393"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="アジサイ" icon="presets/landmark/trees.svg">
+      <label text="アジサイ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Hydrangea"/>
+      <key key="species" value="Hydrangea macrophylla"/>
+      <key key="genus:ja" value="アジサイ"/>
+      <key key="genus:en" value="French hydrangea"/>
+      <key key="taxon" value="species"/>
       <key key="leaf_cycle" value="deciduous"/>
-      <link href="https://www.wikidata.org/wiki/Q157417"/>
+      <link href="https://www.wikidata.org/wiki/Q159219"/>
       <reference ref="japan_trees"/>
     </item>
   </group>
