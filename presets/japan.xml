@@ -270,6 +270,19 @@
       <link href="https://www.wikidata.org/wiki/Q926249"/>
       <reference ref="japan_trees"/>
     </item>
+    <item name="ハナミズキ" icon="presets/landmark/trees.svg">
+      <label text="ハナミズキ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Cornus"/>
+      <key key="species" value="Cornus florida"/>
+      <key key="genus:ja" value="ハナミズキ"/>
+      <key key="genus:en" value="flowering dogwood"/>
+      <key key="taxon" value="species"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <link href="https://www.wikidata.org/wiki/Q887221"/>
+      <reference ref="japan_trees"/>
+    </item>
     <item name="キンモクセイ" icon="presets/landmark/trees.svg">
       <label text="キンモクセイ"/>
       <text key="name" text="名前"/>
@@ -281,6 +294,18 @@
       <combo key="sex" text="雌雄" values="male,female"/>
       <key key="leaf_cycle" value="evergreen"/>
       <link href="https://www.wikidata.org/wiki/Q1209922"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="ヒイラギ" icon="presets/landmark/trees.svg">
+      <label text="ヒイラギ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Osmanthus"/>
+      <key key="species" value="Osmanthus heterophyllus"/>
+      <key key="genus:ja" value="ヒイラギ"/>
+      <key key="taxon" value="species"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <link href="https://www.wikidata.org/wiki/Q2364246"/>
       <reference ref="japan_trees"/>
     </item>
     <item name="オリーブ" icon="presets/landmark/trees.svg">
@@ -351,6 +376,7 @@
       <key key="species" value="Eriobotrya japonica"/>
       <key key="genus:ja" value="ビワ"/>
       <key key="genus:en" value="Loquat"/>
+      <key key="taxon" value="species"/>
       <key key="leaf_cycle" value="evergreen"/>
       <link href="https://www.wikidata.org/wiki/Q41505"/>
       <reference ref="japan_trees"/>
@@ -363,6 +389,7 @@
       <key key="species" value="Camellia japonica"/>
       <key key="genus:ja" value="ツバキ"/>
       <key key="genus:en" value="Japanese camellia"/>
+      <key key="taxon" value="species"/>
       <key key="leaf_cycle" value="evergreen"/>
       <link href="https://www.wikidata.org/wiki/Q160121"/>
       <reference ref="japan_trees"/>
@@ -415,6 +442,32 @@
       <key key="taxon" value="species"/>
       <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q159219"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="ムクゲ" icon="presets/landmark/trees.svg">
+      <label text="ムクゲ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Hibiscus"/>
+      <key key="species" value="Hibiscus syriacus"/>
+      <key key="genus:ja" value="ムクゲ"/>
+      <key key="genus:en" value="Rose of Sharon"/>
+      <key key="taxon" value="species"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <link href="https://www.wikidata.org/wiki/Q157756"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="コノテガシワ" icon="presets/landmark/trees_conifer.svg">
+      <label text="コノテガシワ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="needleleaved"/>
+      <key key="genus" value="Platycladus"/>
+      <key key="species" value="Platycladus orientalis"/>
+      <key key="genus:ja" value="コノテガシワ"/>
+      <key key="genus:en" value="Chinese Arborvitae"/>
+      <key key="taxon" value="species"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <link href="https://www.wikidata.org/wiki/Q33482"/>
       <reference ref="japan_trees"/>
     </item>
   </group>

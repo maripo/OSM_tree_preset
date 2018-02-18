@@ -23,15 +23,19 @@
 -	スズカケノキ	broadleaved (広葉樹)	Platanus	Platanus orientalis	スズカケノキ			no	deciduous (落葉樹)	Q161105
 -	コブシ	broadleaved (広葉樹)	Magnolia	Magnolia kobus	コブシ	Kobushi magnolia		no	deciduous (落葉樹)	Q942409
 -	ミズキ	broadleaved (広葉樹)	Cornus	Cornus controversa	ミズキ	giant dogwood		no	deciduous (落葉樹)	Q926249
+-	ハナミズキ	broadleaved (広葉樹)	Cornus	Cornus florida	ハナミズキ	flowering dogwood	species	no	deciduous (落葉樹)	Q887221
 -	キンモクセイ	broadleaved (広葉樹)	Osmanthus	Osmanthus fragrans var. aurantiacus	キンモクセイ	fragrant orange-colored olive		yes	evergreen (常緑樹)	Q1209922
+-	ヒイラギ	broadleaved (広葉樹)	Osmanthus	Osmanthus heterophyllus	ヒイラギ		species	no	evergreen (常緑樹)	Q2364246
 -	オリーブ	broadleaved (広葉樹)	Olea	Olea europaea	オリーブ	Olive		no	evergreen (常緑樹)	Q37083
 -	ユリノキ	broadleaved (広葉樹)	Liriodendron	Liriodendron tulipifera	ユリノキ	American tulip tree		no	deciduous (落葉樹)	Q158783
 -	ニセアカシア	broadleaved (広葉樹)	Robinia	Robinia pseudoacacia	ニセアカシア	Black locust		no	deciduous (落葉樹)	Q157417
 -	エンジュ	broadleaved (広葉樹)	Styphnolobium	Styphnolobium japonicum	エンジュ	Japanese Pagoda Tree		no	deciduous (落葉樹)	Q288558
 -	フジ	broadleaved (広葉樹)	Wisteria	Wisteria floribunda	フジ	Japanese wisteria		no	deciduous (落葉樹)	Q1329209
--	ビワ	broadleaved (広葉樹)	Eriobotrya	Eriobotrya japonica	ビワ	Loquat		no	evergreen (常緑樹)	Q41505
--	ツバキ	broadleaved (広葉樹)	Camellia	Camellia japonica	ツバキ	Japanese camellia		no	evergreen (常緑樹)	Q160121
+-	ビワ	broadleaved (広葉樹)	Eriobotrya	Eriobotrya japonica	ビワ	Loquat	species	no	evergreen (常緑樹)	Q41505
+-	ツバキ	broadleaved (広葉樹)	Camellia	Camellia japonica	ツバキ	Japanese camellia	species	no	evergreen (常緑樹)	Q160121
 -	サザンカ	broadleaved (広葉樹)	Camellia	Camellia sasanqua	サザンカ	Sasanqua	species	no	evergreen (常緑樹)	Q2590046
 -	ザクロ	broadleaved (広葉樹)	Punica	Punica granatum	ザクロ	Pomegranate	species	no	deciduous (落葉樹)	Q13188
 -	ツツジ	broadleaved (広葉樹)	Rhododendron		ツツジ	Azalea	genus	no		Q189393
 -	アジサイ	broadleaved (広葉樹)	Hydrangea	Hydrangea macrophylla	アジサイ	French hydrangea	species	no	deciduous (落葉樹)	Q159219
+-	ムクゲ	broadleaved (広葉樹)	Hibiscus	Hibiscus syriacus	ムクゲ	Rose of Sharon	species	no	deciduous (落葉樹)	Q157756
+-	コノテガシワ	needleleaved (針葉樹)	Platycladus	Platycladus orientalis	コノテガシワ	Chinese Arborvitae	species	no	evergreen (常緑樹)	Q33482
