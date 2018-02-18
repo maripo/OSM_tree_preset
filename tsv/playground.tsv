@@ -1,0 +1,18 @@
+階層	プリセット/名/グループ名	playground
++	公園の遊具	
+ -	アスレチック (の基本構造)	structure
+ -	すべり台	slide
+ -	ジャングルジム	climbingframe
+ -	砂場	sandpit
+ -	ブランコ	swing
+ -	かごブランコ	basketswing
+ -	鉄棒	horizontal_bar
+ -	バネの乗り物	springy
+ -	シーソー	seesaw
+ -	パネル遊具	activitypanel
+ -	子供用クライミングウォール	climbingwall
+ -	プレイハウス (おうち形の遊具)	playhouse
+ -	じゃぶじゃぶ池	splash_pad
+ -	ターザンロープ	zipwire
+ -	平均台	balancebeam
+ -	メリーゴーランド (手動)	roundabout
