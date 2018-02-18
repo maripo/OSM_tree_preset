@@ -5,7 +5,7 @@
     <text key="max_age" text="年齢上限 (歳)"/>
     <combo key="material" text="材質" values="wood,metal,concrete,plastic"/>
     <combo key="wheelchair" text="車椅子" values="yes,no,limited"/>
-    <check key="monument" text="乳幼児向け"/>
+    <check key="baby" text="乳幼児向け"/>
   </chunk>
   <group name="公園の遊具">
     <item name="アスレチック (の基本構造)" icon="presets/leisure/playground.svg">

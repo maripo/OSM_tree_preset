@@ -29,7 +29,7 @@ const COLUMNS = [
 			chunk.ele("text",{ "key":"max_age", "text":"年齢上限 (歳)" });
 			chunk.ele("combo",{ "key":"material", "text":"材質", "values":"wood,metal,concrete,plastic" });
 			chunk.ele("combo",{ "key":"wheelchair", "text":"車椅子", "values":"yes,no,limited" });
-			chunk.ele("check", {"key":"monument", "text":"乳幼児向け"});
+			chunk.ele("check", {"key":"baby", "text":"乳幼児向け"});
 		},
 		presetHeader: function (itemNode, values) {
 			itemNode.att("icon", "presets/leisure/playground.svg");
