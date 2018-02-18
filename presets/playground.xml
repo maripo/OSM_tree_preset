@@ -11,97 +11,97 @@
     <item name="アスレチック (の基本構造)" icon="presets/leisure/playground.svg">
       <label text="アスレチック (の基本構造)"/>
       <text key="name" text="名前"/>
-      <key key="genus" value="structure"/>
+      <key key="playground" value="structure"/>
       <reference ref="playground_common"/>
     </item>
     <item name="すべり台" icon="presets/leisure/playground.svg">
       <label text="すべり台"/>
       <text key="name" text="名前"/>
-      <key key="genus" value="slide"/>
+      <key key="playground" value="slide"/>
       <reference ref="playground_common"/>
     </item>
     <item name="ジャングルジム" icon="presets/leisure/playground.svg">
       <label text="ジャングルジム"/>
       <text key="name" text="名前"/>
-      <key key="genus" value="climbingframe"/>
+      <key key="playground" value="climbingframe"/>
       <reference ref="playground_common"/>
     </item>
     <item name="砂場" icon="presets/leisure/playground.svg">
       <label text="砂場"/>
       <text key="name" text="名前"/>
-      <key key="genus" value="sandpit"/>
+      <key key="playground" value="sandpit"/>
       <reference ref="playground_common"/>
     </item>
     <item name="ブランコ" icon="presets/leisure/playground.svg">
       <label text="ブランコ"/>
       <text key="name" text="名前"/>
-      <key key="genus" value="swing"/>
+      <key key="playground" value="swing"/>
       <reference ref="playground_common"/>
     </item>
     <item name="かごブランコ" icon="presets/leisure/playground.svg">
       <label text="かごブランコ"/>
       <text key="name" text="名前"/>
-      <key key="genus" value="basketswing"/>
+      <key key="playground" value="basketswing"/>
       <reference ref="playground_common"/>
     </item>
     <item name="鉄棒" icon="presets/leisure/playground.svg">
       <label text="鉄棒"/>
       <text key="name" text="名前"/>
-      <key key="genus" value="horizontal_bar"/>
+      <key key="playground" value="horizontal_bar"/>
       <reference ref="playground_common"/>
     </item>
     <item name="バネの乗り物" icon="presets/leisure/playground.svg">
       <label text="バネの乗り物"/>
       <text key="name" text="名前"/>
-      <key key="genus" value="springy"/>
+      <key key="playground" value="springy"/>
       <reference ref="playground_common"/>
     </item>
     <item name="シーソー" icon="presets/leisure/playground.svg">
       <label text="シーソー"/>
       <text key="name" text="名前"/>
-      <key key="genus" value="seesaw"/>
+      <key key="playground" value="seesaw"/>
       <reference ref="playground_common"/>
     </item>
     <item name="パネル遊具" icon="presets/leisure/playground.svg">
       <label text="パネル遊具"/>
       <text key="name" text="名前"/>
-      <key key="genus" value="activitypanel"/>
+      <key key="playground" value="activitypanel"/>
       <reference ref="playground_common"/>
     </item>
     <item name="子供用クライミングウォール" icon="presets/leisure/playground.svg">
       <label text="子供用クライミングウォール"/>
       <text key="name" text="名前"/>
-      <key key="genus" value="climbingwall"/>
+      <key key="playground" value="climbingwall"/>
       <reference ref="playground_common"/>
     </item>
     <item name="プレイハウス (おうち形の遊具)" icon="presets/leisure/playground.svg">
       <label text="プレイハウス (おうち形の遊具)"/>
       <text key="name" text="名前"/>
-      <key key="genus" value="playhouse"/>
+      <key key="playground" value="playhouse"/>
       <reference ref="playground_common"/>
     </item>
     <item name="じゃぶじゃぶ池" icon="presets/leisure/playground.svg">
       <label text="じゃぶじゃぶ池"/>
       <text key="name" text="名前"/>
-      <key key="genus" value="splash_pad"/>
+      <key key="playground" value="splash_pad"/>
       <reference ref="playground_common"/>
     </item>
     <item name="ターザンロープ" icon="presets/leisure/playground.svg">
       <label text="ターザンロープ"/>
       <text key="name" text="名前"/>
-      <key key="genus" value="zipwire"/>
+      <key key="playground" value="zipwire"/>
       <reference ref="playground_common"/>
     </item>
     <item name="平均台" icon="presets/leisure/playground.svg">
       <label text="平均台"/>
       <text key="name" text="名前"/>
-      <key key="genus" value="balancebeam"/>
+      <key key="playground" value="balancebeam"/>
       <reference ref="playground_common"/>
     </item>
     <item name="メリーゴーランド (手動)" icon="presets/leisure/playground.svg">
       <label text="メリーゴーランド (手動)"/>
       <text key="name" text="名前"/>
-      <key key="genus" value="roundabout"/>
+      <key key="playground" value="roundabout"/>
       <reference ref="playground_common"/>
     </item>
   </group>

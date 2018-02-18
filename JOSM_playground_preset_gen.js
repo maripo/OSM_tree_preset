@@ -10,7 +10,7 @@ const pg = require("./JOSM_preset_gen.js");
 
 const COLUMNS = [
 	new pg.FieldRootAttr("name"),
-	new pg.FieldText("genus")
+	new pg.FieldText("playground")
 ];
 
 (function(){
