@@ -27,9 +27,10 @@ const COLUMNS = [
 			let chunk = xml.ele("chunk",{"id":"playground_common"});
 			chunk.ele("text",{ "key":"min_age", "text":"年齢下限 (歳)" });
 			chunk.ele("text",{ "key":"max_age", "text":"年齢上限 (歳)" });
-			chunk.ele("combo",{ "key":"material", "text":"材質", "values":"wood,metal,concrete,plastic" });
-			chunk.ele("combo",{ "key":"wheelchair", "text":"車椅子", "values":"yes,no,limited" });
 			chunk.ele("check", {"key":"baby", "text":"乳幼児向け"});
+			chunk.ele("combo",{ "key":"wheelchair", "text":"車椅子", "values":"yes,no,limited" });
+			chunk.ele("combo",{ "key":"material", "text":"材質", "values":"wood,metal,concrete,plastic" });
+			chunk.ele("link", {"href":"https://wiki.openstreetmap.org/wiki/JA:Key:playground	"});
 		},
 		presetHeader: function (itemNode, values) {
 			itemNode.att("icon", "presets/leisure/playground.svg");

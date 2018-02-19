@@ -3,9 +3,10 @@
   <chunk id="playground_common">
     <text key="min_age" text="年齢下限 (歳)"/>
     <text key="max_age" text="年齢上限 (歳)"/>
-    <combo key="material" text="材質" values="wood,metal,concrete,plastic"/>
-    <combo key="wheelchair" text="車椅子" values="yes,no,limited"/>
     <check key="baby" text="乳幼児向け"/>
+    <combo key="wheelchair" text="車椅子" values="yes,no,limited"/>
+    <combo key="material" text="材質" values="wood,metal,concrete,plastic"/>
+    <link href="https://wiki.openstreetmap.org/wiki/JA:Key:playground&#x9;"/>
   </chunk>
   <group name="公園の遊具">
     <item name="アスレチック (の基本構造)" icon="presets/leisure/playground.svg">
@@ -74,8 +75,8 @@
       <key key="playground" value="climbingwall"/>
       <reference ref="playground_common"/>
     </item>
-    <item name="プレイハウス (おうち形の遊具)" icon="presets/leisure/playground.svg">
-      <label text="プレイハウス (おうち形の遊具)"/>
+    <item name="プレイハウス (おうちの形の遊具)" icon="presets/leisure/playground.svg">
+      <label text="プレイハウス (おうちの形の遊具)"/>
       <text key="name" text="名前"/>
       <key key="playground" value="playhouse"/>
       <reference ref="playground_common"/>
