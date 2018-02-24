@@ -15,8 +15,8 @@
       <key key="leaf_type" value="needleleaved"/>
       <key key="genus" value="Ginkgo"/>
       <key key="species" value="Ginkgo biloba"/>
-      <key key="genus:ja" value="イチョウ"/>
-      <key key="genus:en" value="Ginkgo"/>
+      <key key="species:ja" value="イチョウ"/>
+      <key key="species:en" value="Ginkgo"/>
       <key key="taxon" value="species"/>
       <combo key="sex" text="雌雄" values="male,female"/>
       <key key="leaf_cycle" value="deciduous"/>
@@ -29,8 +29,8 @@
       <key key="leaf_type" value="needleleaved"/>
       <key key="genus" value="Cryptomeria"/>
       <key key="species" value="Cryptomeria japonica"/>
-      <key key="genus:ja" value="スギ"/>
-      <key key="genus:en" value="Cryptomeria"/>
+      <key key="species:ja" value="スギ"/>
+      <key key="species:en" value="Cryptomeria"/>
       <key key="taxon" value="species"/>
       <key key="leaf_cycle" value="evergreen"/>
       <link href="https://www.wikidata.org/wiki/Q147388"/>
@@ -42,8 +42,8 @@
       <key key="leaf_type" value="needleleaved"/>
       <key key="genus" value="Cedrus"/>
       <key key="species" value="Cedrus deodara"/>
-      <key key="genus:ja" value="ヒマラヤスギ"/>
-      <key key="genus:en" value="Himalayan Cedar"/>
+      <key key="species:ja" value="ヒマラヤスギ"/>
+      <key key="species:en" value="Himalayan Cedar"/>
       <key key="taxon" value="species"/>
       <key key="leaf_cycle" value="evergreen"/>
       <link href="https://www.wikidata.org/wiki/Q146935"/>
@@ -55,8 +55,8 @@
         <text key="name" text="名前"/>
         <key key="leaf_type" value="needleleaved"/>
         <key key="genus" value="Pinus"/>
-        <key key="genus:ja" value="マツ"/>
-        <key key="genus:en" value="Pine"/>
+        <key key="species:ja" value="マツ"/>
+        <key key="species:en" value="Pine"/>
         <key key="taxon" value="genus"/>
         <key key="leaf_cycle" value="evergreen"/>
         <link href="https://www.wikidata.org/wiki/Q12024"/>
@@ -68,8 +68,8 @@
         <key key="leaf_type" value="needleleaved"/>
         <key key="genus" value="Pinus"/>
         <key key="species" value="Pinus densiflora"/>
-        <key key="genus:ja" value="アカマツ"/>
-        <key key="genus:en" value="Japanese Red Pine"/>
+        <key key="species:ja" value="アカマツ"/>
+        <key key="species:en" value="Japanese Red Pine"/>
         <key key="leaf_cycle" value="evergreen"/>
         <link href="https://www.wikidata.org/wiki/Q1044186"/>
         <reference ref="japan_trees"/>
@@ -80,8 +80,8 @@
         <key key="leaf_type" value="needleleaved"/>
         <key key="genus" value="Pinus"/>
         <key key="species" value="Pinus thunbergii"/>
-        <key key="genus:ja" value="クロマツ"/>
-        <key key="genus:en" value="Japanese Black Pine"/>
+        <key key="species:ja" value="クロマツ"/>
+        <key key="species:en" value="Japanese Black Pine"/>
         <key key="leaf_cycle" value="evergreen"/>
         <link href="https://www.wikidata.org/wiki/Q854884"/>
         <reference ref="japan_trees"/>
@@ -93,8 +93,8 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Cinnamomum"/>
       <key key="species" value="Cinnamomum camphora"/>
-      <key key="genus:ja" value="クスノキ"/>
-      <key key="genus:en" value="Camphorwood"/>
+      <key key="species:ja" value="クスノキ"/>
+      <key key="species:en" value="Camphorwood"/>
       <key key="leaf_cycle" value="evergreen"/>
       <link href="https://www.wikidata.org/wiki/Q158722"/>
       <reference ref="japan_trees"/>
@@ -105,8 +105,8 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Zelkova"/>
       <key key="species" value="Zelkova serrata"/>
-      <key key="genus:ja" value="ケヤキ"/>
-      <key key="genus:en" value="Japanese zelkova"/>
+      <key key="species:ja" value="ケヤキ"/>
+      <key key="species:en" value="Japanese zelkova"/>
       <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q920344"/>
       <reference ref="japan_trees"/>
@@ -117,8 +117,8 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Prunus"/>
       <key key="species" value="Prunus mume"/>
-      <key key="genus:ja" value="ウメ"/>
-      <key key="genus:en" value="Japanese apricot"/>
+      <key key="species:ja" value="ウメ"/>
+      <key key="species:en" value="Japanese apricot"/>
       <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q157763"/>
       <reference ref="japan_trees"/>
@@ -129,8 +129,8 @@
       <key key="leaf_type" value="needleleaved"/>
       <key key="genus" value="Chamaecyparis"/>
       <key key="species" value="Chamaecyparis obtusa"/>
-      <key key="genus:ja" value="ヒノキ"/>
-      <key key="genus:en" value="Japanese cypress"/>
+      <key key="species:ja" value="ヒノキ"/>
+      <key key="species:en" value="Japanese cypress"/>
       <key key="leaf_cycle" value="evergreen"/>
       <link href="https://www.wikidata.org/wiki/Q917187"/>
       <reference ref="japan_trees"/>
@@ -141,8 +141,8 @@
       <key key="leaf_type" value="needleleaved"/>
       <key key="genus" value="Metasequoia"/>
       <key key="species" value="Metasequoia glyptostroboides"/>
-      <key key="genus:ja" value="メタセコイア"/>
-      <key key="genus:en" value="Dawn redwood"/>
+      <key key="species:ja" value="メタセコイア"/>
+      <key key="species:en" value="Dawn redwood"/>
       <key key="leaf_cycle" value="evergreen"/>
       <link href="https://www.wikidata.org/wiki/Q156800"/>
       <reference ref="japan_trees"/>
@@ -153,8 +153,8 @@
         <text key="name" text="名前"/>
         <key key="leaf_type" value="broadleaved"/>
         <key key="genus" value="Cerasus"/>
-        <key key="genus:ja" value="サクラ"/>
-        <key key="genus:en" value="Cherry blossom"/>
+        <key key="species:ja" value="サクラ"/>
+        <key key="species:en" value="Cherry blossom"/>
         <key key="taxon" value="genus"/>
         <key key="leaf_cycle" value="deciduous"/>
         <link href="https://www.wikidata.org/wiki/Q871991"/>
@@ -166,7 +166,7 @@
         <key key="leaf_type" value="broadleaved"/>
         <key key="genus" value="Cerasus"/>
         <key key="species" value="Cerasus × yedoensis"/>
-        <key key="genus:ja" value="ソメイヨシノ"/>
+        <key key="species:ja" value="ソメイヨシノ"/>
         <key key="leaf_cycle" value="deciduous"/>
         <link href="https://www.wikidata.org/wiki/Q163078"/>
         <reference ref="japan_trees"/>
@@ -177,7 +177,7 @@
         <key key="leaf_type" value="broadleaved"/>
         <key key="genus" value="Cerasus"/>
         <key key="species" value="Cerasus jamasakura"/>
-        <key key="genus:ja" value="ヤマザクラ"/>
+        <key key="species:ja" value="ヤマザクラ"/>
         <key key="leaf_cycle" value="deciduous"/>
         <reference ref="japan_trees"/>
       </item>
@@ -188,8 +188,8 @@
         <text key="name" text="名前"/>
         <key key="leaf_type" value="broadleaved"/>
         <key key="genus" value="Salix"/>
-        <key key="genus:ja" value="ヤナギ"/>
-        <key key="genus:en" value="Willow"/>
+        <key key="species:ja" value="ヤナギ"/>
+        <key key="species:en" value="Willow"/>
         <key key="taxon" value="genus"/>
         <combo key="sex" text="雌雄" values="male,female"/>
         <key key="leaf_cycle" value="deciduous"/>
@@ -202,8 +202,8 @@
         <key key="leaf_type" value="broadleaved"/>
         <key key="genus" value="Salix"/>
         <key key="species" value="Salix babylonica"/>
-        <key key="genus:ja" value="シダレヤナギ"/>
-        <key key="genus:en" value="Weeping willow"/>
+        <key key="species:ja" value="シダレヤナギ"/>
+        <key key="species:en" value="Weeping willow"/>
         <combo key="sex" text="雌雄" values="male,female"/>
         <key key="leaf_cycle" value="deciduous"/>
         <link href="https://www.wikidata.org/wiki/Q156307"/>
@@ -215,8 +215,8 @@
       <text key="name" text="名前"/>
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Populus"/>
-      <key key="genus:ja" value="ポプラ"/>
-      <key key="genus:en" value="Poplar"/>
+      <key key="species:ja" value="ポプラ"/>
+      <key key="species:en" value="Poplar"/>
       <key key="taxon" value="genus"/>
       <combo key="sex" text="雌雄" values="male,female"/>
       <key key="leaf_cycle" value="deciduous"/>
@@ -229,8 +229,8 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Acer"/>
       <key key="species" value="Acer palmatum"/>
-      <key key="genus:ja" value="イロハモミジ"/>
-      <key key="genus:en" value="Japanese maple"/>
+      <key key="species:ja" value="イロハモミジ"/>
+      <key key="species:en" value="Japanese maple"/>
       <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q269224"/>
       <reference ref="japan_trees"/>
@@ -241,7 +241,7 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Platanus"/>
       <key key="species" value="Platanus orientalis"/>
-      <key key="genus:ja" value="スズカケノキ"/>
+      <key key="species:ja" value="スズカケノキ"/>
       <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q161105"/>
       <reference ref="japan_trees"/>
@@ -252,8 +252,8 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Magnolia"/>
       <key key="species" value="Magnolia kobus"/>
-      <key key="genus:ja" value="コブシ"/>
-      <key key="genus:en" value="Kobushi magnolia"/>
+      <key key="species:ja" value="コブシ"/>
+      <key key="species:en" value="Kobushi magnolia"/>
       <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q942409"/>
       <reference ref="japan_trees"/>
@@ -264,8 +264,8 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Cornus"/>
       <key key="species" value="Cornus controversa"/>
-      <key key="genus:ja" value="ミズキ"/>
-      <key key="genus:en" value="giant dogwood"/>
+      <key key="species:ja" value="ミズキ"/>
+      <key key="species:en" value="giant dogwood"/>
       <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q926249"/>
       <reference ref="japan_trees"/>
@@ -276,8 +276,8 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Cornus"/>
       <key key="species" value="Cornus florida"/>
-      <key key="genus:ja" value="ハナミズキ"/>
-      <key key="genus:en" value="flowering dogwood"/>
+      <key key="species:ja" value="ハナミズキ"/>
+      <key key="species:en" value="flowering dogwood"/>
       <key key="taxon" value="species"/>
       <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q887221"/>
@@ -289,8 +289,8 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Osmanthus"/>
       <key key="species" value="Osmanthus fragrans var. aurantiacus"/>
-      <key key="genus:ja" value="キンモクセイ"/>
-      <key key="genus:en" value="fragrant orange-colored olive"/>
+      <key key="species:ja" value="キンモクセイ"/>
+      <key key="species:en" value="fragrant orange-colored olive"/>
       <combo key="sex" text="雌雄" values="male,female"/>
       <key key="leaf_cycle" value="evergreen"/>
       <link href="https://www.wikidata.org/wiki/Q1209922"/>
@@ -302,7 +302,7 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Osmanthus"/>
       <key key="species" value="Osmanthus heterophyllus"/>
-      <key key="genus:ja" value="ヒイラギ"/>
+      <key key="species:ja" value="ヒイラギ"/>
       <key key="taxon" value="species"/>
       <key key="leaf_cycle" value="evergreen"/>
       <link href="https://www.wikidata.org/wiki/Q2364246"/>
@@ -314,8 +314,8 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Olea"/>
       <key key="species" value="Olea europaea"/>
-      <key key="genus:ja" value="オリーブ"/>
-      <key key="genus:en" value="Olive"/>
+      <key key="species:ja" value="オリーブ"/>
+      <key key="species:en" value="Olive"/>
       <key key="leaf_cycle" value="evergreen"/>
       <link href="https://www.wikidata.org/wiki/Q37083"/>
       <reference ref="japan_trees"/>
@@ -326,8 +326,8 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Liriodendron"/>
       <key key="species" value="Liriodendron tulipifera"/>
-      <key key="genus:ja" value="ユリノキ"/>
-      <key key="genus:en" value="American tulip tree"/>
+      <key key="species:ja" value="ユリノキ"/>
+      <key key="species:en" value="American tulip tree"/>
       <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q158783"/>
       <reference ref="japan_trees"/>
@@ -338,8 +338,8 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Robinia"/>
       <key key="species" value="Robinia pseudoacacia"/>
-      <key key="genus:ja" value="ニセアカシア"/>
-      <key key="genus:en" value="Black locust"/>
+      <key key="species:ja" value="ニセアカシア"/>
+      <key key="species:en" value="Black locust"/>
       <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q157417"/>
       <reference ref="japan_trees"/>
@@ -350,8 +350,8 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Styphnolobium"/>
       <key key="species" value="Styphnolobium japonicum"/>
-      <key key="genus:ja" value="エンジュ"/>
-      <key key="genus:en" value="Japanese Pagoda Tree"/>
+      <key key="species:ja" value="エンジュ"/>
+      <key key="species:en" value="Japanese Pagoda Tree"/>
       <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q288558"/>
       <reference ref="japan_trees"/>
@@ -362,8 +362,8 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Wisteria"/>
       <key key="species" value="Wisteria floribunda"/>
-      <key key="genus:ja" value="フジ"/>
-      <key key="genus:en" value="Japanese wisteria"/>
+      <key key="species:ja" value="フジ"/>
+      <key key="species:en" value="Japanese wisteria"/>
       <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q1329209"/>
       <reference ref="japan_trees"/>
@@ -374,8 +374,8 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Eriobotrya"/>
       <key key="species" value="Eriobotrya japonica"/>
-      <key key="genus:ja" value="ビワ"/>
-      <key key="genus:en" value="Loquat"/>
+      <key key="species:ja" value="ビワ"/>
+      <key key="species:en" value="Loquat"/>
       <key key="taxon" value="species"/>
       <key key="leaf_cycle" value="evergreen"/>
       <link href="https://www.wikidata.org/wiki/Q41505"/>
@@ -387,8 +387,8 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Camellia"/>
       <key key="species" value="Camellia japonica"/>
-      <key key="genus:ja" value="ツバキ"/>
-      <key key="genus:en" value="Japanese camellia"/>
+      <key key="species:ja" value="ツバキ"/>
+      <key key="species:en" value="Japanese camellia"/>
       <key key="taxon" value="species"/>
       <key key="leaf_cycle" value="evergreen"/>
       <link href="https://www.wikidata.org/wiki/Q160121"/>
@@ -400,8 +400,8 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Camellia"/>
       <key key="species" value="Camellia sasanqua"/>
-      <key key="genus:ja" value="サザンカ"/>
-      <key key="genus:en" value="Sasanqua"/>
+      <key key="species:ja" value="サザンカ"/>
+      <key key="species:en" value="Sasanqua"/>
       <key key="taxon" value="species"/>
       <key key="leaf_cycle" value="evergreen"/>
       <link href="https://www.wikidata.org/wiki/Q2590046"/>
@@ -413,8 +413,8 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Punica"/>
       <key key="species" value="Punica granatum"/>
-      <key key="genus:ja" value="ザクロ"/>
-      <key key="genus:en" value="Pomegranate"/>
+      <key key="species:ja" value="ザクロ"/>
+      <key key="species:en" value="Pomegranate"/>
       <key key="taxon" value="species"/>
       <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q13188"/>
@@ -425,8 +425,8 @@
       <text key="name" text="名前"/>
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Rhododendron"/>
-      <key key="genus:ja" value="ツツジ"/>
-      <key key="genus:en" value="Azalea"/>
+      <key key="species:ja" value="ツツジ"/>
+      <key key="species:en" value="Azalea"/>
       <key key="taxon" value="genus"/>
       <link href="https://www.wikidata.org/wiki/Q189393"/>
       <reference ref="japan_trees"/>
@@ -437,8 +437,8 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Hydrangea"/>
       <key key="species" value="Hydrangea macrophylla"/>
-      <key key="genus:ja" value="アジサイ"/>
-      <key key="genus:en" value="French hydrangea"/>
+      <key key="species:ja" value="アジサイ"/>
+      <key key="species:en" value="French hydrangea"/>
       <key key="taxon" value="species"/>
       <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q159219"/>
@@ -450,8 +450,8 @@
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Hibiscus"/>
       <key key="species" value="Hibiscus syriacus"/>
-      <key key="genus:ja" value="ムクゲ"/>
-      <key key="genus:en" value="Rose of Sharon"/>
+      <key key="species:ja" value="ムクゲ"/>
+      <key key="species:en" value="Rose of Sharon"/>
       <key key="taxon" value="species"/>
       <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q157756"/>
@@ -463,8 +463,8 @@
       <key key="leaf_type" value="needleleaved"/>
       <key key="genus" value="Platycladus"/>
       <key key="species" value="Platycladus orientalis"/>
-      <key key="genus:ja" value="コノテガシワ"/>
-      <key key="genus:en" value="Chinese Arborvitae"/>
+      <key key="species:ja" value="コノテガシワ"/>
+      <key key="species:en" value="Chinese Arborvitae"/>
       <key key="taxon" value="species"/>
       <key key="leaf_cycle" value="evergreen"/>
       <link href="https://www.wikidata.org/wiki/Q33482"/>
