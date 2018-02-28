@@ -11,6 +11,7 @@
 -	ウメ	broadleaved (広葉樹)	Prunus	Prunus mume	ウメ	Japanese apricot	Prunus mume	no	deciduous (落葉樹)	Q157763
 -	ヒノキ	needleleaved (針葉樹)	Chamaecyparis	Chamaecyparis obtusa	ヒノキ	Japanese cypress	Chamaecyparis obtusa	no	evergreen (常緑樹)	Q917187
 -	メタセコイア	needleleaved (針葉樹)	Metasequoia	Metasequoia glyptostroboides	メタセコイア	Dawn redwood	Metasequoia glyptostroboides	no	evergreen (常緑樹)	Q156800
+-	モミ	needleleaved (針葉樹)	Abies	Abies firma	モミ	Momi Fir	Abies firma	no	evergreen (常緑樹)	Q1718147
 +	サクラ									
  -	サクラ (総称)	broadleaved (広葉樹)	Cerasus		サクラ	Cherry blossom		no	deciduous (落葉樹)	Q871991
  -	ソメイヨシノ	broadleaved (広葉樹)	Cerasus	Cerasus × yedoensis	ソメイヨシノ		Cerasus × yedoensis	no	deciduous (落葉樹)	Q163078
@@ -31,6 +32,7 @@
 -	ユリノキ	broadleaved (広葉樹)	Liriodendron	Liriodendron tulipifera	ユリノキ	American tulip tree	Liriodendron tulipifera	no	deciduous (落葉樹)	Q158783
 -	ニセアカシア	broadleaved (広葉樹)	Robinia	Robinia pseudoacacia	ニセアカシア	Black locust	Robinia pseudoacacia	no	deciduous (落葉樹)	Q157417
 -	エンジュ	broadleaved (広葉樹)	Styphnolobium	Styphnolobium japonicum	エンジュ	Japanese Pagoda Tree	Styphnolobium japonicum	no	deciduous (落葉樹)	Q288558
+-	ヤマモモ	broadleaved (広葉樹)	Morella	Morella rubra	ヤマモモ	Myrica rubra	Morella rubra	no	evergreen (常緑樹)	Q311617
 -	フジ	broadleaved (広葉樹)	Wisteria	Wisteria floribunda	フジ	Japanese wisteria	Wisteria floribunda	no	deciduous (落葉樹)	Q1329209
 -	ビワ	broadleaved (広葉樹)	Eriobotrya	Eriobotrya japonica	ビワ	Loquat	Eriobotrya japonica	no	evergreen (常緑樹)	Q41505
 -	ツバキ	broadleaved (広葉樹)	Camellia	Camellia japonica	ツバキ	Japanese camellia	Camellia japonica	no	evergreen (常緑樹)	Q160121
@@ -42,3 +44,4 @@
 -	コノテガシワ	needleleaved (針葉樹)	Platycladus	Platycladus orientalis	コノテガシワ	Chinese Arborvitae	Platycladus orientalis	no	evergreen (常緑樹)	Q33482
 -	エゴノキ	broadleaved (広葉樹)	Styrax	Styrax japonica	エゴノキ	Japanese snowbell		no	deciduous (落葉樹)	
 -	クヌギ	broadleaved (広葉樹)	Quercus	Quercus acutissima	クヌギ	Sawtooth Oak		no	deciduous (落葉樹)	Q1034859
+-	ヤマモモ	broadleaved (広葉樹)	Morella	Morella rubra	ヤマモモ	Myrica rubra	Morella rubra	no	evergreen (常緑樹)	Q311617

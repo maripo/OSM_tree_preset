@@ -153,6 +153,19 @@
       <link href="https://www.wikidata.org/wiki/Q156800"/>
       <reference ref="japan_trees"/>
     </item>
+    <item name="モミ" icon="presets/landmark/trees_conifer.svg">
+      <label text="モミ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="needleleaved"/>
+      <key key="genus" value="Abies"/>
+      <key key="species" value="Abies firma"/>
+      <key key="species:ja" value="モミ"/>
+      <key key="species:en" value="Momi Fir"/>
+      <key key="taxon" value="Abies firma"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <link href="https://www.wikidata.org/wiki/Q1718147"/>
+      <reference ref="japan_trees"/>
+    </item>
     <group name="サクラ">
       <item name="サクラ (総称)" icon="presets/landmark/trees.svg">
         <label text="サクラ (総称)"/>
@@ -382,6 +395,19 @@
       <link href="https://www.wikidata.org/wiki/Q288558"/>
       <reference ref="japan_trees"/>
     </item>
+    <item name="ヤマモモ" icon="presets/landmark/trees.svg">
+      <label text="ヤマモモ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Morella"/>
+      <key key="species" value="Morella rubra"/>
+      <key key="species:ja" value="ヤマモモ"/>
+      <key key="species:en" value="Myrica rubra"/>
+      <key key="taxon" value="Morella rubra"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <link href="https://www.wikidata.org/wiki/Q311617"/>
+      <reference ref="japan_trees"/>
+    </item>
     <item name="フジ" icon="presets/landmark/trees.svg">
       <label text="フジ"/>
       <text key="name" text="名前"/>
@@ -517,6 +543,19 @@
       <key key="species:en" value="Sawtooth Oak"/>
       <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q1034859"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="ヤマモモ" icon="presets/landmark/trees.svg">
+      <label text="ヤマモモ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Morella"/>
+      <key key="species" value="Morella rubra"/>
+      <key key="species:ja" value="ヤマモモ"/>
+      <key key="species:en" value="Myrica rubra"/>
+      <key key="taxon" value="Morella rubra"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <link href="https://www.wikidata.org/wiki/Q311617"/>
       <reference ref="japan_trees"/>
     </item>
   </group>
