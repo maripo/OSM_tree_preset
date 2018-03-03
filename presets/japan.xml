@@ -278,6 +278,18 @@
       <link href="https://www.wikidata.org/wiki/Q161105"/>
       <reference ref="japan_trees"/>
     </item>
+    <item name="エゴノキ" icon="presets/landmark/trees.svg">
+      <label text="エゴノキ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Styrax"/>
+      <key key="species" value="Styrax japonica"/>
+      <key key="species:ja" value="エゴノキ"/>
+      <key key="species:en" value="Japanese snowbell"/>
+      <key key="taxon" value="Styrax japonica"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <reference ref="japan_trees"/>
+    </item>
     <item name="コブシ" icon="presets/landmark/trees.svg">
       <label text="コブシ"/>
       <text key="name" text="名前"/>
