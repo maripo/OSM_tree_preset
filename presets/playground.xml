@@ -4,6 +4,7 @@
     <text key="min_age" text="年齢下限 (歳)"/>
     <text key="max_age" text="年齢上限 (歳)"/>
     <check key="baby" text="乳幼児向け"/>
+    <text key="playground:theme" text="テーマ・モチーフ"/>
     <combo key="wheelchair" text="車椅子" values="yes,no,limited"/>
     <combo key="material" text="材質" values="wood,metal,concrete,plastic"/>
     <link href="https://wiki.openstreetmap.org/wiki/JA:Key:playground&#x9;"/>
