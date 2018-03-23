@@ -8,6 +8,10 @@
  -	クロマツ	needleleaved (針葉樹)	Pinus	Pinus thunbergii	クロマツ	Japanese Black Pine	Pinus thunbergii	no	evergreen (常緑樹)	Q854884
 -	クスノキ	broadleaved (広葉樹)	Cinnamomum	Cinnamomum camphora	クスノキ	Camphorwood	Cinnamomum camphora	no	evergreen (常緑樹)	Q158722
 -	ケヤキ	broadleaved (広葉樹)	Zelkova	Zelkova serrata	ケヤキ	Japanese zelkova	Zelkova serrata	no	deciduous (落葉樹)	Q920344
+-	クヌギ	broadleaved (広葉樹)	Quercus	Quercus acutissima	クヌギ	Sawtooth Oak		no	deciduous (落葉樹)	Q1034859
+-	カシワ	broadleaved (広葉樹)	Quercus	Quercus dentata	カシワ	Daimyo Oak	Quercus dentata	no	deciduous (落葉樹)	Q1377319
+-	シラカシ	broadleaved (広葉樹)	Quercus	Quercus myrsinifolia	シラカシ	Bamboo-leaf oak	Quercus myrsinifolia	no	evergreen (常緑樹)	Q1075985
+-	カツラ	broadleaved (広葉樹)	Cercidiphyllum	Cercidiphyllum japonicum	カツラ	Katsura	Cercidiphyllum japonicum	no	deciduous (落葉樹)	Q526549
 -	ウメ	broadleaved (広葉樹)	Prunus	Prunus mume	ウメ	Japanese apricot	Prunus mume	no	deciduous (落葉樹)	Q157763
 -	ヒノキ	needleleaved (針葉樹)	Chamaecyparis	Chamaecyparis obtusa	ヒノキ	Japanese cypress	Chamaecyparis obtusa	no	evergreen (常緑樹)	Q917187
 -	メタセコイア	needleleaved (針葉樹)	Metasequoia	Metasequoia glyptostroboides	メタセコイア	Dawn redwood	Metasequoia glyptostroboides	no	evergreen (常緑樹)	Q156800
@@ -27,6 +31,7 @@
 -	コブシ	broadleaved (広葉樹)	Magnolia	Magnolia kobus	コブシ	Kobushi magnolia	Magnolia kobus	no	deciduous (落葉樹)	Q942409
 -	ミズキ	broadleaved (広葉樹)	Cornus	Cornus controversa	ミズキ	giant dogwood	Cornus controversa	no	deciduous (落葉樹)	Q926249
 -	ハナミズキ	broadleaved (広葉樹)	Cornus	Cornus florida	ハナミズキ	flowering dogwood	Cornus florida	no	deciduous (落葉樹)	Q887221
+-	ヤマボウシ	broadleaved (広葉樹)	Cornus	Cornus kousa	ヤマボウシ	Kousa Dogwood	Cornus kousa	no	deciduous (落葉樹)	Q728441
 -	キンモクセイ	broadleaved (広葉樹)	Osmanthus	Osmanthus fragrans	キンモクセイ	fragrant orange-colored olive	Osmanthus fragrans var. aurantiacus	yes	evergreen (常緑樹)	Q1209922
 -	ヒイラギ	broadleaved (広葉樹)	Osmanthus	Osmanthus heterophyllus	ヒイラギ		Osmanthus heterophyllus	no	evergreen (常緑樹)	Q2364246
 -	オリーブ	broadleaved (広葉樹)	Olea	Olea europaea	オリーブ	Olive	Olea europaea	no	evergreen (常緑樹)	Q37083
@@ -43,6 +48,3 @@
 -	アジサイ	broadleaved (広葉樹)	Hydrangea	Hydrangea macrophylla	アジサイ	French hydrangea	Hydrangea macrophylla	no	deciduous (落葉樹)	Q159219
 -	ムクゲ	broadleaved (広葉樹)	Hibiscus	Hibiscus syriacus	ムクゲ	Rose of Sharon	Hibiscus syriacus	no	deciduous (落葉樹)	Q157756
 -	コノテガシワ	needleleaved (針葉樹)	Platycladus	Platycladus orientalis	コノテガシワ	Chinese Arborvitae	Platycladus orientalis	no	evergreen (常緑樹)	Q33482
--	エゴノキ	broadleaved (広葉樹)	Styrax	Styrax japonica	エゴノキ	Japanese snowbell		no	deciduous (落葉樹)	
--	クヌギ	broadleaved (広葉樹)	Quercus	Quercus acutissima	クヌギ	Sawtooth Oak		no	deciduous (落葉樹)	Q1034859
--	ヤマモモ	broadleaved (広葉樹)	Morella	Morella rubra	ヤマモモ	Myrica rubra	Morella rubra	no	evergreen (常緑樹)	Q311617

@@ -114,6 +114,57 @@
       <link href="https://www.wikidata.org/wiki/Q920344"/>
       <reference ref="japan_trees"/>
     </item>
+    <item name="クヌギ" icon="presets/landmark/trees.svg">
+      <label text="クヌギ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Quercus"/>
+      <key key="species" value="Quercus acutissima"/>
+      <key key="species:ja" value="クヌギ"/>
+      <key key="species:en" value="Sawtooth Oak"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <link href="https://www.wikidata.org/wiki/Q1034859"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="カシワ" icon="presets/landmark/trees.svg">
+      <label text="カシワ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Quercus"/>
+      <key key="species" value="Quercus dentata"/>
+      <key key="species:ja" value="カシワ"/>
+      <key key="species:en" value="Daimyo Oak"/>
+      <key key="taxon" value="Quercus dentata"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <link href="https://www.wikidata.org/wiki/Q1377319"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="シラカシ" icon="presets/landmark/trees.svg">
+      <label text="シラカシ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Quercus"/>
+      <key key="species" value="Quercus myrsinifolia"/>
+      <key key="species:ja" value="シラカシ"/>
+      <key key="species:en" value="Bamboo-leaf oak"/>
+      <key key="taxon" value="Quercus myrsinifolia"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <link href="https://www.wikidata.org/wiki/Q1075985"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="カツラ" icon="presets/landmark/trees.svg">
+      <label text="カツラ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Cercidiphyllum"/>
+      <key key="species" value="Cercidiphyllum japonicum"/>
+      <key key="species:ja" value="カツラ"/>
+      <key key="species:en" value="Katsura"/>
+      <key key="taxon" value="Cercidiphyllum japonicum"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <link href="https://www.wikidata.org/wiki/Q526549"/>
+      <reference ref="japan_trees"/>
+    </item>
     <item name="ウメ" icon="presets/landmark/trees.svg">
       <label text="ウメ"/>
       <text key="name" text="名前"/>
@@ -329,6 +380,19 @@
       <link href="https://www.wikidata.org/wiki/Q887221"/>
       <reference ref="japan_trees"/>
     </item>
+    <item name="ヤマボウシ" icon="presets/landmark/trees.svg">
+      <label text="ヤマボウシ"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Cornus"/>
+      <key key="species" value="Cornus kousa"/>
+      <key key="species:ja" value="ヤマボウシ"/>
+      <key key="species:en" value="Kousa Dogwood"/>
+      <key key="taxon" value="Cornus kousa"/>
+      <key key="leaf_cycle" value="deciduous"/>
+      <link href="https://www.wikidata.org/wiki/Q728441"/>
+      <reference ref="japan_trees"/>
+    </item>
     <item name="キンモクセイ" icon="presets/landmark/trees.svg">
       <label text="キンモクセイ"/>
       <text key="name" text="名前"/>
@@ -532,42 +596,6 @@
       <key key="taxon" value="Platycladus orientalis"/>
       <key key="leaf_cycle" value="evergreen"/>
       <link href="https://www.wikidata.org/wiki/Q33482"/>
-      <reference ref="japan_trees"/>
-    </item>
-    <item name="エゴノキ" icon="presets/landmark/trees.svg">
-      <label text="エゴノキ"/>
-      <text key="name" text="名前"/>
-      <key key="leaf_type" value="broadleaved"/>
-      <key key="genus" value="Styrax"/>
-      <key key="species" value="Styrax japonica"/>
-      <key key="species:ja" value="エゴノキ"/>
-      <key key="species:en" value="Japanese snowbell"/>
-      <key key="leaf_cycle" value="deciduous"/>
-      <reference ref="japan_trees"/>
-    </item>
-    <item name="クヌギ" icon="presets/landmark/trees.svg">
-      <label text="クヌギ"/>
-      <text key="name" text="名前"/>
-      <key key="leaf_type" value="broadleaved"/>
-      <key key="genus" value="Quercus"/>
-      <key key="species" value="Quercus acutissima"/>
-      <key key="species:ja" value="クヌギ"/>
-      <key key="species:en" value="Sawtooth Oak"/>
-      <key key="leaf_cycle" value="deciduous"/>
-      <link href="https://www.wikidata.org/wiki/Q1034859"/>
-      <reference ref="japan_trees"/>
-    </item>
-    <item name="ヤマモモ" icon="presets/landmark/trees.svg">
-      <label text="ヤマモモ"/>
-      <text key="name" text="名前"/>
-      <key key="leaf_type" value="broadleaved"/>
-      <key key="genus" value="Morella"/>
-      <key key="species" value="Morella rubra"/>
-      <key key="species:ja" value="ヤマモモ"/>
-      <key key="species:en" value="Myrica rubra"/>
-      <key key="taxon" value="Morella rubra"/>
-      <key key="leaf_cycle" value="evergreen"/>
-      <link href="https://www.wikidata.org/wiki/Q311617"/>
       <reference ref="japan_trees"/>
     </item>
   </group>
