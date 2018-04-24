@@ -200,7 +200,7 @@
       <key key="species:ja" value="メタセコイア"/>
       <key key="species:en" value="Dawn redwood"/>
       <key key="taxon" value="Metasequoia glyptostroboides"/>
-      <key key="leaf_cycle" value="evergreen"/>
+      <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q156800"/>
       <reference ref="japan_trees"/>
     </item>
@@ -596,6 +596,17 @@
       <key key="taxon" value="Platycladus orientalis"/>
       <key key="leaf_cycle" value="evergreen"/>
       <link href="https://www.wikidata.org/wiki/Q33482"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="カナリーヤシ (フェニックス)" icon="presets/landmark/trees.svg">
+      <label text="カナリーヤシ (フェニックス)"/>
+      <text key="name" text="名前"/>
+      <key key="genus" value="Phoenix"/>
+      <key key="species" value="Phoenix canariensis"/>
+      <key key="species:ja" value="カナリーヤシ"/>
+      <key key="taxon" value="Phoenix canariensis"/>
+      <key key="leaf_cycle" value="evergreen"/>
+      <link href="https://www.wikidata.org/wiki/Q27657"/>
       <reference ref="japan_trees"/>
     </item>
   </group>

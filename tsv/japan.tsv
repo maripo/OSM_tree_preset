@@ -14,7 +14,7 @@
 -	カツラ	broadleaved (広葉樹)	Cercidiphyllum	Cercidiphyllum japonicum	カツラ	Katsura	Cercidiphyllum japonicum	no	deciduous (落葉樹)	Q526549
 -	ウメ	broadleaved (広葉樹)	Prunus	Prunus mume	ウメ	Japanese apricot	Prunus mume	no	deciduous (落葉樹)	Q157763
 -	ヒノキ	needleleaved (針葉樹)	Chamaecyparis	Chamaecyparis obtusa	ヒノキ	Japanese cypress	Chamaecyparis obtusa	no	evergreen (常緑樹)	Q917187
--	メタセコイア	needleleaved (針葉樹)	Metasequoia	Metasequoia glyptostroboides	メタセコイア	Dawn redwood	Metasequoia glyptostroboides	no	evergreen (常緑樹)	Q156800
+-	メタセコイア	needleleaved (針葉樹)	Metasequoia	Metasequoia glyptostroboides	メタセコイア	Dawn redwood	Metasequoia glyptostroboides	no	deciduous (落葉樹)	Q156800
 -	モミ	needleleaved (針葉樹)	Abies	Abies firma	モミ	Momi Fir	Abies firma	no	evergreen (常緑樹)	Q1718147
 +	サクラ									
  -	サクラ (総称)	broadleaved (広葉樹)	Cerasus		サクラ	Cherry blossom		no	deciduous (落葉樹)	Q871991
@@ -48,3 +48,4 @@
 -	アジサイ	broadleaved (広葉樹)	Hydrangea	Hydrangea macrophylla	アジサイ	French hydrangea	Hydrangea macrophylla	no	deciduous (落葉樹)	Q159219
 -	ムクゲ	broadleaved (広葉樹)	Hibiscus	Hibiscus syriacus	ムクゲ	Rose of Sharon	Hibiscus syriacus	no	deciduous (落葉樹)	Q157756
 -	コノテガシワ	needleleaved (針葉樹)	Platycladus	Platycladus orientalis	コノテガシワ	Chinese Arborvitae	Platycladus orientalis	no	evergreen (常緑樹)	Q33482
+-	カナリーヤシ (フェニックス)		Phoenix	Phoenix canariensis	カナリーヤシ		Phoenix canariensis	no	evergreen (常緑樹)	Q27657
