@@ -7,6 +7,7 @@
 */
 
 const pg = require("./JOSM_preset_gen.js");
+const dateFormat = require('dateformat');
 
 const COLUMNS = [
 	new pg.FieldRootAttr("name"),
@@ -36,7 +37,8 @@ function isNeedleleaved (values) {
 		preset_attrs : {
 			author : "Maripo GODA and contributors",
 			description : "日本でよく見られる樹木のプリセットです",
-			shortdescription : "日本の樹木"
+			shortdescription : "日本の樹木",
+			version: dateFormat(new Date(), "yyyymmddHHMM")
 		},
 		columns: COLUMNS,
 		add_chunks : function (xml) {
