@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Maripo GODA and contributors" description="日本でよく見られる樹木のプリセットです" shortdescription="日本の樹木" version="201804242349">
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Maripo GODA and contributors" description="日本でよく見られる樹木のプリセットです" shortdescription="日本の樹木" version="201806252056">
   <chunk id="japan_trees">
     <text key="operator" text="運営者"/>
     <text key="ref" text="参照番号"/>
@@ -391,6 +391,18 @@
       <key key="taxon" value="Cornus kousa"/>
       <key key="leaf_cycle" value="deciduous"/>
       <link href="https://www.wikidata.org/wiki/Q728441"/>
+      <reference ref="japan_trees"/>
+    </item>
+    <item name="マロニエ (セイヨウトチノキ)" icon="presets/landmark/trees.svg">
+      <label text="マロニエ (セイヨウトチノキ)"/>
+      <text key="name" text="名前"/>
+      <key key="leaf_type" value="broadleaved"/>
+      <key key="genus" value="Aesculus"/>
+      <key key="species" value="Aesculus hippocastanum"/>
+      <key key="species:ja" value="マロニエ"/>
+      <key key="species:en" value="Horse-chestnut"/>
+      <key key="taxon" value="Aesculus hippocastanum"/>
+      <key key="leaf_cycle" value="deciduous"/>
       <reference ref="japan_trees"/>
     </item>
     <item name="キンモクセイ" icon="presets/landmark/trees.svg">
