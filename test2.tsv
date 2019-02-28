@@ -1,0 +1,52 @@
+階層	プリセット/名/グループ名	leaf_type (葉の種類)	genus (属)	species (学名)	species:ja (日本語名)	species:en (英語名)	species:ko(韓国語名)	taxon (分類名)	sex (雌雄)	leaf_cycle (葉の季節変化)	Wikidata ID	韓国語名
+-	イチョウ	needleleaved (針葉樹)	Ginkgo	Ginkgo biloba	イチョウ	Ginkgo	은행나무	Ginkgo biloba	yes	deciduous (落葉樹)	Q43284	은행나무
+-	スギ	needleleaved (針葉樹)	Cryptomeria	Cryptomeria japonica	スギ	Cryptomeria	삼나무	Cryptomeria japonica	no	evergreen (常緑樹)	Q147388	삼나무
+-	ヒマラヤスギ	needleleaved (針葉樹)	Cedrus	Cedrus deodara	ヒマラヤスギ	Himalayan Cedar	개잎갈나무	Cedrus deodara	no	evergreen (常緑樹)	Q146935	개잎갈나무
++	マツ											소나무
+ -	マツ (総称)	needleleaved (針葉樹)	Pinus		マツ	Pine	소나무		no	evergreen (常緑樹)	Q12024	소나무(총칭)
+ -	アカマツ	needleleaved (針葉樹)	Pinus	Pinus densiflora	アカマツ	Japanese Red Pine	적송	Pinus densiflora	no	evergreen (常緑樹)	Q1044186	적송
+ -	クロマツ	needleleaved (針葉樹)	Pinus	Pinus thunbergii	クロマツ	Japanese Black Pine	흑송	Pinus thunbergii	no	evergreen (常緑樹)	Q854884	흑송
+-	クスノキ	broadleaved (広葉樹)	Cinnamomum	Cinnamomum camphora	クスノキ	Camphorwood	녹나무	Cinnamomum camphora	no	evergreen (常緑樹)	Q158722	녹나무
+-	ケヤキ	broadleaved (広葉樹)	Zelkova	Zelkova serrata	ケヤキ	Japanese zelkova	느티나무	Zelkova serrata	no	deciduous (落葉樹)	Q920344	느티나무
+-	クヌギ	broadleaved (広葉樹)	Quercus	Quercus acutissima	クヌギ	Sawtooth Oak	상수리나무		no	deciduous (落葉樹)	Q1034859	상수리나무
+-	カシワ	broadleaved (広葉樹)	Quercus	Quercus dentata	カシワ	Daimyo Oak	떡갈나무	Quercus dentata	no	deciduous (落葉樹)	Q1377319	떡갈나무
+-	シラカシ	broadleaved (広葉樹)	Quercus	Quercus myrsinifolia	シラカシ	Bamboo-leaf oak	가시나무	Quercus myrsinifolia	no	evergreen (常緑樹)	Q1075985	가시나무
+-	カツラ	broadleaved (広葉樹)	Cercidiphyllum	Cercidiphyllum japonicum	カツラ	Katsura	계수나무	Cercidiphyllum japonicum	no	deciduous (落葉樹)	Q526549	계수나무
+-	ウメ	broadleaved (広葉樹)	Prunus	Prunus mume	ウメ	Japanese apricot	매실나무	Prunus mume	no	deciduous (落葉樹)	Q157763	매실나무
+-	ヒノキ	needleleaved (針葉樹)	Chamaecyparis	Chamaecyparis obtusa	ヒノキ	Japanese cypress	편백나무	Chamaecyparis obtusa	no	evergreen (常緑樹)	Q917187	편백나무
+-	メタセコイア	needleleaved (針葉樹)	Metasequoia	Metasequoia glyptostroboides	メタセコイア	Dawn redwood	메타세콰이아	Metasequoia glyptostroboides	no	deciduous (落葉樹)	Q156800	메타세콰이아
+-	モミ	needleleaved (針葉樹)	Abies	Abies firma	モミ	Momi Fir	전나무	Abies firma	no	evergreen (常緑樹)	Q1718147	전나무
++	サクラ											벚나무
+ -	サクラ (総称)	broadleaved (広葉樹)	Cerasus		サクラ	Cherry blossom	벚나무		no	deciduous (落葉樹)	Q871991	벚나무(총칭)
+ -	ソメイヨシノ	broadleaved (広葉樹)	Cerasus	Cerasus × yedoensis	ソメイヨシノ		왕벚나무	Cerasus × yedoensis	no	deciduous (落葉樹)	Q163078	왕벚나무
+ -	ヤマザクラ	broadleaved (広葉樹)	Cerasus	Cerasus jamasakura	ヤマザクラ		산벚나무	Cerasus jamasakura	no	deciduous (落葉樹)		산벚나무
+ -	エドヒガン	broadleaved (広葉樹)	Cerasus	Cerasus itosakura	エドヒガン		올벚나무	Cerasus itosakura (Sieb.) Masam. & Suzuki	no	deciduous (落葉樹)		올벚나무
++	ヤナギ											버드나무
+ -	ヤナギ (総称)	broadleaved (広葉樹)	Salix		ヤナギ	Willow	버드나무		yes	deciduous (落葉樹)	Q36050	버드나무(총칭)
+ -	シダレヤナギ	broadleaved (広葉樹)	Salix	Salix babylonica	シダレヤナギ	Weeping willow	수양버들	Salix babylonica	yes	deciduous (落葉樹)	Q156307	수양버들
+-	ポプラ (総称)	broadleaved (広葉樹)	Populus		ポプラ	Poplar	사시나무		yes	deciduous (落葉樹)	Q25356	사시나무(총칭)
+-	イロハモミジ	broadleaved (広葉樹)	Acer	Acer palmatum	イロハモミジ	Japanese maple	단풍나무	Acer palmatum	no	deciduous (落葉樹)	Q269224	단풍나무
+-	スズカケノキ	broadleaved (広葉樹)	Platanus	Platanus orientalis	スズカケノキ		버즘나무	Platanus orientalis	no	deciduous (落葉樹)	Q161105	버즘나무
+-	エゴノキ	broadleaved (広葉樹)	Styrax	Styrax japonica	エゴノキ	Japanese snowbell	때죽나무	Styrax japonica	no	deciduous (落葉樹)	Q910419	때죽나무
+-	コブシ	broadleaved (広葉樹)	Magnolia	Magnolia kobus	コブシ	Kobushi magnolia	목련	Magnolia kobus	no	deciduous (落葉樹)	Q942409	목련
+-	ミズキ	broadleaved (広葉樹)	Cornus	Cornus controversa	ミズキ	giant dogwood	층층나무	Cornus controversa	no	deciduous (落葉樹)	Q926249	층층나무
+-	ハナミズキ	broadleaved (広葉樹)	Cornus	Cornus florida	ハナミズキ	flowering dogwood	서양산딸나무	Cornus florida	no	deciduous (落葉樹)	Q887221	서양산딸나무
+-	ヤマボウシ	broadleaved (広葉樹)	Cornus	Cornus kousa	ヤマボウシ	Kousa Dogwood	산딸나무	Cornus kousa	no	deciduous (落葉樹)	Q728441	산딸나무
+-	マロニエ (セイヨウトチノキ)	broadleaved (広葉樹)	Aesculus	Aesculus hippocastanum	マロニエ	Horse-chestnut	마로니에	Aesculus hippocastanum	no	deciduous (落葉樹)		마로니에
+-	キンモクセイ	broadleaved (広葉樹)	Osmanthus	Osmanthus fragrans	キンモクセイ	fragrant orange-colored olive	목서	Osmanthus fragrans var. aurantiacus	yes	evergreen (常緑樹)	Q1209922	목서
+-	ヒイラギ	broadleaved (広葉樹)	Osmanthus	Osmanthus heterophyllus	ヒイラギ		구골나무	Osmanthus heterophyllus	no	evergreen (常緑樹)	Q2364246	구골나무
+-	オリーブ	broadleaved (広葉樹)	Olea	Olea europaea	オリーブ	Olive	올리브나무	Olea europaea	no	evergreen (常緑樹)	Q37083	올리브나무
+-	ユリノキ	broadleaved (広葉樹)	Liriodendron	Liriodendron tulipifera	ユリノキ	American tulip tree	튤립나무	Liriodendron tulipifera	no	deciduous (落葉樹)	Q158783	튤립나무
+-	ニセアカシア	broadleaved (広葉樹)	Robinia	Robinia pseudoacacia	ニセアカシア	Black locust	아까시나무	Robinia pseudoacacia	no	deciduous (落葉樹)	Q157417	아까시나무
+-	エンジュ	broadleaved (広葉樹)	Styphnolobium	Styphnolobium japonicum	エンジュ	Japanese Pagoda Tree	회화나무	Styphnolobium japonicum	no	deciduous (落葉樹)	Q288558	회화나무
+-	ヤマモモ	broadleaved (広葉樹)	Morella	Morella rubra	ヤマモモ	Myrica rubra	소귀나무	Morella rubra	no	evergreen (常緑樹)	Q311617	소귀나무
+-	フジ	broadleaved (広葉樹)	Wisteria	Wisteria floribunda	フジ	Japanese wisteria	등나무	Wisteria floribunda	no	deciduous (落葉樹)	Q1329209	등나무
+-	ビワ	broadleaved (広葉樹)	Eriobotrya	Eriobotrya japonica	ビワ	Loquat	비파나무	Eriobotrya japonica	no	evergreen (常緑樹)	Q41505	비파나무
+-	ツバキ	broadleaved (広葉樹)	Camellia	Camellia japonica	ツバキ	Japanese camellia	동백나무	Camellia japonica	no	evergreen (常緑樹)	Q160121	동백나무
+-	サザンカ	broadleaved (広葉樹)	Camellia	Camellia sasanqua	サザンカ	Sasanqua	애기동백나무	Camellia sasanqua	no	evergreen (常緑樹)	Q2590046	애기동백나무
+-	ザクロ	broadleaved (広葉樹)	Punica	Punica granatum	ザクロ	Pomegranate	석류나무	Punica granatum	no	deciduous (落葉樹)	Q13188	석류나무
+-	ツツジ	broadleaved (広葉樹)	Rhododendron		ツツジ	Azalea	진달래		no		Q189393	진달래
+-	アジサイ	broadleaved (広葉樹)	Hydrangea	Hydrangea macrophylla	アジサイ	French hydrangea	수국	Hydrangea macrophylla	no	deciduous (落葉樹)	Q159219	수국
+-	ムクゲ	broadleaved (広葉樹)	Hibiscus	Hibiscus syriacus	ムクゲ	Rose of Sharon	무궁화	Hibiscus syriacus	no	deciduous (落葉樹)	Q157756	무궁화
+-	コノテガシワ	needleleaved (針葉樹)	Platycladus	Platycladus orientalis	コノテガシワ	Chinese Arborvitae	측백나무	Platycladus orientalis	no	evergreen (常緑樹)	Q33482	측백나무
+-	カナリーヤシ (フェニックス)		Phoenix	Phoenix canariensis	カナリーヤシ		카나리야자	Phoenix canariensis	no	evergreen (常緑樹)	Q27657	카나리야자

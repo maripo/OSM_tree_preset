@@ -18,7 +18,7 @@ const COLUMNS = [
 	new pg.FieldText("species:en"),
 	new pg.FieldText("species:ko"),
 	new pg.FieldText("taxon"),
-	new pg.FieldCombo("sex", "雌雄", ["male","female"]),
+	new pg.FieldCombo("sex", "雌雄", ["male","female"], "성별"),
 	new pg.FieldAnnotatedText("leaf_cycle"),
 	new pg.FieldLink()
 ];
@@ -35,6 +35,7 @@ function isNeedleleaved (values) {
 	
 	let conf = {
 		name: "樹木",
+		nameKo: "수목",
 		preset_attrs : {
 			author : "Maripo GODA and contributors",
 			description : "日本でよく見られる樹木のプリセットです",

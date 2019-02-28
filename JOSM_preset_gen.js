@@ -22,10 +22,15 @@ function read (file, onSuccess, onError) {
 
 class Group {
 	constructor (values) {
-		this.name = values[0];
+		this.values = values;
 	}
 	appendNodeTo (parentNode) {
-		return parentNode.ele("group",{name:this.name});
+		let GroupName = this.values[0]
+		let GroupNameKo = null;
+		if (arguments[1]) {
+			GroupNameKo = this.values[arguments[1]];
+		}
+		return parentNode.ele("group",{"name":GroupName, "ko.name":GroupNameKo});
 	}
 }
 
@@ -36,7 +41,11 @@ class Preset {
 	appendNodeTo (parentNode, conf) {
 		let columns = conf.columns;
 		let presetName = this.values[0];
-		let itemNode = parentNode.ele("item", {"name":presetName});
+		let presetNameKo = null;
+		if (arguments[2]) {
+			presetNameKo = this.values[arguments[2]];
+		}
+		let itemNode = parentNode.ele("item", {"name":presetName, "ko.name":presetNameKo});
 		
 		if (conf.presetHeader) {
 			conf.presetHeader(itemNode, this.values);
@@ -90,7 +99,11 @@ function generateXML (content, conf) {
 	// Container of all trees
 	let group;
 	if (conf.name) {
-		group = xml.ele("group", {"name":conf.name});
+		if (conf.nameKo) {
+			group = xml.ele("group", {"name":conf.name, "ko.name":conf.nameKo});
+		} else {
+			group = xml.ele("group", {"name":conf.name});
+		}
 	} else {
 		group = xml;
 	}
@@ -102,10 +115,10 @@ function generateXML (content, conf) {
 		let pathStr = values.splice(0, 1);
 		let path = parseHierarchy(pathStr);
 		if (path.type==PATH_TYPE_ITEM) {
-			breadcrumb[path.depth+1] = new Preset(values).appendNodeTo(breadcrumb[path.depth], conf);
+			breadcrumb[path.depth+1] = new Preset(values).appendNodeTo(breadcrumb[path.depth], conf, 6);
 		}
 		 else {
-		 	breadcrumb[path.depth+1] = new Group(values).appendNodeTo(breadcrumb[path.depth]);
+		 	breadcrumb[path.depth+1] = new Group(values).appendNodeTo(breadcrumb[path.depth], 11);
 		 }
 	}
 	return xml;
@@ -176,10 +189,17 @@ exports.FieldCombo = class FieldCombo {
 		this.key = key;
 		this.label = label;
 		this.values = values;
+		if (arguments[3]) {
+			this.labelKo = arguments[3];
+		}
 	}
 	append (node, value) {
 		if (value == "yes") {
-			node.ele("combo", {"key":this.key, "text":this.label, "values":this.values.join(",")});
+			if (this.labelKo) {
+				node.ele("combo", {"key":this.key, "text":this.label, "ko.text":this.labelKo, "values":this.values.join(",")});
+			} else {
+				node.ele("combo", {"key":this.key, "text":this.label, "values":this.values.join(",")});
+			}
 		}
 	}
 }
