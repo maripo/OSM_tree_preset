@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Maripo GODA and contributors" description="日本でよく見られる樹木のプリセットです" shortdescription="日本の樹木" ko.description="일본에서 자주 볼 수 있는 수목 프리셋입니다" ko.shortdescription="일본의 수목" version="201902281522">
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Maripo GODA and contributors" description="日本でよく見られる樹木のプリセットです" shortdescription="日本の樹木" ko.description="일본에서 자주 볼 수 있는 수목 프리셋입니다" ko.shortdescription="일본의 수목" version="201902281525">
   <chunk id="japan_trees">
     <text key="operator" text="運営者" ko.text="관리자"/>
     <text key="ref" text="参照番号" ko.text="참조 번호"/>

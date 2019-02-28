@@ -25,13 +25,13 @@ class Group {
 		this.values = values;
 	}
 	appendNodeTo (parentNode) {
-		let GroupName = this.values[0]
-		let GroupNameKo = null;
+		let groupName = this.values[0]
+		let groupNameKo = null;
 		if (arguments[1]) {
-			GroupNameKo = this.values[arguments[1]];
-			return parentNode.ele("group",{"name":GroupName, "ko.name":GroupNameKo});
+			groupNameKo = this.values[arguments[1]];
+			return parentNode.ele("group",{"name":groupName, "ko.name":groupNameKo});
 		} else {
-			return parentNode.ele("group",{"name":GroupName});
+			return parentNode.ele("group",{"name":groupName});
 		}
 	}
 }
