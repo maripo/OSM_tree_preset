@@ -29,8 +29,10 @@ class Group {
 		let GroupNameKo = null;
 		if (arguments[1]) {
 			GroupNameKo = this.values[arguments[1]];
+			return parentNode.ele("group",{"name":GroupName, "ko.name":GroupNameKo});
+		} else {
+			return parentNode.ele("group",{"name":GroupName});
 		}
-		return parentNode.ele("group",{"name":GroupName, "ko.name":GroupNameKo});
 	}
 }
 
@@ -42,11 +44,13 @@ class Preset {
 		let columns = conf.columns;
 		let presetName = this.values[0];
 		let presetNameKo = null;
+		let itemNode;
 		if (arguments[2]) {
 			presetNameKo = this.values[arguments[2]];
+			itemNode = parentNode.ele("item", {"name":presetName, "ko.name":presetNameKo});
+		} else {
+			itemNode = parentNode.ele("item", {"name":presetName});
 		}
-		let itemNode = parentNode.ele("item", {"name":presetName, "ko.name":presetNameKo});
-		
 		if (conf.presetHeader) {
 			conf.presetHeader(itemNode, this.values);
 		}
