@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Maripo GODA and contributors" description="日本でよく見られる樹木のプリセットです" shortdescription="日本の樹木" ko.description="일본에서 자주 볼 수 있는 수목 프리셋입니다" ko.shortdescription="일본의 수목" version="201902281525">
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Maripo GODA and contributors" description="日本でよく見られる樹木のプリセットです" shortdescription="日本の樹木" ko.description="일본에서 자주 볼 수 있는 수목 프리셋입니다" ko.shortdescription="일본의 수목" version="201902281533">
   <chunk id="japan_trees">
     <text key="operator" text="運営者" ko.text="관리자"/>
     <text key="ref" text="参照番号" ko.text="참조 번호"/>
@@ -53,8 +53,8 @@
       <reference ref="japan_trees"/>
     </item>
     <group name="マツ" ko.name="소나무">
-      <item name="マツ (総称)" ko.name="소나무" icon="presets/landmark/trees_conifer.svg">
-        <label text="マツ (総称)" ko.text="소나무"/>
+      <item name="マツ (総称)" ko.name="소나무(총칭)" icon="presets/landmark/trees_conifer.svg">
+        <label text="マツ (総称)" ko.text="소나무(총칭)"/>
         <text key="name" text="名前" ko.text="이름"/>
         <key key="leaf_type" value="needleleaved"/>
         <key key="genus" value="Pinus"/>
@@ -234,8 +234,8 @@
       <reference ref="japan_trees"/>
     </item>
     <group name="サクラ" ko.name="벚나무">
-      <item name="サクラ (総称)" ko.name="벚나무" icon="presets/landmark/trees.svg">
-        <label text="サクラ (総称)" ko.text="벚나무"/>
+      <item name="サクラ (総称)" ko.name="벚나무(총칭)" icon="presets/landmark/trees.svg">
+        <label text="サクラ (総称)" ko.text="벚나무(총칭)"/>
         <text key="name" text="名前" ko.text="이름"/>
         <key key="leaf_type" value="broadleaved"/>
         <key key="genus" value="Cerasus"/>
@@ -285,8 +285,8 @@
       </item>
     </group>
     <group name="ヤナギ" ko.name="버드나무">
-      <item name="ヤナギ (総称)" ko.name="버드나무" icon="presets/landmark/trees.svg">
-        <label text="ヤナギ (総称)" ko.text="버드나무"/>
+      <item name="ヤナギ (総称)" ko.name="버드나무(총칭)" icon="presets/landmark/trees.svg">
+        <label text="ヤナギ (総称)" ko.text="버드나무(총칭)"/>
         <text key="name" text="名前" ko.text="이름"/>
         <key key="leaf_type" value="broadleaved"/>
         <key key="genus" value="Salix"/>
@@ -314,8 +314,8 @@
         <reference ref="japan_trees"/>
       </item>
     </group>
-    <item name="ポプラ (総称)" ko.name="사시나무" icon="presets/landmark/trees.svg">
-      <label text="ポプラ (総称)" ko.text="사시나무"/>
+    <item name="ポプラ (総称)" ko.name="사시나무(총칭)" icon="presets/landmark/trees.svg">
+      <label text="ポプラ (総称)" ko.text="사시나무(총칭)"/>
       <text key="name" text="名前" ko.text="이름"/>
       <key key="leaf_type" value="broadleaved"/>
       <key key="genus" value="Populus"/>

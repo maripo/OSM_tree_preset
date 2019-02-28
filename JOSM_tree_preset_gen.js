@@ -58,7 +58,7 @@ function isNeedleleaved (values) {
 		presetHeader: function (itemNode, values) {
 			
 			itemNode.att("icon", isNeedleleaved(values)?"presets/landmark/trees_conifer.svg":"presets/landmark/trees.svg");
-			itemNode.ele("label", {"text":values[0], "ko.text":values[6]});
+			itemNode.ele("label", {"text":values[0], "ko.text":values[11]});
 			itemNode.ele("text",{ "key":"name", "text":"名前", "ko.text":"이름" });
 		
 		},

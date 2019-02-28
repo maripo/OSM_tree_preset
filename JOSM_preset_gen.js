@@ -119,7 +119,7 @@ function generateXML (content, conf) {
 		let pathStr = values.splice(0, 1);
 		let path = parseHierarchy(pathStr);
 		if (path.type==PATH_TYPE_ITEM) {
-			breadcrumb[path.depth+1] = new Preset(values).appendNodeTo(breadcrumb[path.depth], conf, 6);
+			breadcrumb[path.depth+1] = new Preset(values).appendNodeTo(breadcrumb[path.depth], conf, 11);
 		}
 		 else {
 		 	breadcrumb[path.depth+1] = new Group(values).appendNodeTo(breadcrumb[path.depth], 11);
