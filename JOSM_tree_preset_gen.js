@@ -2,7 +2,7 @@
 	JOSM_tree_preset_gen.js
 	Yet Another Tree Preset Generator for JOSM
 	for Node.js v6 or later
-	
+
 	Author: Maripo GODA
 */
 
@@ -32,14 +32,14 @@ function isNeedleleaved (values) {
 	return false;
 }
 (function(){
-	
+
 	let conf = {
 		name: "樹木",
 		nameKo: "수목",
 		preset_attrs : {
 			author : "Maripo GODA and contributors",
-			description : "日本でよく見られる樹木のプリセットです",
-			shortdescription : "日本の樹木",
+			description : "東アジアでよく見られる樹木のプリセットです",
+			shortdescription : "東アジアの樹木",
 			"ko.description": "일본에서 자주 볼 수 있는 수목 프리셋입니다",
 			"ko.shortdescription": "일본의 수목",
 			version: dateFormat(new Date(), "yyyymmddHHMM")
@@ -56,15 +56,15 @@ function isNeedleleaved (values) {
 			chunk.ele("check", {"key":"monument", "text":"記念樹", "ko.text":"기념수"});
 		},
 		presetHeader: function (itemNode, values) {
-			
+
 			itemNode.att("icon", isNeedleleaved(values)?"presets/landmark/trees_conifer.svg":"presets/landmark/trees.svg");
 			itemNode.ele("label", {"text":values[0], "ko.text":values[11]});
 			itemNode.ele("text",{ "key":"name", "text":"名前", "ko.text":"이름" });
-		
+
 		},
 		presetFooter: function (itemNode, values) {
 			itemNode.ele("reference", {"ref":"japan_trees"});
-		
+
 		}
 	};
 	pg.generatePresets(conf);
