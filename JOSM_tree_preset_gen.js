@@ -7,7 +7,7 @@
 */
 
 const pg = require("./JOSM_preset_gen.js");
-const dateFormat = require('dateformat');
+
 
 const COLUMNS = [
 	new pg.FieldRootAttr("name"),
@@ -31,6 +31,17 @@ function isNeedleleaved (values) {
 	}
 	return false;
 }
+function formatDate(d = new Date()) {
+  const pad = (n) => n.toString().padStart(2, "0");
+  return (
+    d.getFullYear().toString() +
+    pad(d.getMonth() + 1) +
+    pad(d.getDate()) +
+    pad(d.getHours()) +
+    pad(d.getMinutes())
+  );
+}
+
 (function(){
 
 	let conf = {
@@ -42,7 +53,7 @@ function isNeedleleaved (values) {
 			shortdescription : "東アジアの樹木",
 			"ko.description": "일본에서 자주 볼 수 있는 수목 프리셋입니다",
 			"ko.shortdescription": "일본의 수목",
-			version: dateFormat(new Date(), "yyyymmddHHMM")
+			version: formatDate(new Date(), "yyyymmddHHMM")
 		},
 		columns: COLUMNS,
 		add_chunks : function (xml) {
