@@ -27,7 +27,7 @@ class Group {
 	appendNodeTo (parentNode) {
 		let groupName = this.values[0]
 		let groupNameKo = null;
-		if (arguments[1]) {
+		if (arguments[1] && this.values[arguments[1]]) {
 			groupNameKo = this.values[arguments[1]];
 			return parentNode.ele("group",{"name":groupName, "ko.name":groupNameKo});
 		} else {
@@ -45,7 +45,7 @@ class Preset {
 		let presetName = this.values[0];
 		let presetNameKo = null;
 		let itemNode;
-		if (arguments[2]) {
+		if (arguments[2] && this.values[arguments[2]]) {
 			presetNameKo = this.values[arguments[2]];
 			itemNode = parentNode.ele("item", {"name":presetName, "ko.name":presetNameKo});
 		} else {
@@ -87,6 +87,7 @@ function parseHierarchy (str) {
 
 function generateXML (content, conf) {
 	let lines = content.split("\n");
+	const prepareRow = conf.prepareRows ? conf.prepareRows(lines[0].replace(/\r$/, "").split("\t")) : values => values;
 	
 	let xml = builder.create("presets");
 	xml.att("xmlns","http://josm.openstreetmap.de/tagging-preset-1.0");
@@ -115,7 +116,8 @@ function generateXML (content, conf) {
 	let breadcrumb = [group];
 	let depth = 0;
 	for (let i=1; i<lines.length; i++) {
-		let values = lines[i].replace("\r","").replace("\n","").split("\t");
+		if (!lines[i].trim()) continue;
+		let values = prepareRow(lines[i].replace(/\r$/, "").split("\t"));
 		let pathStr = values.splice(0, 1);
 		let path = parseHierarchy(pathStr);
 		if (path.type==PATH_TYPE_ITEM) {

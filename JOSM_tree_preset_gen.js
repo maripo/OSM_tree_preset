@@ -23,6 +23,26 @@ const COLUMNS = [
 	new pg.FieldLink()
 ];
 
+// Resolve columns by header: regional TSVs have different optional columns.
+const HEADERS = [
+	"プリセット/名/グループ名", "leaf_type", "genus", "species",
+	"species:ja", "species:en", "species:ko", "taxon", "sex",
+	"leaf_cycle", "Wikidata ID", "韓国語名"
+];
+function prepareRows(headers) {
+	const names = headers.map(header => header.trim().replace(/\s*\(.*\)$/, ""));
+	const indices = HEADERS.map(name => names.indexOf(name));
+	["階層", "プリセット/名/グループ名", "leaf_type", "genus", "species",
+	 "species:ja", "species:en", "taxon", "sex", "leaf_cycle"].forEach(name => {
+		if (names.indexOf(name) < 0) {
+			throw new Error("Missing TSV column: " + name);
+		}
+	});
+	return values => [values[names.indexOf("階層")]].concat(
+		indices.map(index => index < 0 ? "" : (values[index] || ""))
+	);
+}
+
 function isNeedleleaved (values) {
 	for (let i=0; i<values.length; i++) {
 		if (values[i].indexOf("needleleaved")>=0) {
@@ -56,6 +76,7 @@ function formatDate(d = new Date()) {
 			version: formatDate(new Date(), "yyyymmddHHMM")
 		},
 		columns: COLUMNS,
+		prepareRows: prepareRows,
 		add_chunks : function (xml) {
 			// Default fields
 			let chunk = xml.ele("chunk",{"id":"japan_trees"});
@@ -69,7 +90,8 @@ function formatDate(d = new Date()) {
 		presetHeader: function (itemNode, values) {
 
 			itemNode.att("icon", isNeedleleaved(values)?"presets/landmark/trees_conifer.svg":"presets/landmark/trees.svg");
-			itemNode.ele("label", {"text":values[0], "ko.text":values[11]});
+			const label = itemNode.ele("label", {"text":values[0]});
+			if (values[11]) label.att("ko.text", values[11]);
 			itemNode.ele("text",{ "key":"name", "text":"名前", "ko.text":"이름" });
 
 		},
